@@ -8,7 +8,7 @@ base::library(tidyverse)
 base::library(gridExtra)
 base::library(readr)
 base::library(lubridate)
-base::library(strinigr)
+base::library(stringr)
 base::library(knitr)
 
 #-------------------------------------------------------------------------------
@@ -46,7 +46,7 @@ coronavirus_country <- function(country){
   # Deaths:
   deaths <- readr::read_csv(base::paste(base::getwd(), "Data", "time_series_covid19_deaths_global.csv", sep = "/"))
   columns_number <- base::ncol(deaths)
-  base::colnames(deaths) <- base::c("Province_State", "Country", "Latitude", "Longitude", DATES)[1:columns_number]
+  base::colnames(deaths) <- base::c("Province_State", "Country", "Latitude", "Longitude", dates)[1:columns_number]
   deaths %>%
     dplyr::mutate(Latitude = NULL,
                   Longitude = NULL) %>%
@@ -66,7 +66,7 @@ coronavirus_country <- function(country){
   # Recovered:
   recovered <- readr::read_csv(base::paste(base::getwd(), "Data", "time_series_covid19_recovered_global.csv", sep = "/"))
   columns_number <- base::ncol(recovered)
-  base::colnames(recovered) <- base::c("Province_State", "Country", "Latitude", "Longitude", DATES)[1:columns_number]
+  base::colnames(recovered) <- base::c("Province_State", "Country", "Latitude", "Longitude", dates)[1:columns_number]
   recovered %>%
     dplyr::mutate(Latitude = NULL,
                   Longitude = NULL) %>%
@@ -114,7 +114,7 @@ coronavirus_country <- function(country){
     ggplot2::labs(x = "Date",
                   y = "Count",
                   title = base::paste(stringr::str_to_upper(country), "- cumulative statistics"),
-                  caption = base::paste0(DATES[1], " - ", DATES[columns_number - 4]),
+                  caption = base::paste0(dates[1], " - ", dates[columns_number - 4]),
                   colour = "Type: ") +
     ggplot2::scale_colour_manual(values = base::c("Confirmed" = "black", "Deaths" = "red", "Recovered" = "green", "Active" = "blue")) +
     ggplot2::facet_grid(~Type) +
@@ -154,7 +154,7 @@ coronavirus_country <- function(country){
     ggplot2::labs(x = "Date",
                   y = "Count",
                   title = base::paste(stringr::str_to_upper(country), "- day-to-day fluctuations"),
-                  caption = base::paste0(DATES[1], " - ", DATES[columns_number - 4]),
+                  caption = base::paste0(dates[1], " - ", dates[columns_number - 4]),
                   colour = "Type: ") +
     ggplot2::scale_colour_manual(values = base::c("New_Confirmed" = "black", "New_Deaths" = "red", "New_Recovered" = "green", "New_Active" = "blue")) + 
     ggplot2::facet_grid(~Type) +
@@ -199,7 +199,7 @@ coronavirus_country <- function(country){
     ggplot2::labs(x = "Date",
                   y = "Percentage",
                   title = base::paste(stringr::str_to_upper(country), "- ratio"),
-                  caption = base::paste0(DATES[1], " - ", DATES[columns_number - 4]),
+                  caption = base::paste0(dates[1], " - ", dates[columns_number - 4]),
                   colour = "Type: ") +
     ggplot2::facet_grid(rows = dplyr::vars(Type)) +
     ggplot2::theme(plot.title = ggplot2::element_text(size = 12, color = "black", face = "bold", hjust = 0.5, vjust = 0.5),
