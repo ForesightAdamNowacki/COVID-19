@@ -250,7 +250,7 @@ coronavirus_country <- function(country){
 
 #-------------------------------------------------------------------------------
 # Test function - analyse particular coutry:
-coronavirus_country("US")
+coronavirus_country("China")
 
 #-------------------------------------------------------------------------------
 # Available countries list:
