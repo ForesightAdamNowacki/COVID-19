@@ -1,6 +1,8 @@
 #-------------------------------------------------------------------------------
-# AUTOMATICALY ANALYSE INDICATED COUNTRY:
+# AUTOMATICALY ANALYSE SELECTED COUNTRY:
 #-------------------------------------------------------------------------------
+# Prerequisites:
+# Run file Data_Import.R to update data for analysis
 
 #-------------------------------------------------------------------------------
 # libraries:
@@ -18,7 +20,7 @@ base::Sys.setlocale("LC_TIME", "C")
 
 #-------------------------------------------------------------------------------
 # Function:
-coronavirus_country <- function(country){
+coronavirus_country <- function(country, save_stats = FALSE, save_plots = FALSE){
   
   dates <- base::as.character(base::seq(from = lubridate::as_date("2020-01-22"), to = lubridate::as_date(Sys.Date()), by = 1))
   
@@ -245,12 +247,21 @@ coronavirus_country <- function(country){
     knitr::kable() %>%
     base::print()
   
+  #-------------------------------------------------------------------------------
+  # Save final results:
+  if (save_stats == TRUE){
+    concatenated_2 %>%
+      readr::write_csv2(base::paste("Results", base::paste0(country, ".csv"), sep = "/"))}
+  
+  if (save_plots == TRUE){
+      ggplot2::ggsave(base::paste("Results", base::paste0(country, ".png"), sep = "/"), plots, width = 40, height = 30, units = "cm")}
+  
   base::invisible(concatenated_2)
 }
 
 #-------------------------------------------------------------------------------
 # Test function - analyse particular coutry:
-coronavirus_country("China")
+coronavirus_country("US")
 
 #-------------------------------------------------------------------------------
 # Available countries list:
@@ -259,3 +270,24 @@ readr::read_csv(base::paste(base::getwd(), "Data", "time_series_covid19_confirme
   dplyr::pull() %>%
   base::unique() %>%
   base::sort() -> countries; countries
+
+#-------------------------------------------------------------------------------
+# Export statistics and plots for selected countries:
+selected_countries <- base::c("Italy", "US", "Russia", "Germany", "China", "United Kingdom",
+                              "France", "Portugal", "Poland", "Brazil", "Iran", "Argentina",
+                              "Canada", "Japan", "Sweden", "Norway", "Austria", "Australia")
+selected_countries <- base::sort(selected_countries); selected_countries
+
+if (base::all(selected_countries %in% countries) == TRUE){
+  for (i in base::seq_along(selected_countries)){
+    coronavirus_country(country = selected_countries[i], save_stats = TRUE, save_plots = TRUE)}
+} else {
+  if (base::length(selected_countries[base::which(selected_countries %in% countries == FALSE)]) == 1){
+    base::cat("ERROR: Selected country does not exist in countries list:", selected_countries[base::which(selected_countries %in% countries == FALSE)])
+  } else {
+    base::cat("ERROR: Selected countries do not exist in countries list:", selected_countries[base::which(selected_countries %in% countries == FALSE)])
+  }
+}
+
+# ------------------------------------------------------------------------------
+# https://github.com/ForesightAdamNowacki
