@@ -261,7 +261,7 @@ coronavirus_country <- function(country, save_stats = FALSE, save_plots = FALSE)
 
 #-------------------------------------------------------------------------------
 # Test function - analyse particular coutry:
-coronavirus_country("US")
+coronavirus_country("Poland")
 
 #-------------------------------------------------------------------------------
 # Available countries list:
@@ -275,7 +275,8 @@ readr::read_csv(base::paste(base::getwd(), "Data", "time_series_covid19_confirme
 # Export statistics and plots for selected countries:
 selected_countries <- base::c("Italy", "US", "Russia", "Germany", "China", "United Kingdom",
                               "France", "Portugal", "Poland", "Brazil", "Iran", "Argentina",
-                              "Canada", "Japan", "Sweden", "Norway", "Austria", "Australia")
+                              "Canada", "Japan", "Sweden", "Norway", "Austria", "Australia",
+                              "Spain", "Ukraine", "Finland")
 selected_countries <- base::sort(selected_countries); selected_countries
 
 if (base::all(selected_countries %in% countries) == TRUE){
