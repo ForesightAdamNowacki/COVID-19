@@ -1,0 +1,79 @@
+Country;Date;Confirmed;New_Confirmed;Deaths;New_Deaths;Recovered;New_Recovered;Active;New_Active;Year;Month;Day;Week_Day;Deaths_Ratio;Recovered_Ratio;Active_Ratio;Day_Since_1st_Confirmed;Day_Since_100st_Confirmed
+Papua New Guinea;2020-03-20;1;1;0;0;0;0;1; 1;2020;marzec;20;piątek;0;0;1; 1;0
+Papua New Guinea;2020-03-21;1;0;0;0;0;0;1; 0;2020;marzec;21;sobota;0;0;1; 2;0
+Papua New Guinea;2020-03-22;1;0;0;0;0;0;1; 0;2020;marzec;22;niedziela;0;0;1; 3;0
+Papua New Guinea;2020-03-23;1;0;0;0;0;0;1; 0;2020;marzec;23;poniedziałek;0;0;1; 4;0
+Papua New Guinea;2020-03-24;1;0;0;0;0;0;1; 0;2020;marzec;24;wtorek;0;0;1; 5;0
+Papua New Guinea;2020-03-25;1;0;0;0;0;0;1; 0;2020;marzec;25;środa;0;0;1; 6;0
+Papua New Guinea;2020-03-26;1;0;0;0;0;0;1; 0;2020;marzec;26;czwartek;0;0;1; 7;0
+Papua New Guinea;2020-03-27;1;0;0;0;0;0;1; 0;2020;marzec;27;piątek;0;0;1; 8;0
+Papua New Guinea;2020-03-28;1;0;0;0;0;0;1; 0;2020;marzec;28;sobota;0;0;1; 9;0
+Papua New Guinea;2020-03-29;1;0;0;0;0;0;1; 0;2020;marzec;29;niedziela;0;0;1;10;0
+Papua New Guinea;2020-03-30;1;0;0;0;0;0;1; 0;2020;marzec;30;poniedziałek;0;0;1;11;0
+Papua New Guinea;2020-03-31;1;0;0;0;0;0;1; 0;2020;marzec;31;wtorek;0;0;1;12;0
+Papua New Guinea;2020-04-01;1;0;0;0;0;0;1; 0;2020;kwiecień; 1;środa;0;0;1;13;0
+Papua New Guinea;2020-04-02;1;0;0;0;0;0;1; 0;2020;kwiecień; 2;czwartek;0;0;1;14;0
+Papua New Guinea;2020-04-03;1;0;0;0;0;0;1; 0;2020;kwiecień; 3;piątek;0;0;1;15;0
+Papua New Guinea;2020-04-04;1;0;0;0;0;0;1; 0;2020;kwiecień; 4;sobota;0;0;1;16;0
+Papua New Guinea;2020-04-05;1;0;0;0;0;0;1; 0;2020;kwiecień; 5;niedziela;0;0;1;17;0
+Papua New Guinea;2020-04-06;2;1;0;0;0;0;2; 1;2020;kwiecień; 6;poniedziałek;0;0;1;18;0
+Papua New Guinea;2020-04-07;2;0;0;0;0;0;2; 0;2020;kwiecień; 7;wtorek;0;0;1;19;0
+Papua New Guinea;2020-04-08;2;0;0;0;0;0;2; 0;2020;kwiecień; 8;środa;0;0;1;20;0
+Papua New Guinea;2020-04-09;2;0;0;0;0;0;2; 0;2020;kwiecień; 9;czwartek;0;0;1;21;0
+Papua New Guinea;2020-04-10;2;0;0;0;0;0;2; 0;2020;kwiecień;10;piątek;0;0;1;22;0
+Papua New Guinea;2020-04-11;2;0;0;0;0;0;2; 0;2020;kwiecień;11;sobota;0;0;1;23;0
+Papua New Guinea;2020-04-12;2;0;0;0;0;0;2; 0;2020;kwiecień;12;niedziela;0;0;1;24;0
+Papua New Guinea;2020-04-13;2;0;0;0;0;0;2; 0;2020;kwiecień;13;poniedziałek;0;0;1;25;0
+Papua New Guinea;2020-04-14;2;0;0;0;0;0;2; 0;2020;kwiecień;14;wtorek;0;0;1;26;0
+Papua New Guinea;2020-04-15;2;0;0;0;0;0;2; 0;2020;kwiecień;15;środa;0;0;1;27;0
+Papua New Guinea;2020-04-16;7;5;0;0;0;0;7; 5;2020;kwiecień;16;czwartek;0;0;1;28;0
+Papua New Guinea;2020-04-17;7;0;0;0;0;0;7; 0;2020;kwiecień;17;piątek;0;0;1;29;0
+Papua New Guinea;2020-04-18;7;0;0;0;0;0;7; 0;2020;kwiecień;18;sobota;0;0;1;30;0
+Papua New Guinea;2020-04-19;7;0;0;0;0;0;7; 0;2020;kwiecień;19;niedziela;0;0;1;31;0
+Papua New Guinea;2020-04-20;7;0;0;0;0;0;7; 0;2020;kwiecień;20;poniedziałek;0;0;1;32;0
+Papua New Guinea;2020-04-21;7;0;0;0;0;0;7; 0;2020;kwiecień;21;wtorek;0;0;1;33;0
+Papua New Guinea;2020-04-22;8;1;0;0;0;0;8; 1;2020;kwiecień;22;środa;0;0;1;34;0
+Papua New Guinea;2020-04-23;8;0;0;0;0;0;8; 0;2020;kwiecień;23;czwartek;0;0;1;35;0
+Papua New Guinea;2020-04-24;8;0;0;0;0;0;8; 0;2020;kwiecień;24;piątek;0;0;1;36;0
+Papua New Guinea;2020-04-25;8;0;0;0;0;0;8; 0;2020;kwiecień;25;sobota;0;0;1;37;0
+Papua New Guinea;2020-04-26;8;0;0;0;0;0;8; 0;2020;kwiecień;26;niedziela;0;0;1;38;0
+Papua New Guinea;2020-04-27;8;0;0;0;0;0;8; 0;2020;kwiecień;27;poniedziałek;0;0;1;39;0
+Papua New Guinea;2020-04-28;8;0;0;0;0;0;8; 0;2020;kwiecień;28;wtorek;0;0;1;40;0
+Papua New Guinea;2020-04-29;8;0;0;0;0;0;8; 0;2020;kwiecień;29;środa;0;0;1;41;0
+Papua New Guinea;2020-04-30;8;0;0;0;0;0;8; 0;2020;kwiecień;30;czwartek;0;0;1;42;0
+Papua New Guinea;2020-05-01;8;0;0;0;0;0;8; 0;2020;maj; 1;piątek;0;0;1;43;0
+Papua New Guinea;2020-05-02;8;0;0;0;0;0;8; 0;2020;maj; 2;sobota;0;0;1;44;0
+Papua New Guinea;2020-05-03;8;0;0;0;0;0;8; 0;2020;maj; 3;niedziela;0;0;1;45;0
+Papua New Guinea;2020-05-04;8;0;0;0;8;8;0;-8;2020;maj; 4;poniedziałek;0;1;0;46;0
+Papua New Guinea;2020-05-05;8;0;0;0;8;0;0; 0;2020;maj; 5;wtorek;0;1;0;47;0
+Papua New Guinea;2020-05-06;8;0;0;0;8;0;0; 0;2020;maj; 6;środa;0;1;0;48;0
+Papua New Guinea;2020-05-07;8;0;0;0;8;0;0; 0;2020;maj; 7;czwartek;0;1;0;49;0
+Papua New Guinea;2020-05-08;8;0;0;0;8;0;0; 0;2020;maj; 8;piątek;0;1;0;50;0
+Papua New Guinea;2020-05-09;8;0;0;0;8;0;0; 0;2020;maj; 9;sobota;0;1;0;51;0
+Papua New Guinea;2020-05-10;8;0;0;0;8;0;0; 0;2020;maj;10;niedziela;0;1;0;52;0
+Papua New Guinea;2020-05-11;8;0;0;0;8;0;0; 0;2020;maj;11;poniedziałek;0;1;0;53;0
+Papua New Guinea;2020-05-12;8;0;0;0;8;0;0; 0;2020;maj;12;wtorek;0;1;0;54;0
+Papua New Guinea;2020-05-13;8;0;0;0;8;0;0; 0;2020;maj;13;środa;0;1;0;55;0
+Papua New Guinea;2020-05-14;8;0;0;0;8;0;0; 0;2020;maj;14;czwartek;0;1;0;56;0
+Papua New Guinea;2020-05-15;8;0;0;0;8;0;0; 0;2020;maj;15;piątek;0;1;0;57;0
+Papua New Guinea;2020-05-16;8;0;0;0;8;0;0; 0;2020;maj;16;sobota;0;1;0;58;0
+Papua New Guinea;2020-05-17;8;0;0;0;8;0;0; 0;2020;maj;17;niedziela;0;1;0;59;0
+Papua New Guinea;2020-05-18;8;0;0;0;8;0;0; 0;2020;maj;18;poniedziałek;0;1;0;60;0
+Papua New Guinea;2020-05-19;8;0;0;0;8;0;0; 0;2020;maj;19;wtorek;0;1;0;61;0
+Papua New Guinea;2020-05-20;8;0;0;0;8;0;0; 0;2020;maj;20;środa;0;1;0;62;0
+Papua New Guinea;2020-05-21;8;0;0;0;8;0;0; 0;2020;maj;21;czwartek;0;1;0;63;0
+Papua New Guinea;2020-05-22;8;0;0;0;8;0;0; 0;2020;maj;22;piątek;0;1;0;64;0
+Papua New Guinea;2020-05-23;8;0;0;0;8;0;0; 0;2020;maj;23;sobota;0;1;0;65;0
+Papua New Guinea;2020-05-24;8;0;0;0;8;0;0; 0;2020;maj;24;niedziela;0;1;0;66;0
+Papua New Guinea;2020-05-25;8;0;0;0;8;0;0; 0;2020;maj;25;poniedziałek;0;1;0;67;0
+Papua New Guinea;2020-05-26;8;0;0;0;8;0;0; 0;2020;maj;26;wtorek;0;1;0;68;0
+Papua New Guinea;2020-05-27;8;0;0;0;8;0;0; 0;2020;maj;27;środa;0;1;0;69;0
+Papua New Guinea;2020-05-28;8;0;0;0;8;0;0; 0;2020;maj;28;czwartek;0;1;0;70;0
+Papua New Guinea;2020-05-29;8;0;0;0;8;0;0; 0;2020;maj;29;piątek;0;1;0;71;0
+Papua New Guinea;2020-05-30;8;0;0;0;8;0;0; 0;2020;maj;30;sobota;0;1;0;72;0
+Papua New Guinea;2020-05-31;8;0;0;0;8;0;0; 0;2020;maj;31;niedziela;0;1;0;73;0
+Papua New Guinea;2020-06-01;8;0;0;0;8;0;0; 0;2020;czerwiec; 1;poniedziałek;0;1;0;74;0
+Papua New Guinea;2020-06-02;8;0;0;0;8;0;0; 0;2020;czerwiec; 2;wtorek;0;1;0;75;0
+Papua New Guinea;2020-06-03;8;0;0;0;8;0;0; 0;2020;czerwiec; 3;środa;0;1;0;76;0
+Papua New Guinea;2020-06-04;8;0;0;0;8;0;0; 0;2020;czerwiec; 4;czwartek;0;1;0;77;0
+Papua New Guinea;2020-06-05;8;0;0;0;8;0;0; 0;2020;czerwiec; 5;piątek;0;1;0;78;0

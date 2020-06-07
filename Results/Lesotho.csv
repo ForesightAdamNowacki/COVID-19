@@ -1,0 +1,25 @@
+Country;Date;Confirmed;New_Confirmed;Deaths;New_Deaths;Recovered;New_Recovered;Active;New_Active;Year;Month;Day;Week_Day;Deaths_Ratio;Recovered_Ratio;Active_Ratio;Day_Since_1st_Confirmed;Day_Since_100st_Confirmed
+Lesotho;2020-05-13;1;1;0;0;0;0;1; 1;2020;maj;13;środa;0;0,0;1,0; 1;0
+Lesotho;2020-05-14;1;0;0;0;0;0;1; 0;2020;maj;14;czwartek;0;0,0;1,0; 2;0
+Lesotho;2020-05-15;1;0;0;0;0;0;1; 0;2020;maj;15;piątek;0;0,0;1,0; 3;0
+Lesotho;2020-05-16;1;0;0;0;0;0;1; 0;2020;maj;16;sobota;0;0,0;1,0; 4;0
+Lesotho;2020-05-17;1;0;0;0;0;0;1; 0;2020;maj;17;niedziela;0;0,0;1,0; 5;0
+Lesotho;2020-05-18;1;0;0;0;0;0;1; 0;2020;maj;18;poniedziałek;0;0,0;1,0; 6;0
+Lesotho;2020-05-19;1;0;0;0;0;0;1; 0;2020;maj;19;wtorek;0;0,0;1,0; 7;0
+Lesotho;2020-05-20;1;0;0;0;0;0;1; 0;2020;maj;20;środa;0;0,0;1,0; 8;0
+Lesotho;2020-05-21;1;0;0;0;0;0;1; 0;2020;maj;21;czwartek;0;0,0;1,0; 9;0
+Lesotho;2020-05-22;2;1;0;0;0;0;2; 1;2020;maj;22;piątek;0;0,0;1,0;10;0
+Lesotho;2020-05-23;2;0;0;0;0;0;2; 0;2020;maj;23;sobota;0;0,0;1,0;11;0
+Lesotho;2020-05-24;2;0;0;0;0;0;2; 0;2020;maj;24;niedziela;0;0,0;1,0;12;0
+Lesotho;2020-05-25;2;0;0;0;0;0;2; 0;2020;maj;25;poniedziałek;0;0,0;1,0;13;0
+Lesotho;2020-05-26;2;0;0;0;0;0;2; 0;2020;maj;26;wtorek;0;0,0;1,0;14;0
+Lesotho;2020-05-27;2;0;0;0;0;0;2; 0;2020;maj;27;środa;0;0,0;1,0;15;0
+Lesotho;2020-05-28;2;0;0;0;1;1;1;-1;2020;maj;28;czwartek;0;0,5;0,5;16;0
+Lesotho;2020-05-29;2;0;0;0;1;0;1; 0;2020;maj;29;piątek;0;0,5;0,5;17;0
+Lesotho;2020-05-30;2;0;0;0;1;0;1; 0;2020;maj;30;sobota;0;0,5;0,5;18;0
+Lesotho;2020-05-31;2;0;0;0;1;0;1; 0;2020;maj;31;niedziela;0;0,5;0,5;19;0
+Lesotho;2020-06-01;2;0;0;0;1;0;1; 0;2020;czerwiec; 1;poniedziałek;0;0,5;0,5;20;0
+Lesotho;2020-06-02;2;0;0;0;1;0;1; 0;2020;czerwiec; 2;wtorek;0;0,5;0,5;21;0
+Lesotho;2020-06-03;4;2;0;0;2;1;2; 1;2020;czerwiec; 3;środa;0;0,5;0,5;22;0
+Lesotho;2020-06-04;4;0;0;0;2;0;2; 0;2020;czerwiec; 4;czwartek;0;0,5;0,5;23;0
+Lesotho;2020-06-05;4;0;0;0;2;0;2; 0;2020;czerwiec; 5;piątek;0;0,5;0,5;24;0

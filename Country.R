@@ -12,6 +12,8 @@ base::library(readr)
 base::library(lubridate)
 base::library(stringr)
 base::library(knitr)
+base::library(foreach)
+base::library(doParallel)
 
 #-------------------------------------------------------------------------------
 # Environment:
@@ -289,6 +291,15 @@ if (base::all(selected_countries %in% countries) == TRUE){
     base::cat("ERROR: Selected countries do not exist in countries list:", selected_countries[base::which(selected_countries %in% countries == FALSE)])
   }
 }
+
+#-------------------------------------------------------------------------------
+# Export statistics and plots for all countries:
+cores <- parallel::detectCores()
+cl <- parallel::makeCluster(cores[1] - 1) 
+doParallel::registerDoParallel(cl)
+foreach::foreach(i = 1:base::length(countries), .packages = 'tidyverse') %dopar% {
+  all <- coronavirus_country(country = countries[i],  save_stats = TRUE, save_plots = TRUE)}
+parallel::stopCluster(cl)
 
 # ------------------------------------------------------------------------------
 # https://github.com/ForesightAdamNowacki

@@ -1,0 +1,85 @@
+Country;Date;Confirmed;New_Confirmed;Deaths;New_Deaths;Recovered;New_Recovered;Active;New_Active;Year;Month;Day;Week_Day;Deaths_Ratio;Recovered_Ratio;Active_Ratio;Day_Since_1st_Confirmed;Day_Since_100st_Confirmed
+Trinidad and Tobago;2020-03-14;  2; 2;0;0;  0; 0;  2;  2;2020;marzec;14;sobota;0,0000;0,0000;1,0000; 1; 0
+Trinidad and Tobago;2020-03-15;  2; 0;0;0;  0; 0;  2;  0;2020;marzec;15;niedziela;0,0000;0,0000;1,0000; 2; 0
+Trinidad and Tobago;2020-03-16;  4; 2;0;0;  0; 0;  4;  2;2020;marzec;16;poniedziałek;0,0000;0,0000;1,0000; 3; 0
+Trinidad and Tobago;2020-03-17;  5; 1;0;0;  0; 0;  5;  1;2020;marzec;17;wtorek;0,0000;0,0000;1,0000; 4; 0
+Trinidad and Tobago;2020-03-18;  7; 2;0;0;  0; 0;  7;  2;2020;marzec;18;środa;0,0000;0,0000;1,0000; 5; 0
+Trinidad and Tobago;2020-03-19;  9; 2;0;0;  0; 0;  9;  2;2020;marzec;19;czwartek;0,0000;0,0000;1,0000; 6; 0
+Trinidad and Tobago;2020-03-20;  9; 0;0;0;  0; 0;  9;  0;2020;marzec;20;piątek;0,0000;0,0000;1,0000; 7; 0
+Trinidad and Tobago;2020-03-21; 49;40;0;0;  1; 1; 48; 39;2020;marzec;21;sobota;0,0000;0,0204;0,9796; 8; 0
+Trinidad and Tobago;2020-03-22; 50; 1;0;0;  1; 0; 49;  1;2020;marzec;22;niedziela;0,0000;0,0200;0,9800; 9; 0
+Trinidad and Tobago;2020-03-23; 51; 1;0;0;  1; 0; 50;  1;2020;marzec;23;poniedziałek;0,0000;0,0196;0,9804;10; 0
+Trinidad and Tobago;2020-03-24; 57; 6;0;0;  0;-1; 57;  7;2020;marzec;24;wtorek;0,0000;0,0000;1,0000;11; 0
+Trinidad and Tobago;2020-03-25; 60; 3;1;1;  0; 0; 59;  2;2020;marzec;25;środa;0,0167;0,0000;0,9833;12; 0
+Trinidad and Tobago;2020-03-26; 65; 5;1;0;  0; 0; 64;  5;2020;marzec;26;czwartek;0,0154;0,0000;0,9846;13; 0
+Trinidad and Tobago;2020-03-27; 66; 1;2;1;  1; 1; 63; -1;2020;marzec;27;piątek;0,0303;0,0152;0,9545;14; 0
+Trinidad and Tobago;2020-03-28; 74; 8;3;1;  1; 0; 70;  7;2020;marzec;28;sobota;0,0405;0,0135;0,9459;15; 0
+Trinidad and Tobago;2020-03-29; 78; 4;3;0;  1; 0; 74;  4;2020;marzec;29;niedziela;0,0385;0,0128;0,9487;16; 0
+Trinidad and Tobago;2020-03-30; 82; 4;3;0;  1; 0; 78;  4;2020;marzec;30;poniedziałek;0,0366;0,0122;0,9512;17; 0
+Trinidad and Tobago;2020-03-31; 87; 5;3;0;  1; 0; 83;  5;2020;marzec;31;wtorek;0,0345;0,0115;0,9540;18; 0
+Trinidad and Tobago;2020-04-01; 90; 3;5;2;  1; 0; 84;  1;2020;kwiecień; 1;środa;0,0556;0,0111;0,9333;19; 0
+Trinidad and Tobago;2020-04-02; 94; 4;5;0;  1; 0; 88;  4;2020;kwiecień; 2;czwartek;0,0532;0,0106;0,9362;20; 0
+Trinidad and Tobago;2020-04-03; 98; 4;6;1;  1; 0; 91;  3;2020;kwiecień; 3;piątek;0,0612;0,0102;0,9286;21; 0
+Trinidad and Tobago;2020-04-04;103; 5;6;0;  1; 0; 96;  5;2020;kwiecień; 4;sobota;0,0583;0,0097;0,9320;22; 1
+Trinidad and Tobago;2020-04-05;104; 1;7;1;  1; 0; 96;  0;2020;kwiecień; 5;niedziela;0,0673;0,0096;0,9231;23; 2
+Trinidad and Tobago;2020-04-06;105; 1;8;1;  1; 0; 96;  0;2020;kwiecień; 6;poniedziałek;0,0762;0,0095;0,9143;24; 3
+Trinidad and Tobago;2020-04-07;107; 2;8;0;  1; 0; 98;  2;2020;kwiecień; 7;wtorek;0,0748;0,0093;0,9159;25; 4
+Trinidad and Tobago;2020-04-08;107; 0;8;0;  1; 0; 98;  0;2020;kwiecień; 8;środa;0,0748;0,0093;0,9159;26; 5
+Trinidad and Tobago;2020-04-09;109; 2;8;0;  1; 0;100;  2;2020;kwiecień; 9;czwartek;0,0734;0,0092;0,9174;27; 6
+Trinidad and Tobago;2020-04-10;109; 0;8;0;  1; 0;100;  0;2020;kwiecień;10;piątek;0,0734;0,0092;0,9174;28; 7
+Trinidad and Tobago;2020-04-11;112; 3;8;0; 12;11; 92; -8;2020;kwiecień;11;sobota;0,0714;0,1071;0,8214;29; 8
+Trinidad and Tobago;2020-04-12;113; 1;8;0; 16; 4; 89; -3;2020;kwiecień;12;niedziela;0,0708;0,1416;0,7876;30; 9
+Trinidad and Tobago;2020-04-13;113; 0;8;0; 16; 0; 89;  0;2020;kwiecień;13;poniedziałek;0,0708;0,1416;0,7876;31;10
+Trinidad and Tobago;2020-04-14;113; 0;8;0; 17; 1; 88; -1;2020;kwiecień;14;wtorek;0,0708;0,1504;0,7788;32;11
+Trinidad and Tobago;2020-04-15;114; 1;8;0; 19; 2; 87; -1;2020;kwiecień;15;środa;0,0702;0,1667;0,7632;33;12
+Trinidad and Tobago;2020-04-16;114; 0;8;0; 20; 1; 86; -1;2020;kwiecień;16;czwartek;0,0702;0,1754;0,7544;34;13
+Trinidad and Tobago;2020-04-17;114; 0;8;0; 20; 0; 86;  0;2020;kwiecień;17;piątek;0,0702;0,1754;0,7544;35;14
+Trinidad and Tobago;2020-04-18;114; 0;8;0; 21; 1; 85; -1;2020;kwiecień;18;sobota;0,0702;0,1842;0,7456;36;15
+Trinidad and Tobago;2020-04-19;114; 0;8;0; 21; 0; 85;  0;2020;kwiecień;19;niedziela;0,0702;0,1842;0,7456;37;16
+Trinidad and Tobago;2020-04-20;114; 0;8;0; 22; 1; 84; -1;2020;kwiecień;20;poniedziałek;0,0702;0,1930;0,7368;38;17
+Trinidad and Tobago;2020-04-21;115; 1;8;0; 28; 6; 79; -5;2020;kwiecień;21;wtorek;0,0696;0,2435;0,6870;39;18
+Trinidad and Tobago;2020-04-22;115; 0;8;0; 37; 9; 70; -9;2020;kwiecień;22;środa;0,0696;0,3217;0,6087;40;19
+Trinidad and Tobago;2020-04-23;115; 0;8;0; 48;11; 59;-11;2020;kwiecień;23;czwartek;0,0696;0,4174;0,5130;41;20
+Trinidad and Tobago;2020-04-24;115; 0;8;0; 48; 0; 59;  0;2020;kwiecień;24;piątek;0,0696;0,4174;0,5130;42;21
+Trinidad and Tobago;2020-04-25;115; 0;8;0; 53; 5; 54; -5;2020;kwiecień;25;sobota;0,0696;0,4609;0,4696;43;22
+Trinidad and Tobago;2020-04-26;115; 0;8;0; 54; 1; 53; -1;2020;kwiecień;26;niedziela;0,0696;0,4696;0,4609;44;23
+Trinidad and Tobago;2020-04-27;116; 1;8;0; 59; 5; 49; -4;2020;kwiecień;27;poniedziałek;0,0690;0,5086;0,4224;45;24
+Trinidad and Tobago;2020-04-28;116; 0;8;0; 59; 0; 49;  0;2020;kwiecień;28;wtorek;0,0690;0,5086;0,4224;46;25
+Trinidad and Tobago;2020-04-29;116; 0;8;0; 71;12; 37;-12;2020;kwiecień;29;środa;0,0690;0,6121;0,3190;47;26
+Trinidad and Tobago;2020-04-30;116; 0;8;0; 72; 1; 36; -1;2020;kwiecień;30;czwartek;0,0690;0,6207;0,3103;48;27
+Trinidad and Tobago;2020-05-01;116; 0;8;0; 83;11; 25;-11;2020;maj; 1;piątek;0,0690;0,7155;0,2155;49;28
+Trinidad and Tobago;2020-05-02;116; 0;8;0; 88; 5; 20; -5;2020;maj; 2;sobota;0,0690;0,7586;0,1724;50;29
+Trinidad and Tobago;2020-05-03;116; 0;8;0; 93; 5; 15; -5;2020;maj; 3;niedziela;0,0690;0,8017;0,1293;51;30
+Trinidad and Tobago;2020-05-04;116; 0;8;0; 99; 6;  9; -6;2020;maj; 4;poniedziałek;0,0690;0,8534;0,0776;52;31
+Trinidad and Tobago;2020-05-05;116; 0;8;0;103; 4;  5; -4;2020;maj; 5;wtorek;0,0690;0,8879;0,0431;53;32
+Trinidad and Tobago;2020-05-06;116; 0;8;0;103; 0;  5;  0;2020;maj; 6;środa;0,0690;0,8879;0,0431;54;33
+Trinidad and Tobago;2020-05-07;116; 0;8;0;103; 0;  5;  0;2020;maj; 7;czwartek;0,0690;0,8879;0,0431;55;34
+Trinidad and Tobago;2020-05-08;116; 0;8;0;103; 0;  5;  0;2020;maj; 8;piątek;0,0690;0,8879;0,0431;56;35
+Trinidad and Tobago;2020-05-09;116; 0;8;0;104; 1;  4; -1;2020;maj; 9;sobota;0,0690;0,8966;0,0345;57;36
+Trinidad and Tobago;2020-05-10;116; 0;8;0;107; 3;  1; -3;2020;maj;10;niedziela;0,0690;0,9224;0,0086;58;37
+Trinidad and Tobago;2020-05-11;116; 0;8;0;107; 0;  1;  0;2020;maj;11;poniedziałek;0,0690;0,9224;0,0086;59;38
+Trinidad and Tobago;2020-05-12;116; 0;8;0;107; 0;  1;  0;2020;maj;12;wtorek;0,0690;0,9224;0,0086;60;39
+Trinidad and Tobago;2020-05-13;116; 0;8;0;107; 0;  1;  0;2020;maj;13;środa;0,0690;0,9224;0,0086;61;40
+Trinidad and Tobago;2020-05-14;116; 0;8;0;107; 0;  1;  0;2020;maj;14;czwartek;0,0690;0,9224;0,0086;62;41
+Trinidad and Tobago;2020-05-15;116; 0;8;0;107; 0;  1;  0;2020;maj;15;piątek;0,0690;0,9224;0,0086;63;42
+Trinidad and Tobago;2020-05-16;116; 0;8;0;107; 0;  1;  0;2020;maj;16;sobota;0,0690;0,9224;0,0086;64;43
+Trinidad and Tobago;2020-05-17;116; 0;8;0;107; 0;  1;  0;2020;maj;17;niedziela;0,0690;0,9224;0,0086;65;44
+Trinidad and Tobago;2020-05-18;116; 0;8;0;107; 0;  1;  0;2020;maj;18;poniedziałek;0,0690;0,9224;0,0086;66;45
+Trinidad and Tobago;2020-05-19;116; 0;8;0;107; 0;  1;  0;2020;maj;19;wtorek;0,0690;0,9224;0,0086;67;46
+Trinidad and Tobago;2020-05-20;116; 0;8;0;107; 0;  1;  0;2020;maj;20;środa;0,0690;0,9224;0,0086;68;47
+Trinidad and Tobago;2020-05-21;116; 0;8;0;108; 1;  0; -1;2020;maj;21;czwartek;0,0690;0,9310;0,0000;69;48
+Trinidad and Tobago;2020-05-22;116; 0;8;0;108; 0;  0;  0;2020;maj;22;piątek;0,0690;0,9310;0,0000;70;49
+Trinidad and Tobago;2020-05-23;116; 0;8;0;108; 0;  0;  0;2020;maj;23;sobota;0,0690;0,9310;0,0000;71;50
+Trinidad and Tobago;2020-05-24;116; 0;8;0;108; 0;  0;  0;2020;maj;24;niedziela;0,0690;0,9310;0,0000;72;51
+Trinidad and Tobago;2020-05-25;116; 0;8;0;108; 0;  0;  0;2020;maj;25;poniedziałek;0,0690;0,9310;0,0000;73;52
+Trinidad and Tobago;2020-05-26;116; 0;8;0;108; 0;  0;  0;2020;maj;26;wtorek;0,0690;0,9310;0,0000;74;53
+Trinidad and Tobago;2020-05-27;116; 0;8;0;108; 0;  0;  0;2020;maj;27;środa;0,0690;0,9310;0,0000;75;54
+Trinidad and Tobago;2020-05-28;116; 0;8;0;108; 0;  0;  0;2020;maj;28;czwartek;0,0690;0,9310;0,0000;76;55
+Trinidad and Tobago;2020-05-29;116; 0;8;0;108; 0;  0;  0;2020;maj;29;piątek;0,0690;0,9310;0,0000;77;56
+Trinidad and Tobago;2020-05-30;117; 1;8;0;108; 0;  1;  1;2020;maj;30;sobota;0,0684;0,9231;0,0085;78;57
+Trinidad and Tobago;2020-05-31;117; 0;8;0;108; 0;  1;  0;2020;maj;31;niedziela;0,0684;0,9231;0,0085;79;58
+Trinidad and Tobago;2020-06-01;117; 0;8;0;108; 0;  1;  0;2020;czerwiec; 1;poniedziałek;0,0684;0,9231;0,0085;80;59
+Trinidad and Tobago;2020-06-02;117; 0;8;0;108; 0;  1;  0;2020;czerwiec; 2;wtorek;0,0684;0,9231;0,0085;81;60
+Trinidad and Tobago;2020-06-03;117; 0;8;0;108; 0;  1;  0;2020;czerwiec; 3;środa;0,0684;0,9231;0,0085;82;61
+Trinidad and Tobago;2020-06-04;117; 0;8;0;108; 0;  1;  0;2020;czerwiec; 4;czwartek;0,0684;0,9231;0,0085;83;62
+Trinidad and Tobago;2020-06-05;117; 0;8;0;108; 0;  1;  0;2020;czerwiec; 5;piątek;0,0684;0,9231;0,0085;84;63
