@@ -263,7 +263,7 @@ coronavirus_country <- function(country, save_stats = FALSE, save_plots = FALSE)
 
 #-------------------------------------------------------------------------------
 # Test function - analyse particular coutry:
-coronavirus_country("Poland")
+coronavirus_country("Germany")
 
 #-------------------------------------------------------------------------------
 # Available countries list:
