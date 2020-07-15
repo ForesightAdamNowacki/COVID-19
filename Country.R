@@ -263,7 +263,7 @@ coronavirus_country <- function(country, save_stats = FALSE, save_plots = FALSE)
 
 #-------------------------------------------------------------------------------
 # Test function - analyse particular coutry:
-coronavirus_country("Germany")
+coronavirus_country("US")
 
 #-------------------------------------------------------------------------------
 # Available countries list:
@@ -298,7 +298,8 @@ cores <- parallel::detectCores()
 cl <- parallel::makeCluster(cores[1] - 1) 
 doParallel::registerDoParallel(cl)
 foreach::foreach(i = 1:base::length(countries), .packages = 'tidyverse') %dopar% {
-  all <- coronavirus_country(country = countries[i],  save_stats = TRUE, save_plots = TRUE)}
+  all <- coronavirus_country(country = countries[i],  save_stats = TRUE, save_plots = TRUE)
+  }
 parallel::stopCluster(cl)
 
 # ------------------------------------------------------------------------------

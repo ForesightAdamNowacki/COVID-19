@@ -1,92 +1,113 @@
 Country;Date;Confirmed;New_Confirmed;Deaths;New_Deaths;Recovered;New_Recovered;Active;New_Active;Year;Month;Day;Week_Day;Deaths_Ratio;Recovered_Ratio;Active_Ratio;Day_Since_1st_Confirmed;Day_Since_100st_Confirmed
-Saint Kitts and Nevis;2020-03-25; 2;2;0;0; 0;0; 2; 2;2020;marzec;25;środa;0;0,0000;1,0000; 1;0
-Saint Kitts and Nevis;2020-03-26; 2;0;0;0; 0;0; 2; 0;2020;marzec;26;czwartek;0;0,0000;1,0000; 2;0
-Saint Kitts and Nevis;2020-03-27; 2;0;0;0; 0;0; 2; 0;2020;marzec;27;piątek;0;0,0000;1,0000; 3;0
-Saint Kitts and Nevis;2020-03-28; 2;0;0;0; 0;0; 2; 0;2020;marzec;28;sobota;0;0,0000;1,0000; 4;0
-Saint Kitts and Nevis;2020-03-29; 2;0;0;0; 0;0; 2; 0;2020;marzec;29;niedziela;0;0,0000;1,0000; 5;0
-Saint Kitts and Nevis;2020-03-30; 7;5;0;0; 0;0; 7; 5;2020;marzec;30;poniedziałek;0;0,0000;1,0000; 6;0
-Saint Kitts and Nevis;2020-03-31; 8;1;0;0; 0;0; 8; 1;2020;marzec;31;wtorek;0;0,0000;1,0000; 7;0
-Saint Kitts and Nevis;2020-04-01; 8;0;0;0; 0;0; 8; 0;2020;kwiecień; 1;środa;0;0,0000;1,0000; 8;0
-Saint Kitts and Nevis;2020-04-02; 9;1;0;0; 0;0; 9; 1;2020;kwiecień; 2;czwartek;0;0,0000;1,0000; 9;0
-Saint Kitts and Nevis;2020-04-03; 9;0;0;0; 0;0; 9; 0;2020;kwiecień; 3;piątek;0;0,0000;1,0000;10;0
-Saint Kitts and Nevis;2020-04-04; 9;0;0;0; 0;0; 9; 0;2020;kwiecień; 4;sobota;0;0,0000;1,0000;11;0
-Saint Kitts and Nevis;2020-04-05;10;1;0;0; 0;0;10; 1;2020;kwiecień; 5;niedziela;0;0,0000;1,0000;12;0
-Saint Kitts and Nevis;2020-04-06;10;0;0;0; 0;0;10; 0;2020;kwiecień; 6;poniedziałek;0;0,0000;1,0000;13;0
-Saint Kitts and Nevis;2020-04-07;11;1;0;0; 0;0;11; 1;2020;kwiecień; 7;wtorek;0;0,0000;1,0000;14;0
-Saint Kitts and Nevis;2020-04-08;11;0;0;0; 0;0;11; 0;2020;kwiecień; 8;środa;0;0,0000;1,0000;15;0
-Saint Kitts and Nevis;2020-04-09;11;0;0;0; 0;0;11; 0;2020;kwiecień; 9;czwartek;0;0,0000;1,0000;16;0
-Saint Kitts and Nevis;2020-04-10;12;1;0;0; 0;0;12; 1;2020;kwiecień;10;piątek;0;0,0000;1,0000;17;0
-Saint Kitts and Nevis;2020-04-11;12;0;0;0; 0;0;12; 0;2020;kwiecień;11;sobota;0;0,0000;1,0000;18;0
-Saint Kitts and Nevis;2020-04-12;12;0;0;0; 0;0;12; 0;2020;kwiecień;12;niedziela;0;0,0000;1,0000;19;0
-Saint Kitts and Nevis;2020-04-13;12;0;0;0; 0;0;12; 0;2020;kwiecień;13;poniedziałek;0;0,0000;1,0000;20;0
-Saint Kitts and Nevis;2020-04-14;14;2;0;0; 0;0;14; 2;2020;kwiecień;14;wtorek;0;0,0000;1,0000;21;0
-Saint Kitts and Nevis;2020-04-15;14;0;0;0; 0;0;14; 0;2020;kwiecień;15;środa;0;0,0000;1,0000;22;0
-Saint Kitts and Nevis;2020-04-16;14;0;0;0; 0;0;14; 0;2020;kwiecień;16;czwartek;0;0,0000;1,0000;23;0
-Saint Kitts and Nevis;2020-04-17;14;0;0;0; 0;0;14; 0;2020;kwiecień;17;piątek;0;0,0000;1,0000;24;0
-Saint Kitts and Nevis;2020-04-18;14;0;0;0; 0;0;14; 0;2020;kwiecień;18;sobota;0;0,0000;1,0000;25;0
-Saint Kitts and Nevis;2020-04-19;14;0;0;0; 0;0;14; 0;2020;kwiecień;19;niedziela;0;0,0000;1,0000;26;0
-Saint Kitts and Nevis;2020-04-20;15;1;0;0; 0;0;15; 1;2020;kwiecień;20;poniedziałek;0;0,0000;1,0000;27;0
-Saint Kitts and Nevis;2020-04-21;15;0;0;0; 0;0;15; 0;2020;kwiecień;21;wtorek;0;0,0000;1,0000;28;0
-Saint Kitts and Nevis;2020-04-22;15;0;0;0; 1;1;14;-1;2020;kwiecień;22;środa;0;0,0667;0,9333;29;0
-Saint Kitts and Nevis;2020-04-23;15;0;0;0; 1;0;14; 0;2020;kwiecień;23;czwartek;0;0,0667;0,9333;30;0
-Saint Kitts and Nevis;2020-04-24;15;0;0;0; 2;1;13;-1;2020;kwiecień;24;piątek;0;0,1333;0,8667;31;0
-Saint Kitts and Nevis;2020-04-25;15;0;0;0; 2;0;13; 0;2020;kwiecień;25;sobota;0;0,1333;0,8667;32;0
-Saint Kitts and Nevis;2020-04-26;15;0;0;0; 2;0;13; 0;2020;kwiecień;26;niedziela;0;0,1333;0,8667;33;0
-Saint Kitts and Nevis;2020-04-27;15;0;0;0; 2;0;13; 0;2020;kwiecień;27;poniedziałek;0;0,1333;0,8667;34;0
-Saint Kitts and Nevis;2020-04-28;15;0;0;0; 4;2;11;-2;2020;kwiecień;28;wtorek;0;0,2667;0,7333;35;0
-Saint Kitts and Nevis;2020-04-29;15;0;0;0; 4;0;11; 0;2020;kwiecień;29;środa;0;0,2667;0,7333;36;0
-Saint Kitts and Nevis;2020-04-30;15;0;0;0; 6;2; 9;-2;2020;kwiecień;30;czwartek;0;0,4000;0,6000;37;0
-Saint Kitts and Nevis;2020-05-01;15;0;0;0; 8;2; 7;-2;2020;maj; 1;piątek;0;0,5333;0,4667;38;0
-Saint Kitts and Nevis;2020-05-02;15;0;0;0; 8;0; 7; 0;2020;maj; 2;sobota;0;0,5333;0,4667;39;0
-Saint Kitts and Nevis;2020-05-03;15;0;0;0; 8;0; 7; 0;2020;maj; 3;niedziela;0;0,5333;0,4667;40;0
-Saint Kitts and Nevis;2020-05-04;15;0;0;0; 8;0; 7; 0;2020;maj; 4;poniedziałek;0;0,5333;0,4667;41;0
-Saint Kitts and Nevis;2020-05-05;15;0;0;0;12;4; 3;-4;2020;maj; 5;wtorek;0;0,8000;0,2000;42;0
-Saint Kitts and Nevis;2020-05-06;15;0;0;0;12;0; 3; 0;2020;maj; 6;środa;0;0,8000;0,2000;43;0
-Saint Kitts and Nevis;2020-05-07;15;0;0;0;12;0; 3; 0;2020;maj; 7;czwartek;0;0,8000;0,2000;44;0
-Saint Kitts and Nevis;2020-05-08;15;0;0;0;13;1; 2;-1;2020;maj; 8;piątek;0;0,8667;0,1333;45;0
-Saint Kitts and Nevis;2020-05-09;15;0;0;0;14;1; 1;-1;2020;maj; 9;sobota;0;0,9333;0,0667;46;0
-Saint Kitts and Nevis;2020-05-10;15;0;0;0;14;0; 1; 0;2020;maj;10;niedziela;0;0,9333;0,0667;47;0
-Saint Kitts and Nevis;2020-05-11;15;0;0;0;14;0; 1; 0;2020;maj;11;poniedziałek;0;0,9333;0,0667;48;0
-Saint Kitts and Nevis;2020-05-12;15;0;0;0;14;0; 1; 0;2020;maj;12;wtorek;0;0,9333;0,0667;49;0
-Saint Kitts and Nevis;2020-05-13;15;0;0;0;14;0; 1; 0;2020;maj;13;środa;0;0,9333;0,0667;50;0
-Saint Kitts and Nevis;2020-05-14;15;0;0;0;14;0; 1; 0;2020;maj;14;czwartek;0;0,9333;0,0667;51;0
-Saint Kitts and Nevis;2020-05-15;15;0;0;0;14;0; 1; 0;2020;maj;15;piątek;0;0,9333;0,0667;52;0
-Saint Kitts and Nevis;2020-05-16;15;0;0;0;14;0; 1; 0;2020;maj;16;sobota;0;0,9333;0,0667;53;0
-Saint Kitts and Nevis;2020-05-17;15;0;0;0;14;0; 1; 0;2020;maj;17;niedziela;0;0,9333;0,0667;54;0
-Saint Kitts and Nevis;2020-05-18;15;0;0;0;14;0; 1; 0;2020;maj;18;poniedziałek;0;0,9333;0,0667;55;0
-Saint Kitts and Nevis;2020-05-19;15;0;0;0;15;1; 0;-1;2020;maj;19;wtorek;0;1,0000;0,0000;56;0
-Saint Kitts and Nevis;2020-05-20;15;0;0;0;15;0; 0; 0;2020;maj;20;środa;0;1,0000;0,0000;57;0
-Saint Kitts and Nevis;2020-05-21;15;0;0;0;15;0; 0; 0;2020;maj;21;czwartek;0;1,0000;0,0000;58;0
-Saint Kitts and Nevis;2020-05-22;15;0;0;0;15;0; 0; 0;2020;maj;22;piątek;0;1,0000;0,0000;59;0
-Saint Kitts and Nevis;2020-05-23;15;0;0;0;15;0; 0; 0;2020;maj;23;sobota;0;1,0000;0,0000;60;0
-Saint Kitts and Nevis;2020-05-24;15;0;0;0;15;0; 0; 0;2020;maj;24;niedziela;0;1,0000;0,0000;61;0
-Saint Kitts and Nevis;2020-05-25;15;0;0;0;15;0; 0; 0;2020;maj;25;poniedziałek;0;1,0000;0,0000;62;0
-Saint Kitts and Nevis;2020-05-26;15;0;0;0;15;0; 0; 0;2020;maj;26;wtorek;0;1,0000;0,0000;63;0
-Saint Kitts and Nevis;2020-05-27;15;0;0;0;15;0; 0; 0;2020;maj;27;środa;0;1,0000;0,0000;64;0
-Saint Kitts and Nevis;2020-05-28;15;0;0;0;15;0; 0; 0;2020;maj;28;czwartek;0;1,0000;0,0000;65;0
-Saint Kitts and Nevis;2020-05-29;15;0;0;0;15;0; 0; 0;2020;maj;29;piątek;0;1,0000;0,0000;66;0
-Saint Kitts and Nevis;2020-05-30;15;0;0;0;15;0; 0; 0;2020;maj;30;sobota;0;1,0000;0,0000;67;0
-Saint Kitts and Nevis;2020-05-31;15;0;0;0;15;0; 0; 0;2020;maj;31;niedziela;0;1,0000;0,0000;68;0
-Saint Kitts and Nevis;2020-06-01;15;0;0;0;15;0; 0; 0;2020;czerwiec; 1;poniedziałek;0;1,0000;0,0000;69;0
-Saint Kitts and Nevis;2020-06-02;15;0;0;0;15;0; 0; 0;2020;czerwiec; 2;wtorek;0;1,0000;0,0000;70;0
-Saint Kitts and Nevis;2020-06-03;15;0;0;0;15;0; 0; 0;2020;czerwiec; 3;środa;0;1,0000;0,0000;71;0
-Saint Kitts and Nevis;2020-06-04;15;0;0;0;15;0; 0; 0;2020;czerwiec; 4;czwartek;0;1,0000;0,0000;72;0
-Saint Kitts and Nevis;2020-06-05;15;0;0;0;15;0; 0; 0;2020;czerwiec; 5;piątek;0;1,0000;0,0000;73;0
-Saint Kitts and Nevis;2020-06-06;15;0;0;0;15;0; 0; 0;2020;czerwiec; 6;sobota;0;1,0000;0,0000;74;0
-Saint Kitts and Nevis;2020-06-07;15;0;0;0;15;0; 0; 0;2020;czerwiec; 7;niedziela;0;1,0000;0,0000;75;0
-Saint Kitts and Nevis;2020-06-08;15;0;0;0;15;0; 0; 0;2020;czerwiec; 8;poniedziałek;0;1,0000;0,0000;76;0
-Saint Kitts and Nevis;2020-06-09;15;0;0;0;15;0; 0; 0;2020;czerwiec; 9;wtorek;0;1,0000;0,0000;77;0
-Saint Kitts and Nevis;2020-06-10;15;0;0;0;15;0; 0; 0;2020;czerwiec;10;środa;0;1,0000;0,0000;78;0
-Saint Kitts and Nevis;2020-06-11;15;0;0;0;15;0; 0; 0;2020;czerwiec;11;czwartek;0;1,0000;0,0000;79;0
-Saint Kitts and Nevis;2020-06-12;15;0;0;0;15;0; 0; 0;2020;czerwiec;12;piątek;0;1,0000;0,0000;80;0
-Saint Kitts and Nevis;2020-06-13;15;0;0;0;15;0; 0; 0;2020;czerwiec;13;sobota;0;1,0000;0,0000;81;0
-Saint Kitts and Nevis;2020-06-14;15;0;0;0;15;0; 0; 0;2020;czerwiec;14;niedziela;0;1,0000;0,0000;82;0
-Saint Kitts and Nevis;2020-06-15;15;0;0;0;15;0; 0; 0;2020;czerwiec;15;poniedziałek;0;1,0000;0,0000;83;0
-Saint Kitts and Nevis;2020-06-16;15;0;0;0;15;0; 0; 0;2020;czerwiec;16;wtorek;0;1,0000;0,0000;84;0
-Saint Kitts and Nevis;2020-06-17;15;0;0;0;15;0; 0; 0;2020;czerwiec;17;środa;0;1,0000;0,0000;85;0
-Saint Kitts and Nevis;2020-06-18;15;0;0;0;15;0; 0; 0;2020;czerwiec;18;czwartek;0;1,0000;0,0000;86;0
-Saint Kitts and Nevis;2020-06-19;15;0;0;0;15;0; 0; 0;2020;czerwiec;19;piątek;0;1,0000;0,0000;87;0
-Saint Kitts and Nevis;2020-06-20;15;0;0;0;15;0; 0; 0;2020;czerwiec;20;sobota;0;1,0000;0,0000;88;0
-Saint Kitts and Nevis;2020-06-21;15;0;0;0;15;0; 0; 0;2020;czerwiec;21;niedziela;0;1,0000;0,0000;89;0
-Saint Kitts and Nevis;2020-06-22;15;0;0;0;15;0; 0; 0;2020;czerwiec;22;poniedziałek;0;1,0000;0,0000;90;0
-Saint Kitts and Nevis;2020-06-23;15;0;0;0;15;0; 0; 0;2020;czerwiec;23;wtorek;0;1,0000;0,0000;91;0
+Saint Kitts and Nevis;2020-03-25; 2;2;0;0; 0;0; 2; 2;2020;marzec;25;środa;0;0,0000;1,0000;  1;0
+Saint Kitts and Nevis;2020-03-26; 2;0;0;0; 0;0; 2; 0;2020;marzec;26;czwartek;0;0,0000;1,0000;  2;0
+Saint Kitts and Nevis;2020-03-27; 2;0;0;0; 0;0; 2; 0;2020;marzec;27;piątek;0;0,0000;1,0000;  3;0
+Saint Kitts and Nevis;2020-03-28; 2;0;0;0; 0;0; 2; 0;2020;marzec;28;sobota;0;0,0000;1,0000;  4;0
+Saint Kitts and Nevis;2020-03-29; 2;0;0;0; 0;0; 2; 0;2020;marzec;29;niedziela;0;0,0000;1,0000;  5;0
+Saint Kitts and Nevis;2020-03-30; 7;5;0;0; 0;0; 7; 5;2020;marzec;30;poniedziałek;0;0,0000;1,0000;  6;0
+Saint Kitts and Nevis;2020-03-31; 8;1;0;0; 0;0; 8; 1;2020;marzec;31;wtorek;0;0,0000;1,0000;  7;0
+Saint Kitts and Nevis;2020-04-01; 8;0;0;0; 0;0; 8; 0;2020;kwiecień; 1;środa;0;0,0000;1,0000;  8;0
+Saint Kitts and Nevis;2020-04-02; 9;1;0;0; 0;0; 9; 1;2020;kwiecień; 2;czwartek;0;0,0000;1,0000;  9;0
+Saint Kitts and Nevis;2020-04-03; 9;0;0;0; 0;0; 9; 0;2020;kwiecień; 3;piątek;0;0,0000;1,0000; 10;0
+Saint Kitts and Nevis;2020-04-04; 9;0;0;0; 0;0; 9; 0;2020;kwiecień; 4;sobota;0;0,0000;1,0000; 11;0
+Saint Kitts and Nevis;2020-04-05;10;1;0;0; 0;0;10; 1;2020;kwiecień; 5;niedziela;0;0,0000;1,0000; 12;0
+Saint Kitts and Nevis;2020-04-06;10;0;0;0; 0;0;10; 0;2020;kwiecień; 6;poniedziałek;0;0,0000;1,0000; 13;0
+Saint Kitts and Nevis;2020-04-07;11;1;0;0; 0;0;11; 1;2020;kwiecień; 7;wtorek;0;0,0000;1,0000; 14;0
+Saint Kitts and Nevis;2020-04-08;11;0;0;0; 0;0;11; 0;2020;kwiecień; 8;środa;0;0,0000;1,0000; 15;0
+Saint Kitts and Nevis;2020-04-09;11;0;0;0; 0;0;11; 0;2020;kwiecień; 9;czwartek;0;0,0000;1,0000; 16;0
+Saint Kitts and Nevis;2020-04-10;12;1;0;0; 0;0;12; 1;2020;kwiecień;10;piątek;0;0,0000;1,0000; 17;0
+Saint Kitts and Nevis;2020-04-11;12;0;0;0; 0;0;12; 0;2020;kwiecień;11;sobota;0;0,0000;1,0000; 18;0
+Saint Kitts and Nevis;2020-04-12;12;0;0;0; 0;0;12; 0;2020;kwiecień;12;niedziela;0;0,0000;1,0000; 19;0
+Saint Kitts and Nevis;2020-04-13;12;0;0;0; 0;0;12; 0;2020;kwiecień;13;poniedziałek;0;0,0000;1,0000; 20;0
+Saint Kitts and Nevis;2020-04-14;14;2;0;0; 0;0;14; 2;2020;kwiecień;14;wtorek;0;0,0000;1,0000; 21;0
+Saint Kitts and Nevis;2020-04-15;14;0;0;0; 0;0;14; 0;2020;kwiecień;15;środa;0;0,0000;1,0000; 22;0
+Saint Kitts and Nevis;2020-04-16;14;0;0;0; 0;0;14; 0;2020;kwiecień;16;czwartek;0;0,0000;1,0000; 23;0
+Saint Kitts and Nevis;2020-04-17;14;0;0;0; 0;0;14; 0;2020;kwiecień;17;piątek;0;0,0000;1,0000; 24;0
+Saint Kitts and Nevis;2020-04-18;14;0;0;0; 0;0;14; 0;2020;kwiecień;18;sobota;0;0,0000;1,0000; 25;0
+Saint Kitts and Nevis;2020-04-19;14;0;0;0; 0;0;14; 0;2020;kwiecień;19;niedziela;0;0,0000;1,0000; 26;0
+Saint Kitts and Nevis;2020-04-20;15;1;0;0; 0;0;15; 1;2020;kwiecień;20;poniedziałek;0;0,0000;1,0000; 27;0
+Saint Kitts and Nevis;2020-04-21;15;0;0;0; 0;0;15; 0;2020;kwiecień;21;wtorek;0;0,0000;1,0000; 28;0
+Saint Kitts and Nevis;2020-04-22;15;0;0;0; 1;1;14;-1;2020;kwiecień;22;środa;0;0,0667;0,9333; 29;0
+Saint Kitts and Nevis;2020-04-23;15;0;0;0; 1;0;14; 0;2020;kwiecień;23;czwartek;0;0,0667;0,9333; 30;0
+Saint Kitts and Nevis;2020-04-24;15;0;0;0; 2;1;13;-1;2020;kwiecień;24;piątek;0;0,1333;0,8667; 31;0
+Saint Kitts and Nevis;2020-04-25;15;0;0;0; 2;0;13; 0;2020;kwiecień;25;sobota;0;0,1333;0,8667; 32;0
+Saint Kitts and Nevis;2020-04-26;15;0;0;0; 2;0;13; 0;2020;kwiecień;26;niedziela;0;0,1333;0,8667; 33;0
+Saint Kitts and Nevis;2020-04-27;15;0;0;0; 2;0;13; 0;2020;kwiecień;27;poniedziałek;0;0,1333;0,8667; 34;0
+Saint Kitts and Nevis;2020-04-28;15;0;0;0; 4;2;11;-2;2020;kwiecień;28;wtorek;0;0,2667;0,7333; 35;0
+Saint Kitts and Nevis;2020-04-29;15;0;0;0; 4;0;11; 0;2020;kwiecień;29;środa;0;0,2667;0,7333; 36;0
+Saint Kitts and Nevis;2020-04-30;15;0;0;0; 6;2; 9;-2;2020;kwiecień;30;czwartek;0;0,4000;0,6000; 37;0
+Saint Kitts and Nevis;2020-05-01;15;0;0;0; 8;2; 7;-2;2020;maj; 1;piątek;0;0,5333;0,4667; 38;0
+Saint Kitts and Nevis;2020-05-02;15;0;0;0; 8;0; 7; 0;2020;maj; 2;sobota;0;0,5333;0,4667; 39;0
+Saint Kitts and Nevis;2020-05-03;15;0;0;0; 8;0; 7; 0;2020;maj; 3;niedziela;0;0,5333;0,4667; 40;0
+Saint Kitts and Nevis;2020-05-04;15;0;0;0; 8;0; 7; 0;2020;maj; 4;poniedziałek;0;0,5333;0,4667; 41;0
+Saint Kitts and Nevis;2020-05-05;15;0;0;0;12;4; 3;-4;2020;maj; 5;wtorek;0;0,8000;0,2000; 42;0
+Saint Kitts and Nevis;2020-05-06;15;0;0;0;12;0; 3; 0;2020;maj; 6;środa;0;0,8000;0,2000; 43;0
+Saint Kitts and Nevis;2020-05-07;15;0;0;0;12;0; 3; 0;2020;maj; 7;czwartek;0;0,8000;0,2000; 44;0
+Saint Kitts and Nevis;2020-05-08;15;0;0;0;13;1; 2;-1;2020;maj; 8;piątek;0;0,8667;0,1333; 45;0
+Saint Kitts and Nevis;2020-05-09;15;0;0;0;14;1; 1;-1;2020;maj; 9;sobota;0;0,9333;0,0667; 46;0
+Saint Kitts and Nevis;2020-05-10;15;0;0;0;14;0; 1; 0;2020;maj;10;niedziela;0;0,9333;0,0667; 47;0
+Saint Kitts and Nevis;2020-05-11;15;0;0;0;14;0; 1; 0;2020;maj;11;poniedziałek;0;0,9333;0,0667; 48;0
+Saint Kitts and Nevis;2020-05-12;15;0;0;0;14;0; 1; 0;2020;maj;12;wtorek;0;0,9333;0,0667; 49;0
+Saint Kitts and Nevis;2020-05-13;15;0;0;0;14;0; 1; 0;2020;maj;13;środa;0;0,9333;0,0667; 50;0
+Saint Kitts and Nevis;2020-05-14;15;0;0;0;14;0; 1; 0;2020;maj;14;czwartek;0;0,9333;0,0667; 51;0
+Saint Kitts and Nevis;2020-05-15;15;0;0;0;14;0; 1; 0;2020;maj;15;piątek;0;0,9333;0,0667; 52;0
+Saint Kitts and Nevis;2020-05-16;15;0;0;0;14;0; 1; 0;2020;maj;16;sobota;0;0,9333;0,0667; 53;0
+Saint Kitts and Nevis;2020-05-17;15;0;0;0;14;0; 1; 0;2020;maj;17;niedziela;0;0,9333;0,0667; 54;0
+Saint Kitts and Nevis;2020-05-18;15;0;0;0;14;0; 1; 0;2020;maj;18;poniedziałek;0;0,9333;0,0667; 55;0
+Saint Kitts and Nevis;2020-05-19;15;0;0;0;15;1; 0;-1;2020;maj;19;wtorek;0;1,0000;0,0000; 56;0
+Saint Kitts and Nevis;2020-05-20;15;0;0;0;15;0; 0; 0;2020;maj;20;środa;0;1,0000;0,0000; 57;0
+Saint Kitts and Nevis;2020-05-21;15;0;0;0;15;0; 0; 0;2020;maj;21;czwartek;0;1,0000;0,0000; 58;0
+Saint Kitts and Nevis;2020-05-22;15;0;0;0;15;0; 0; 0;2020;maj;22;piątek;0;1,0000;0,0000; 59;0
+Saint Kitts and Nevis;2020-05-23;15;0;0;0;15;0; 0; 0;2020;maj;23;sobota;0;1,0000;0,0000; 60;0
+Saint Kitts and Nevis;2020-05-24;15;0;0;0;15;0; 0; 0;2020;maj;24;niedziela;0;1,0000;0,0000; 61;0
+Saint Kitts and Nevis;2020-05-25;15;0;0;0;15;0; 0; 0;2020;maj;25;poniedziałek;0;1,0000;0,0000; 62;0
+Saint Kitts and Nevis;2020-05-26;15;0;0;0;15;0; 0; 0;2020;maj;26;wtorek;0;1,0000;0,0000; 63;0
+Saint Kitts and Nevis;2020-05-27;15;0;0;0;15;0; 0; 0;2020;maj;27;środa;0;1,0000;0,0000; 64;0
+Saint Kitts and Nevis;2020-05-28;15;0;0;0;15;0; 0; 0;2020;maj;28;czwartek;0;1,0000;0,0000; 65;0
+Saint Kitts and Nevis;2020-05-29;15;0;0;0;15;0; 0; 0;2020;maj;29;piątek;0;1,0000;0,0000; 66;0
+Saint Kitts and Nevis;2020-05-30;15;0;0;0;15;0; 0; 0;2020;maj;30;sobota;0;1,0000;0,0000; 67;0
+Saint Kitts and Nevis;2020-05-31;15;0;0;0;15;0; 0; 0;2020;maj;31;niedziela;0;1,0000;0,0000; 68;0
+Saint Kitts and Nevis;2020-06-01;15;0;0;0;15;0; 0; 0;2020;czerwiec; 1;poniedziałek;0;1,0000;0,0000; 69;0
+Saint Kitts and Nevis;2020-06-02;15;0;0;0;15;0; 0; 0;2020;czerwiec; 2;wtorek;0;1,0000;0,0000; 70;0
+Saint Kitts and Nevis;2020-06-03;15;0;0;0;15;0; 0; 0;2020;czerwiec; 3;środa;0;1,0000;0,0000; 71;0
+Saint Kitts and Nevis;2020-06-04;15;0;0;0;15;0; 0; 0;2020;czerwiec; 4;czwartek;0;1,0000;0,0000; 72;0
+Saint Kitts and Nevis;2020-06-05;15;0;0;0;15;0; 0; 0;2020;czerwiec; 5;piątek;0;1,0000;0,0000; 73;0
+Saint Kitts and Nevis;2020-06-06;15;0;0;0;15;0; 0; 0;2020;czerwiec; 6;sobota;0;1,0000;0,0000; 74;0
+Saint Kitts and Nevis;2020-06-07;15;0;0;0;15;0; 0; 0;2020;czerwiec; 7;niedziela;0;1,0000;0,0000; 75;0
+Saint Kitts and Nevis;2020-06-08;15;0;0;0;15;0; 0; 0;2020;czerwiec; 8;poniedziałek;0;1,0000;0,0000; 76;0
+Saint Kitts and Nevis;2020-06-09;15;0;0;0;15;0; 0; 0;2020;czerwiec; 9;wtorek;0;1,0000;0,0000; 77;0
+Saint Kitts and Nevis;2020-06-10;15;0;0;0;15;0; 0; 0;2020;czerwiec;10;środa;0;1,0000;0,0000; 78;0
+Saint Kitts and Nevis;2020-06-11;15;0;0;0;15;0; 0; 0;2020;czerwiec;11;czwartek;0;1,0000;0,0000; 79;0
+Saint Kitts and Nevis;2020-06-12;15;0;0;0;15;0; 0; 0;2020;czerwiec;12;piątek;0;1,0000;0,0000; 80;0
+Saint Kitts and Nevis;2020-06-13;15;0;0;0;15;0; 0; 0;2020;czerwiec;13;sobota;0;1,0000;0,0000; 81;0
+Saint Kitts and Nevis;2020-06-14;15;0;0;0;15;0; 0; 0;2020;czerwiec;14;niedziela;0;1,0000;0,0000; 82;0
+Saint Kitts and Nevis;2020-06-15;15;0;0;0;15;0; 0; 0;2020;czerwiec;15;poniedziałek;0;1,0000;0,0000; 83;0
+Saint Kitts and Nevis;2020-06-16;15;0;0;0;15;0; 0; 0;2020;czerwiec;16;wtorek;0;1,0000;0,0000; 84;0
+Saint Kitts and Nevis;2020-06-17;15;0;0;0;15;0; 0; 0;2020;czerwiec;17;środa;0;1,0000;0,0000; 85;0
+Saint Kitts and Nevis;2020-06-18;15;0;0;0;15;0; 0; 0;2020;czerwiec;18;czwartek;0;1,0000;0,0000; 86;0
+Saint Kitts and Nevis;2020-06-19;15;0;0;0;15;0; 0; 0;2020;czerwiec;19;piątek;0;1,0000;0,0000; 87;0
+Saint Kitts and Nevis;2020-06-20;15;0;0;0;15;0; 0; 0;2020;czerwiec;20;sobota;0;1,0000;0,0000; 88;0
+Saint Kitts and Nevis;2020-06-21;15;0;0;0;15;0; 0; 0;2020;czerwiec;21;niedziela;0;1,0000;0,0000; 89;0
+Saint Kitts and Nevis;2020-06-22;15;0;0;0;15;0; 0; 0;2020;czerwiec;22;poniedziałek;0;1,0000;0,0000; 90;0
+Saint Kitts and Nevis;2020-06-23;15;0;0;0;15;0; 0; 0;2020;czerwiec;23;wtorek;0;1,0000;0,0000; 91;0
+Saint Kitts and Nevis;2020-06-24;15;0;0;0;15;0; 0; 0;2020;czerwiec;24;środa;0;1,0000;0,0000; 92;0
+Saint Kitts and Nevis;2020-06-25;15;0;0;0;15;0; 0; 0;2020;czerwiec;25;czwartek;0;1,0000;0,0000; 93;0
+Saint Kitts and Nevis;2020-06-26;15;0;0;0;15;0; 0; 0;2020;czerwiec;26;piątek;0;1,0000;0,0000; 94;0
+Saint Kitts and Nevis;2020-06-27;15;0;0;0;15;0; 0; 0;2020;czerwiec;27;sobota;0;1,0000;0,0000; 95;0
+Saint Kitts and Nevis;2020-06-28;15;0;0;0;15;0; 0; 0;2020;czerwiec;28;niedziela;0;1,0000;0,0000; 96;0
+Saint Kitts and Nevis;2020-06-29;15;0;0;0;15;0; 0; 0;2020;czerwiec;29;poniedziałek;0;1,0000;0,0000; 97;0
+Saint Kitts and Nevis;2020-06-30;15;0;0;0;15;0; 0; 0;2020;czerwiec;30;wtorek;0;1,0000;0,0000; 98;0
+Saint Kitts and Nevis;2020-07-01;15;0;0;0;15;0; 0; 0;2020;lipiec; 1;środa;0;1,0000;0,0000; 99;0
+Saint Kitts and Nevis;2020-07-02;15;0;0;0;15;0; 0; 0;2020;lipiec; 2;czwartek;0;1,0000;0,0000;100;0
+Saint Kitts and Nevis;2020-07-03;15;0;0;0;15;0; 0; 0;2020;lipiec; 3;piątek;0;1,0000;0,0000;101;0
+Saint Kitts and Nevis;2020-07-04;16;1;0;0;15;0; 1; 1;2020;lipiec; 4;sobota;0;0,9375;0,0625;102;0
+Saint Kitts and Nevis;2020-07-05;16;0;0;0;15;0; 1; 0;2020;lipiec; 5;niedziela;0;0,9375;0,0625;103;0
+Saint Kitts and Nevis;2020-07-06;16;0;0;0;15;0; 1; 0;2020;lipiec; 6;poniedziałek;0;0,9375;0,0625;104;0
+Saint Kitts and Nevis;2020-07-07;16;0;0;0;15;0; 1; 0;2020;lipiec; 7;wtorek;0;0,9375;0,0625;105;0
+Saint Kitts and Nevis;2020-07-08;16;0;0;0;15;0; 1; 0;2020;lipiec; 8;środa;0;0,9375;0,0625;106;0
+Saint Kitts and Nevis;2020-07-09;16;0;0;0;15;0; 1; 0;2020;lipiec; 9;czwartek;0;0,9375;0,0625;107;0
+Saint Kitts and Nevis;2020-07-10;17;1;0;0;15;0; 2; 1;2020;lipiec;10;piątek;0;0,8824;0,1176;108;0
+Saint Kitts and Nevis;2020-07-11;17;0;0;0;15;0; 2; 0;2020;lipiec;11;sobota;0;0,8824;0,1176;109;0
+Saint Kitts and Nevis;2020-07-12;17;0;0;0;15;0; 2; 0;2020;lipiec;12;niedziela;0;0,8824;0,1176;110;0
+Saint Kitts and Nevis;2020-07-13;17;0;0;0;15;0; 2; 0;2020;lipiec;13;poniedziałek;0;0,8824;0,1176;111;0
+Saint Kitts and Nevis;2020-07-14;17;0;0;0;15;0; 2; 0;2020;lipiec;14;wtorek;0;0,8824;0,1176;112;0
