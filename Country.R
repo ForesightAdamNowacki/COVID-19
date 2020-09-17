@@ -153,8 +153,8 @@ coronavirus_country <- function(country, save_stats = FALSE, save_plots = FALSE)
     dplyr::mutate(Type = base::factor(Type, levels = base::c("New_Confirmed", "New_Deaths", "New_Recovered", "New_Active"), ordered = TRUE)) %>%
     ggplot2::ggplot(data = ., mapping = ggplot2::aes(x = Date, y = Count, colour = Type)) +
     ggplot2::geom_segment(mapping = ggplot2::aes(x = Date, xend = Date, y = 0, yend = Count, colour = Type), lwd = 1.5) +
-    ggplot2::geom_smooth(color = "white", lwd = 2, se = FALSE) +
-    ggplot2::geom_smooth(se = FALSE) +
+    # ggplot2::geom_smooth(color = "white", lwd = 2, se = FALSE) +
+    # ggplot2::geom_smooth(se = FALSE) +
     ggplot2::labs(x = "Date",
                   y = "Count",
                   title = base::paste(stringr::str_to_upper(country), "- day-to-day fluctuations"),
@@ -243,7 +243,8 @@ coronavirus_country <- function(country, save_stats = FALSE, save_plots = FALSE)
                   Active_Ratio = base::round(Active/Confirmed, 4)) %>%
     dplyr::filter(Confirmed > 0) %>%
     dplyr::mutate(Day_Since_1st_Confirmed = dplyr::row_number(),
-                  Day_Since_100st_Confirmed = base::cumsum(base::ifelse(Confirmed > 100, 1, 0))) -> concatenated_2
+                  Day_Since_100st_Confirmed = base::cumsum(base::ifelse(Confirmed > 100, 1, 0)),
+                  New_Confirmed_Rank = base::rank(-New_Confirmed)) -> concatenated_2
   
   concatenated_2 %>%
     knitr::kable() %>%
@@ -263,7 +264,7 @@ coronavirus_country <- function(country, save_stats = FALSE, save_plots = FALSE)
 
 #-------------------------------------------------------------------------------
 # Test function - analyse particular coutry:
-coronavirus_country("US")
+coronavirus_country("China")
 
 #-------------------------------------------------------------------------------
 # Available countries list:
