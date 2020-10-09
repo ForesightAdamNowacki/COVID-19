@@ -264,7 +264,9 @@ coronavirus_country <- function(country, save_stats = FALSE, save_plots = FALSE)
 
 #-------------------------------------------------------------------------------
 # Test function - analyse particular coutry:
-coronavirus_country("China")
+coronavirus_country("Poland")
+coronavirus_country("Poland") %>%
+  readr::write_csv2("Poland.csv")
 
 #-------------------------------------------------------------------------------
 # Available countries list:
