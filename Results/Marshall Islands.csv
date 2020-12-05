@@ -1,0 +1,38 @@
+Country;Date;Confirmed;New_Confirmed;Deaths;New_Deaths;Recovered;New_Recovered;Active;New_Active;Year;Month;Day;Week_Day;Deaths_Ratio;Recovered_Ratio;Active_Ratio;1_Confirmed;100_Confirmed;New_Confirmed_Rank;New_Deaths_Rank;New_Recovered_Rank;New_Active_Rank
+Marshall Islands;2020-10-28;2; 2;0;0;0;0;2; 2;2020;październik;28;środa;0;0,00;1,00; 1;0; 2,0;19;20; 2,0
+Marshall Islands;2020-10-29;2; 0;0;0;0;0;2; 0;2020;październik;29;czwartek;0;0,00;1,00; 2;0;19,5;19;20;18,5
+Marshall Islands;2020-10-30;2; 0;0;0;0;0;2; 0;2020;październik;30;piątek;0;0,00;1,00; 3;0;19,5;19;20;18,5
+Marshall Islands;2020-10-31;2; 0;0;0;0;0;2; 0;2020;październik;31;sobota;0;0,00;1,00; 4;0;19,5;19;20;18,5
+Marshall Islands;2020-11-01;2; 0;0;0;0;0;2; 0;2020;listopad; 1;niedziela;0;0,00;1,00; 5;0;19,5;19;20;18,5
+Marshall Islands;2020-11-02;2; 0;0;0;0;0;2; 0;2020;listopad; 2;poniedziałek;0;0,00;1,00; 6;0;19,5;19;20;18,5
+Marshall Islands;2020-11-03;2; 0;0;0;0;0;2; 0;2020;listopad; 3;wtorek;0;0,00;1,00; 7;0;19,5;19;20;18,5
+Marshall Islands;2020-11-04;2; 0;0;0;0;0;2; 0;2020;listopad; 4;środa;0;0,00;1,00; 8;0;19,5;19;20;18,5
+Marshall Islands;2020-11-05;1;-1;0;0;0;0;1;-1;2020;listopad; 5;czwartek;0;0,00;1,00; 9;0;37,0;19;20;35,5
+Marshall Islands;2020-11-06;1; 0;0;0;0;0;1; 0;2020;listopad; 6;piątek;0;0,00;1,00;10;0;19,5;19;20;18,5
+Marshall Islands;2020-11-07;1; 0;0;0;0;0;1; 0;2020;listopad; 7;sobota;0;0,00;1,00;11;0;19,5;19;20;18,5
+Marshall Islands;2020-11-08;1; 0;0;0;0;0;1; 0;2020;listopad; 8;niedziela;0;0,00;1,00;12;0;19,5;19;20;18,5
+Marshall Islands;2020-11-09;1; 0;0;0;0;0;1; 0;2020;listopad; 9;poniedziałek;0;0,00;1,00;13;0;19,5;19;20;18,5
+Marshall Islands;2020-11-10;1; 0;0;0;0;0;1; 0;2020;listopad;10;wtorek;0;0,00;1,00;14;0;19,5;19;20;18,5
+Marshall Islands;2020-11-11;1; 0;0;0;0;0;1; 0;2020;listopad;11;środa;0;0,00;1,00;15;0;19,5;19;20;18,5
+Marshall Islands;2020-11-12;1; 0;0;0;0;0;1; 0;2020;listopad;12;czwartek;0;0,00;1,00;16;0;19,5;19;20;18,5
+Marshall Islands;2020-11-13;1; 0;0;0;1;1;0;-1;2020;listopad;13;piątek;0;1,00;0,00;17;0;19,5;19; 2;35,5
+Marshall Islands;2020-11-14;1; 0;0;0;1;0;0; 0;2020;listopad;14;sobota;0;1,00;0,00;18;0;19,5;19;20;18,5
+Marshall Islands;2020-11-15;1; 0;0;0;1;0;0; 0;2020;listopad;15;niedziela;0;1,00;0,00;19;0;19,5;19;20;18,5
+Marshall Islands;2020-11-16;1; 0;0;0;1;0;0; 0;2020;listopad;16;poniedziałek;0;1,00;0,00;20;0;19,5;19;20;18,5
+Marshall Islands;2020-11-17;4; 3;0;0;1;0;3; 3;2020;listopad;17;wtorek;0;0,25;0,75;21;0; 1,0;19;20; 1,0
+Marshall Islands;2020-11-18;4; 0;0;0;1;0;3; 0;2020;listopad;18;środa;0;0,25;0,75;22;0;19,5;19;20;18,5
+Marshall Islands;2020-11-19;4; 0;0;0;1;0;3; 0;2020;listopad;19;czwartek;0;0,25;0,75;23;0;19,5;19;20;18,5
+Marshall Islands;2020-11-20;4; 0;0;0;1;0;3; 0;2020;listopad;20;piątek;0;0,25;0,75;24;0;19,5;19;20;18,5
+Marshall Islands;2020-11-21;4; 0;0;0;1;0;3; 0;2020;listopad;21;sobota;0;0,25;0,75;25;0;19,5;19;20;18,5
+Marshall Islands;2020-11-22;4; 0;0;0;1;0;3; 0;2020;listopad;22;niedziela;0;0,25;0,75;26;0;19,5;19;20;18,5
+Marshall Islands;2020-11-23;4; 0;0;0;1;0;3; 0;2020;listopad;23;poniedziałek;0;0,25;0,75;27;0;19,5;19;20;18,5
+Marshall Islands;2020-11-24;4; 0;0;0;1;0;3; 0;2020;listopad;24;wtorek;0;0,25;0,75;28;0;19,5;19;20;18,5
+Marshall Islands;2020-11-25;4; 0;0;0;1;0;3; 0;2020;listopad;25;środa;0;0,25;0,75;29;0;19,5;19;20;18,5
+Marshall Islands;2020-11-26;4; 0;0;0;1;0;3; 0;2020;listopad;26;czwartek;0;0,25;0,75;30;0;19,5;19;20;18,5
+Marshall Islands;2020-11-27;4; 0;0;0;1;0;3; 0;2020;listopad;27;piątek;0;0,25;0,75;31;0;19,5;19;20;18,5
+Marshall Islands;2020-11-28;4; 0;0;0;1;0;3; 0;2020;listopad;28;sobota;0;0,25;0,75;32;0;19,5;19;20;18,5
+Marshall Islands;2020-11-29;4; 0;0;0;1;0;3; 0;2020;listopad;29;niedziela;0;0,25;0,75;33;0;19,5;19;20;18,5
+Marshall Islands;2020-11-30;4; 0;0;0;1;0;3; 0;2020;listopad;30;poniedziałek;0;0,25;0,75;34;0;19,5;19;20;18,5
+Marshall Islands;2020-12-01;4; 0;0;0;1;0;3; 0;2020;grudzień; 1;wtorek;0;0,25;0,75;35;0;19,5;19;20;18,5
+Marshall Islands;2020-12-02;4; 0;0;0;1;0;3; 0;2020;grudzień; 2;środa;0;0,25;0,75;36;0;19,5;19;20;18,5
+Marshall Islands;2020-12-03;4; 0;0;0;4;3;0;-3;2020;grudzień; 3;czwartek;0;1,00;0,00;37;0;19,5;19; 1;37,0

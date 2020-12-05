@@ -242,9 +242,12 @@ coronavirus_country <- function(country, save_stats = FALSE, save_plots = FALSE)
                   Recovered_Ratio = base::round(Recovered/Confirmed, 4),
                   Active_Ratio = base::round(Active/Confirmed, 4)) %>%
     dplyr::filter(Confirmed > 0) %>%
-    dplyr::mutate(Day_Since_1st_Confirmed = dplyr::row_number(),
-                  Day_Since_100st_Confirmed = base::cumsum(base::ifelse(Confirmed > 100, 1, 0)),
-                  New_Confirmed_Rank = base::rank(-New_Confirmed)) -> concatenated_2
+    dplyr::mutate(`1_Confirmed` = dplyr::row_number(),
+                  `100_Confirmed` = base::cumsum(base::ifelse(Confirmed > 100, 1, 0)),
+                  New_Confirmed_Rank = base::rank(-New_Confirmed),
+                  New_Deaths_Rank = base::rank(-New_Deaths),
+                  New_Recovered_Rank = base::rank(-New_Recovered),
+                  New_Active_Rank = base::rank(-New_Active)) -> concatenated_2
   
   concatenated_2 %>%
     knitr::kable() %>%

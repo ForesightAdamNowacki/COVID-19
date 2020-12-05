@@ -1,0 +1,25 @@
+Country;Date;Confirmed;New_Confirmed;Deaths;New_Deaths;Recovered;New_Recovered;Active;New_Active;Year;Month;Day;Week_Day;Deaths_Ratio;Recovered_Ratio;Active_Ratio;1_Confirmed;100_Confirmed;New_Confirmed_Rank;New_Deaths_Rank;New_Recovered_Rank;New_Active_Rank
+Vanuatu;2020-11-10;1;1;0;0;0;0;1; 1;2020;listopad;10;wtorek;0;0;1; 1;0; 1;12,5;13; 1,0
+Vanuatu;2020-11-11;1;0;0;0;0;0;1; 0;2020;listopad;11;środa;0;0;1; 2;0;13;12,5;13;12,5
+Vanuatu;2020-11-12;1;0;0;0;0;0;1; 0;2020;listopad;12;czwartek;0;0;1; 3;0;13;12,5;13;12,5
+Vanuatu;2020-11-13;1;0;0;0;0;0;1; 0;2020;listopad;13;piątek;0;0;1; 4;0;13;12,5;13;12,5
+Vanuatu;2020-11-14;1;0;0;0;0;0;1; 0;2020;listopad;14;sobota;0;0;1; 5;0;13;12,5;13;12,5
+Vanuatu;2020-11-15;1;0;0;0;0;0;1; 0;2020;listopad;15;niedziela;0;0;1; 6;0;13;12,5;13;12,5
+Vanuatu;2020-11-16;1;0;0;0;0;0;1; 0;2020;listopad;16;poniedziałek;0;0;1; 7;0;13;12,5;13;12,5
+Vanuatu;2020-11-17;1;0;0;0;0;0;1; 0;2020;listopad;17;wtorek;0;0;1; 8;0;13;12,5;13;12,5
+Vanuatu;2020-11-18;1;0;0;0;0;0;1; 0;2020;listopad;18;środa;0;0;1; 9;0;13;12,5;13;12,5
+Vanuatu;2020-11-19;1;0;0;0;0;0;1; 0;2020;listopad;19;czwartek;0;0;1;10;0;13;12,5;13;12,5
+Vanuatu;2020-11-20;1;0;0;0;0;0;1; 0;2020;listopad;20;piątek;0;0;1;11;0;13;12,5;13;12,5
+Vanuatu;2020-11-21;1;0;0;0;0;0;1; 0;2020;listopad;21;sobota;0;0;1;12;0;13;12,5;13;12,5
+Vanuatu;2020-11-22;1;0;0;0;0;0;1; 0;2020;listopad;22;niedziela;0;0;1;13;0;13;12,5;13;12,5
+Vanuatu;2020-11-23;1;0;0;0;0;0;1; 0;2020;listopad;23;poniedziałek;0;0;1;14;0;13;12,5;13;12,5
+Vanuatu;2020-11-24;1;0;0;0;0;0;1; 0;2020;listopad;24;wtorek;0;0;1;15;0;13;12,5;13;12,5
+Vanuatu;2020-11-25;1;0;0;0;0;0;1; 0;2020;listopad;25;środa;0;0;1;16;0;13;12,5;13;12,5
+Vanuatu;2020-11-26;1;0;0;0;0;0;1; 0;2020;listopad;26;czwartek;0;0;1;17;0;13;12,5;13;12,5
+Vanuatu;2020-11-27;1;0;0;0;0;0;1; 0;2020;listopad;27;piątek;0;0;1;18;0;13;12,5;13;12,5
+Vanuatu;2020-11-28;1;0;0;0;0;0;1; 0;2020;listopad;28;sobota;0;0;1;19;0;13;12,5;13;12,5
+Vanuatu;2020-11-29;1;0;0;0;0;0;1; 0;2020;listopad;29;niedziela;0;0;1;20;0;13;12,5;13;12,5
+Vanuatu;2020-11-30;1;0;0;0;0;0;1; 0;2020;listopad;30;poniedziałek;0;0;1;21;0;13;12,5;13;12,5
+Vanuatu;2020-12-01;1;0;0;0;0;0;1; 0;2020;grudzień; 1;wtorek;0;0;1;22;0;13;12,5;13;12,5
+Vanuatu;2020-12-02;1;0;0;0;0;0;1; 0;2020;grudzień; 2;środa;0;0;1;23;0;13;12,5;13;12,5
+Vanuatu;2020-12-03;1;0;0;0;1;1;0;-1;2020;grudzień; 3;czwartek;0;1;0;24;0;13;12,5; 1;24,0

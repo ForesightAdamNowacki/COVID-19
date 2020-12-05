@@ -43,7 +43,8 @@ confirmed %>%
   dplyr::summarise(Value = base::sum(Value)) %>%
   dplyr::mutate(Date = lubridate::as_date(Date),
                 Type = "Confirmed") %>%
-  dplyr::arrange(Country, Date) -> Type_1; Type_1
+  dplyr::arrange(Country, Date) %>%
+  dplyr::ungroup() -> Type_1; Type_1
 
 # Deaths:
 deaths <- readr::read_csv(base::paste(base::getwd(), "Data", "time_series_covid19_deaths_global.csv", sep = "/"))
@@ -60,7 +61,8 @@ deaths %>%
   dplyr::summarise(Value = base::sum(Value)) %>%
   dplyr::mutate(Date = lubridate::as_date(Date),
                 Type = "Deaths") %>%
-  dplyr::arrange(Country, Date) -> Type_2; Type_2
+  dplyr::arrange(Country, Date) %>%
+  dplyr::ungroup() -> Type_2; Type_2
 
 # Recovered:
 recovered <- readr::read_csv(base::paste(base::getwd(), "Data", "time_series_covid19_recovered_global.csv", sep = "/"))
@@ -77,7 +79,8 @@ recovered %>%
   dplyr::summarise(Value = base::sum(Value)) %>%
   dplyr::mutate(Date = lubridate::as_date(Date),
                 Type = "Recovered") %>%
-  dplyr::arrange(Country, Date) -> Type_3; Type_3
+  dplyr::arrange(Country, Date) %>%
+  dplyr::ungroup() -> Type_3; Type_3
 
 Type <- dplyr::bind_rows(Type_1, Type_2, Type_3) %>%
   tidyr::pivot_wider(names_from = "Type",
@@ -85,7 +88,7 @@ Type <- dplyr::bind_rows(Type_1, Type_2, Type_3) %>%
   dplyr::mutate(Active = Confirmed - Deaths - Recovered) %>%
   tidyr::pivot_longer(cols = base::c("Confirmed", "Deaths", "Recovered", "Active"),
                       values_to = "Value",
-                      names_to = "Type") 
+                      names_to = "Type") ; Type
 
 #-------------------------------------------------------------------------------
 # Europe
@@ -148,6 +151,8 @@ set_theme <- ggplot2::theme(plot.title = ggplot2::element_text(size = 9, color =
 data <- europe_map %>%
   dplyr::left_join(data_filtered, by = "Country")
 
+#-------------------------------------------------------------------------------
+# Generate GIFs:
 data %>%
   dplyr::filter(Type == "Confirmed") %>%
   ggplot2::ggplot(data = ., mapping = ggplot2::aes(x = long, y = lat)) +
@@ -162,6 +167,7 @@ data %>%
   ggplot2::coord_map() +
   gganimate::transition_time(Date) -> plot_type_1
 plot_type_1_gif <- gganimate::animate(plot_type_1, width = 480, height = 480)
+gganimate::save_animation(plot_type_1_gif, "plot_1.gif")
 
 data %>%
   dplyr::filter(Type == "Deaths") %>%
@@ -177,6 +183,7 @@ data %>%
   ggplot2::coord_map() +
   gganimate::transition_time(Date) -> plot_type_2
 plot_type_2_gif <- gganimate::animate(plot_type_2, width = 480, height = 480)
+gganimate::save_animation(plot_type_2_gif, "plot_2.gif")
 
 data %>%
   dplyr::filter(Type == "Recovered") %>%
@@ -192,6 +199,7 @@ data %>%
   ggplot2::coord_map() +
   gganimate::transition_time(Date) -> plot_type_3
 plot_type_3_gif <- gganimate::animate(plot_type_3, width = 480, height = 480)
+gganimate::save_animation(plot_type_3_gif, "plot_3.gif")
 
 data %>%
   dplyr::filter(Type == "Active") %>%
@@ -207,26 +215,20 @@ data %>%
   ggplot2::coord_map() +
   gganimate::transition_time(Date) -> plot_type_4
 plot_type_4_gif <- gganimate::animate(plot_type_4, width = 480, height = 480)
-
-gganimate::save_animation(plot_type_1_gif, "plot_1.gif")
-gganimate::save_animation(plot_type_2_gif, "plot_2.gif")
-gganimate::save_animation(plot_type_3_gif, "plot_3.gif")
 gganimate::save_animation(plot_type_4_gif, "plot_4.gif")
 
+#-------------------------------------------------------------------------------
+# Combine GIFs:
 plot_1_mgif <- magick::image_read("plot_1.gif")
 plot_2_mgif <- magick::image_read("plot_2.gif")
 plot_3_mgif <- magick::image_read("plot_3.gif")
 plot_4_mgif <- magick::image_read("plot_4.gif")
-
-
 
 new_gif <- magick::image_append(base::c(plot_1_mgif[1], plot_2_mgif[1], plot_3_mgif[1], plot_4_mgif[1]))
 for(i in 2:100){
   combined <- magick::image_append(base::c(plot_1_mgif[i], plot_2_mgif[i], plot_3_mgif[i], plot_4_mgif[i]))
   new_gif <- c(new_gif, combined)
 }
-
-new_gif
 
 gganimate::save_animation(new_gif, "final.gif")
 
@@ -236,104 +238,6 @@ gganimate::save_animation(new_gif, "final.gif")
 
 
 
-
-
-
-
-
-
-
-
-data_filtered$Type %>% unique()
-
-
-
-
-europe_map %>%
-  dplyr::left_join(data_filtered, by = "Country") %>%
-  dplyr::mutate(subregion = NULL,
-                New_Confirmed = NULL,
-                order = NULL) %>%
-  ggplot2::ggplot(data = ., mapping = ggplot2::aes(x = long, y = lat)) +
-  ggplot2::geom_polygon(mapping = ggplot2::aes(group = group, fill = Confirmed), col = "white") +
-  ggplot2::labs(x = "Longitude",
-                y = "Latitude",
-                title = 'Date: {frame_time}') +
-  gganimate::transition_time(Date)
-
-confirmed$Date %>% uni
-
-
-# -----
-## standard ggplot2
-library(gapminder)
-library(gganimate)
-gapminder
-
-ggplot(gapminder, aes(gdpPercap, lifeExp, size = pop, colour = country)) +
-  geom_point(alpha = 0.7, show.legend = FALSE) +
-  scale_colour_manual(values = country_colors) +
-  scale_size(range = c(2, 12)) +
-  scale_x_log10() +
-  # Here comes the gganimate specific bits
-  labs(title = 'Year: {frame_time}', x = 'GDP per capita', y = 'life expectancy') +
-  transition_time(year) +
-  ease_aes('linear')
-
-
-# ---
-library(tidyverse)
-library(gganimate)
-devtools::install_github("thomasp85/transformr")
-library(urbanmapr)
-
-#1. counties dataset for the shading of the background
-data(counties)
-#keep only Texas counties
-counties <- filter(counties, state_fips==48)
-
-#2. dots dataset for dots over time
-dots <- data.frame(group = c(rep(1,3), rep(2,3)), 
-                   lat = c(rep(32, 3), rep(33, 3)),
-                   long = c(rep(-100, 3), rep(-99,3)), 
-                   year = c(1:3, 1:3))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Some EU Contries
-some.eu.countries <- c(
-  "Portugal", "Spain", "France", "Switzerland", "Germany",
-  "Austria", "Belgium", "UK", "Netherlands",
-  "Denmark", "Poland", "Italy", 
-  "Croatia", "Slovenia", "Hungary", "Slovakia",
-  "Czech republic"
-)
-# Retrievethe map data
-some.eu.maps <- map_data("world", region = some.eu.countries)
-
-# Compute the centroid as the mean longitude and lattitude
-# Used as label coordinate for country's names
-region.lab.data <- some.eu.maps %>%
-  group_by(region) %>%
-  summarise(long = mean(long), lat = mean(lat))
-
-ggplot(some.eu.maps, aes(x = long, y = lat)) +
-  geom_polygon(aes( group = group, fill = region))+
-  geom_text(aes(label = region), data = region.lab.data,  size = 3, hjust = 0.5)+
-  scale_fill_viridis_d()+
-  theme_void()+
-  theme(legend.position = "none")
 
 
 
