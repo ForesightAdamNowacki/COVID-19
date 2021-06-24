@@ -34,7 +34,7 @@ coronavirus_country <- function(country, save_stats = FALSE, save_plots = FALSE)
   confirmed %>%
     dplyr::mutate(Latitude = NULL,
                   Longitude = NULL) %>%
-    tidyr::pivot_longer(cols = dplyr::starts_with("2020"),
+    tidyr::pivot_longer(cols = dplyr::starts_with("202"),
                         names_to = "Date",
                         values_to = "Confirmed") %>%
     dplyr::mutate(Province_State = NULL) %>%
@@ -54,7 +54,7 @@ coronavirus_country <- function(country, save_stats = FALSE, save_plots = FALSE)
   deaths %>%
     dplyr::mutate(Latitude = NULL,
                   Longitude = NULL) %>%
-    tidyr::pivot_longer(cols = dplyr::starts_with("2020"),
+    tidyr::pivot_longer(cols = dplyr::starts_with("202"),
                         names_to = "Date",
                         values_to = "Deaths") %>%
     dplyr::mutate(Province_State = NULL) %>%
@@ -74,7 +74,7 @@ coronavirus_country <- function(country, save_stats = FALSE, save_plots = FALSE)
   recovered %>%
     dplyr::mutate(Latitude = NULL,
                   Longitude = NULL) %>%
-    tidyr::pivot_longer(cols = dplyr::starts_with("2020"),
+    tidyr::pivot_longer(cols = dplyr::starts_with("202"),
                         names_to = "Date",
                         values_to = "Recovered") %>%
     dplyr::mutate(Province_State = NULL) %>%
@@ -145,11 +145,16 @@ coronavirus_country <- function(country, save_stats = FALSE, save_plots = FALSE)
                    legend.title = ggplot2::element_text(size = 8, color = "black", face = "bold"),
                    strip.background = ggplot2::element_rect(colour = "black", fill = "gray90")) -> plot1
   
+  new_ <- concatenated_longer %>%
+    dplyr::filter(Type %in% base::c("New_Confirmed", "New_Deaths", "New_Recovered", "New_Active")) %>%
+    dplyr::pull(Count)
+
   concatenated_longer %>%
     dplyr::filter(Type %in% base::c("New_Confirmed", "New_Deaths", "New_Recovered", "New_Active")) %>%
     dplyr::group_by(Date) %>%
     dplyr::mutate(Status = base::sum(Count)) %>%
     dplyr::filter(Status != 0) %>%
+    dplyr::filter(Count > quantile(new_, 0.0001) & Count < quantile(new_, 0.9999)) %>%
     dplyr::mutate(Type = base::factor(Type, levels = base::c("New_Confirmed", "New_Deaths", "New_Recovered", "New_Active"), ordered = TRUE)) %>%
     ggplot2::ggplot(data = ., mapping = ggplot2::aes(x = Date, y = Count, colour = Type)) +
     ggplot2::geom_segment(mapping = ggplot2::aes(x = Date, xend = Date, y = 0, yend = Count, colour = Type), lwd = 1.5) +
@@ -267,9 +272,7 @@ coronavirus_country <- function(country, save_stats = FALSE, save_plots = FALSE)
 
 #-------------------------------------------------------------------------------
 # Test function - analyse particular coutry:
-coronavirus_country("Poland")
-coronavirus_country("Poland") %>%
-  readr::write_csv2("Poland.csv")
+coronavirus_country(country = "Poland")
 
 #-------------------------------------------------------------------------------
 # Available countries list:

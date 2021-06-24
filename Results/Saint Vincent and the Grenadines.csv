@@ -1,266 +1,468 @@
 Country;Date;Confirmed;New_Confirmed;Deaths;New_Deaths;Recovered;New_Recovered;Active;New_Active;Year;Month;Day;Week_Day;Deaths_Ratio;Recovered_Ratio;Active_Ratio;1_Confirmed;100_Confirmed;New_Confirmed_Rank;New_Deaths_Rank;New_Recovered_Rank;New_Active_Rank
-Saint Vincent and the Grenadines;2020-03-14; 1;1;0;0; 0;0; 1; 1;2020;marzec;14;sobota;0;0,0000;1,0000;  1;0; 30,0;133;153; 21,0
-Saint Vincent and the Grenadines;2020-03-15; 1;0;0;0; 0;0; 1; 0;2020;marzec;15;niedziela;0;0,0000;1,0000;  2;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-03-16; 1;0;0;0; 0;0; 1; 0;2020;marzec;16;poniedziałek;0;0,0000;1,0000;  3;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-03-17; 1;0;0;0; 0;0; 1; 0;2020;marzec;17;wtorek;0;0,0000;1,0000;  4;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-03-18; 1;0;0;0; 0;0; 1; 0;2020;marzec;18;środa;0;0,0000;1,0000;  5;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-03-19; 1;0;0;0; 0;0; 1; 0;2020;marzec;19;czwartek;0;0,0000;1,0000;  6;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-03-20; 1;0;0;0; 0;0; 1; 0;2020;marzec;20;piątek;0;0,0000;1,0000;  7;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-03-21; 1;0;0;0; 0;0; 1; 0;2020;marzec;21;sobota;0;0,0000;1,0000;  8;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-03-22; 1;0;0;0; 0;0; 1; 0;2020;marzec;22;niedziela;0;0,0000;1,0000;  9;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-03-23; 1;0;0;0; 0;0; 1; 0;2020;marzec;23;poniedziałek;0;0,0000;1,0000; 10;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-03-24; 1;0;0;0; 0;0; 1; 0;2020;marzec;24;wtorek;0;0,0000;1,0000; 11;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-03-25; 1;0;0;0; 0;0; 1; 0;2020;marzec;25;środa;0;0,0000;1,0000; 12;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-03-26; 1;0;0;0; 0;0; 1; 0;2020;marzec;26;czwartek;0;0,0000;1,0000; 13;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-03-27; 1;0;0;0; 0;0; 1; 0;2020;marzec;27;piątek;0;0,0000;1,0000; 14;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-03-28; 1;0;0;0; 1;1; 0;-1;2020;marzec;28;sobota;0;1,0000;0,0000; 15;0;154,5;133; 29;242,0
-Saint Vincent and the Grenadines;2020-03-29; 1;0;0;0; 1;0; 0; 0;2020;marzec;29;niedziela;0;1,0000;0,0000; 16;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-03-30; 1;0;0;0; 1;0; 0; 0;2020;marzec;30;poniedziałek;0;1,0000;0,0000; 17;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-03-31; 1;0;0;0; 1;0; 0; 0;2020;marzec;31;wtorek;0;1,0000;0,0000; 18;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-01; 1;0;0;0; 1;0; 0; 0;2020;kwiecień; 1;środa;0;1,0000;0,0000; 19;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-02; 2;1;0;0; 1;0; 1; 1;2020;kwiecień; 2;czwartek;0;0,5000;0,5000; 20;0; 30,0;133;153; 21,0
-Saint Vincent and the Grenadines;2020-04-03; 3;1;0;0; 1;0; 2; 1;2020;kwiecień; 3;piątek;0;0,3333;0,6667; 21;0; 30,0;133;153; 21,0
-Saint Vincent and the Grenadines;2020-04-04; 7;4;0;0; 1;0; 6; 4;2020;kwiecień; 4;sobota;0;0,1429;0,8571; 22;0;  7,5;133;153;  7,5
-Saint Vincent and the Grenadines;2020-04-05; 7;0;0;0; 1;0; 6; 0;2020;kwiecień; 5;niedziela;0;0,1429;0,8571; 23;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-06; 7;0;0;0; 1;0; 6; 0;2020;kwiecień; 6;poniedziałek;0;0,1429;0,8571; 24;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-07; 8;1;0;0; 1;0; 7; 1;2020;kwiecień; 7;wtorek;0;0,1250;0,8750; 25;0; 30,0;133;153; 21,0
-Saint Vincent and the Grenadines;2020-04-08; 8;0;0;0; 1;0; 7; 0;2020;kwiecień; 8;środa;0;0,1250;0,8750; 26;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-09;12;4;0;0; 1;0;11; 4;2020;kwiecień; 9;czwartek;0;0,0833;0,9167; 27;0;  7,5;133;153;  7,5
-Saint Vincent and the Grenadines;2020-04-10;12;0;0;0; 1;0;11; 0;2020;kwiecień;10;piątek;0;0,0833;0,9167; 28;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-11;12;0;0;0; 1;0;11; 0;2020;kwiecień;11;sobota;0;0,0833;0,9167; 29;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-12;12;0;0;0; 1;0;11; 0;2020;kwiecień;12;niedziela;0;0,0833;0,9167; 30;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-13;12;0;0;0; 1;0;11; 0;2020;kwiecień;13;poniedziałek;0;0,0833;0,9167; 31;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-14;12;0;0;0; 1;0;11; 0;2020;kwiecień;14;wtorek;0;0,0833;0,9167; 32;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-15;12;0;0;0; 1;0;11; 0;2020;kwiecień;15;środa;0;0,0833;0,9167; 33;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-16;12;0;0;0; 1;0;11; 0;2020;kwiecień;16;czwartek;0;0,0833;0,9167; 34;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-17;12;0;0;0; 1;0;11; 0;2020;kwiecień;17;piątek;0;0,0833;0,9167; 35;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-18;12;0;0;0; 1;0;11; 0;2020;kwiecień;18;sobota;0;0,0833;0,9167; 36;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-19;12;0;0;0; 1;0;11; 0;2020;kwiecień;19;niedziela;0;0,0833;0,9167; 37;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-20;12;0;0;0; 1;0;11; 0;2020;kwiecień;20;poniedziałek;0;0,0833;0,9167; 38;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-21;12;0;0;0; 2;1;10;-1;2020;kwiecień;21;wtorek;0;0,1667;0,8333; 39;0;154,5;133; 29;242,0
-Saint Vincent and the Grenadines;2020-04-22;13;1;0;0; 3;1;10; 0;2020;kwiecień;22;środa;0;0,2308;0,7692; 40;0; 30,0;133; 29;130,0
-Saint Vincent and the Grenadines;2020-04-23;13;0;0;0; 3;0;10; 0;2020;kwiecień;23;czwartek;0;0,2308;0,7692; 41;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-24;14;1;0;0; 5;2; 9;-1;2020;kwiecień;24;piątek;0;0,3571;0,6429; 42;0; 30,0;133; 14;242,0
-Saint Vincent and the Grenadines;2020-04-25;14;0;0;0; 5;0; 9; 0;2020;kwiecień;25;sobota;0;0,3571;0,6429; 43;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-26;14;0;0;0; 5;0; 9; 0;2020;kwiecień;26;niedziela;0;0,3571;0,6429; 44;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-27;15;1;0;0; 8;3; 7;-2;2020;kwiecień;27;poniedziałek;0;0,5333;0,4667; 45;0; 30,0;133;  7;256,0
-Saint Vincent and the Grenadines;2020-04-28;15;0;0;0; 8;0; 7; 0;2020;kwiecień;28;wtorek;0;0,5333;0,4667; 46;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-04-29;16;1;0;0; 8;0; 8; 1;2020;kwiecień;29;środa;0;0,5000;0,5000; 47;0; 30,0;133;153; 21,0
-Saint Vincent and the Grenadines;2020-04-30;16;0;0;0; 8;0; 8; 0;2020;kwiecień;30;czwartek;0;0,5000;0,5000; 48;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-01;16;0;0;0; 8;0; 8; 0;2020;maj; 1;piątek;0;0,5000;0,5000; 49;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-02;16;0;0;0; 8;0; 8; 0;2020;maj; 2;sobota;0;0,5000;0,5000; 50;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-03;16;0;0;0; 8;0; 8; 0;2020;maj; 3;niedziela;0;0,5000;0,5000; 51;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-04;17;1;0;0; 9;1; 8; 0;2020;maj; 4;poniedziałek;0;0,5294;0,4706; 52;0; 30,0;133; 29;130,0
-Saint Vincent and the Grenadines;2020-05-05;17;0;0;0; 9;0; 8; 0;2020;maj; 5;wtorek;0;0,5294;0,4706; 53;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-06;17;0;0;0; 9;0; 8; 0;2020;maj; 6;środa;0;0,5294;0,4706; 54;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-07;17;0;0;0; 9;0; 8; 0;2020;maj; 7;czwartek;0;0,5294;0,4706; 55;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-08;17;0;0;0; 9;0; 8; 0;2020;maj; 8;piątek;0;0,5294;0,4706; 56;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-09;17;0;0;0; 9;0; 8; 0;2020;maj; 9;sobota;0;0,5294;0,4706; 57;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-10;17;0;0;0; 9;0; 8; 0;2020;maj;10;niedziela;0;0,5294;0,4706; 58;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-11;17;0;0;0; 9;0; 8; 0;2020;maj;11;poniedziałek;0;0,5294;0,4706; 59;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-12;17;0;0;0;12;3; 5;-3;2020;maj;12;wtorek;0;0,7059;0,2941; 60;0;154,5;133;  7;261,5
-Saint Vincent and the Grenadines;2020-05-13;17;0;0;0;12;0; 5; 0;2020;maj;13;środa;0;0,7059;0,2941; 61;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-14;17;0;0;0;12;0; 5; 0;2020;maj;14;czwartek;0;0,7059;0,2941; 62;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-15;17;0;0;0;14;2; 3;-2;2020;maj;15;piątek;0;0,8235;0,1765; 63;0;154,5;133; 14;256,0
-Saint Vincent and the Grenadines;2020-05-16;17;0;0;0;14;0; 3; 0;2020;maj;16;sobota;0;0,8235;0,1765; 64;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-17;17;0;0;0;14;0; 3; 0;2020;maj;17;niedziela;0;0,8235;0,1765; 65;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-18;17;0;0;0;14;0; 3; 0;2020;maj;18;poniedziałek;0;0,8235;0,1765; 66;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-19;17;0;0;0;14;0; 3; 0;2020;maj;19;wtorek;0;0,8235;0,1765; 67;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-20;18;1;0;0;14;0; 4; 1;2020;maj;20;środa;0;0,7778;0,2222; 68;0; 30,0;133;153; 21,0
-Saint Vincent and the Grenadines;2020-05-21;18;0;0;0;14;0; 4; 0;2020;maj;21;czwartek;0;0,7778;0,2222; 69;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-22;18;0;0;0;14;0; 4; 0;2020;maj;22;piątek;0;0,7778;0,2222; 70;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-23;18;0;0;0;14;0; 4; 0;2020;maj;23;sobota;0;0,7778;0,2222; 71;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-24;18;0;0;0;14;0; 4; 0;2020;maj;24;niedziela;0;0,7778;0,2222; 72;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-25;18;0;0;0;14;0; 4; 0;2020;maj;25;poniedziałek;0;0,7778;0,2222; 73;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-26;18;0;0;0;14;0; 4; 0;2020;maj;26;wtorek;0;0,7778;0,2222; 74;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-27;18;0;0;0;14;0; 4; 0;2020;maj;27;środa;0;0,7778;0,2222; 75;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-05-28;25;7;0;0;14;0;11; 7;2020;maj;28;czwartek;0;0,5600;0,4400; 76;0;  1,0;133;153;  1,0
-Saint Vincent and the Grenadines;2020-05-29;26;1;0;0;14;0;12; 1;2020;maj;29;piątek;0;0,5385;0,4615; 77;0; 30,0;133;153; 21,0
-Saint Vincent and the Grenadines;2020-05-30;26;0;0;0;15;1;11;-1;2020;maj;30;sobota;0;0,5769;0,4231; 78;0;154,5;133; 29;242,0
-Saint Vincent and the Grenadines;2020-05-31;26;0;0;0;15;0;11; 0;2020;maj;31;niedziela;0;0,5769;0,4231; 79;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-01;26;0;0;0;15;0;11; 0;2020;czerwiec; 1;poniedziałek;0;0,5769;0,4231; 80;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-02;26;0;0;0;15;0;11; 0;2020;czerwiec; 2;wtorek;0;0,5769;0,4231; 81;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-03;26;0;0;0;15;0;11; 0;2020;czerwiec; 3;środa;0;0,5769;0,4231; 82;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-04;26;0;0;0;15;0;11; 0;2020;czerwiec; 4;czwartek;0;0,5769;0,4231; 83;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-05;26;0;0;0;15;0;11; 0;2020;czerwiec; 5;piątek;0;0,5769;0,4231; 84;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-06;26;0;0;0;15;0;11; 0;2020;czerwiec; 6;sobota;0;0,5769;0,4231; 85;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-07;27;1;0;0;16;1;11; 0;2020;czerwiec; 7;niedziela;0;0,5926;0,4074; 86;0; 30,0;133; 29;130,0
-Saint Vincent and the Grenadines;2020-06-08;27;0;0;0;16;0;11; 0;2020;czerwiec; 8;poniedziałek;0;0,5926;0,4074; 87;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-09;27;0;0;0;25;9; 2;-9;2020;czerwiec; 9;wtorek;0;0,9259;0,0741; 88;0;154,5;133;  1;265,0
-Saint Vincent and the Grenadines;2020-06-10;27;0;0;0;25;0; 2; 0;2020;czerwiec;10;środa;0;0,9259;0,0741; 89;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-11;27;0;0;0;25;0; 2; 0;2020;czerwiec;11;czwartek;0;0,9259;0,0741; 90;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-12;27;0;0;0;25;0; 2; 0;2020;czerwiec;12;piątek;0;0,9259;0,0741; 91;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-13;27;0;0;0;25;0; 2; 0;2020;czerwiec;13;sobota;0;0,9259;0,0741; 92;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-14;27;0;0;0;25;0; 2; 0;2020;czerwiec;14;niedziela;0;0,9259;0,0741; 93;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-15;27;0;0;0;25;0; 2; 0;2020;czerwiec;15;poniedziałek;0;0,9259;0,0741; 94;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-16;29;2;0;0;25;0; 4; 2;2020;czerwiec;16;wtorek;0;0,8621;0,1379; 95;0; 13,0;133;153; 11,5
-Saint Vincent and the Grenadines;2020-06-17;29;0;0;0;25;0; 4; 0;2020;czerwiec;17;środa;0;0,8621;0,1379; 96;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-18;29;0;0;0;26;1; 3;-1;2020;czerwiec;18;czwartek;0;0,8966;0,1034; 97;0;154,5;133; 29;242,0
-Saint Vincent and the Grenadines;2020-06-19;29;0;0;0;26;0; 3; 0;2020;czerwiec;19;piątek;0;0,8966;0,1034; 98;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-20;29;0;0;0;26;0; 3; 0;2020;czerwiec;20;sobota;0;0,8966;0,1034; 99;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-21;29;0;0;0;26;0; 3; 0;2020;czerwiec;21;niedziela;0;0,8966;0,1034;100;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-22;29;0;0;0;26;0; 3; 0;2020;czerwiec;22;poniedziałek;0;0,8966;0,1034;101;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-23;29;0;0;0;27;1; 2;-1;2020;czerwiec;23;wtorek;0;0,9310;0,0690;102;0;154,5;133; 29;242,0
-Saint Vincent and the Grenadines;2020-06-24;29;0;0;0;27;0; 2; 0;2020;czerwiec;24;środa;0;0,9310;0,0690;103;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-25;29;0;0;0;29;2; 0;-2;2020;czerwiec;25;czwartek;0;1,0000;0,0000;104;0;154,5;133; 14;256,0
-Saint Vincent and the Grenadines;2020-06-26;29;0;0;0;29;0; 0; 0;2020;czerwiec;26;piątek;0;1,0000;0,0000;105;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-27;29;0;0;0;29;0; 0; 0;2020;czerwiec;27;sobota;0;1,0000;0,0000;106;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-28;29;0;0;0;29;0; 0; 0;2020;czerwiec;28;niedziela;0;1,0000;0,0000;107;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-29;29;0;0;0;29;0; 0; 0;2020;czerwiec;29;poniedziałek;0;1,0000;0,0000;108;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-06-30;29;0;0;0;29;0; 0; 0;2020;czerwiec;30;wtorek;0;1,0000;0,0000;109;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-01;29;0;0;0;29;0; 0; 0;2020;lipiec; 1;środa;0;1,0000;0,0000;110;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-02;29;0;0;0;29;0; 0; 0;2020;lipiec; 2;czwartek;0;1,0000;0,0000;111;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-03;29;0;0;0;29;0; 0; 0;2020;lipiec; 3;piątek;0;1,0000;0,0000;112;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-04;29;0;0;0;29;0; 0; 0;2020;lipiec; 4;sobota;0;1,0000;0,0000;113;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-05;29;0;0;0;29;0; 0; 0;2020;lipiec; 5;niedziela;0;1,0000;0,0000;114;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-06;29;0;0;0;29;0; 0; 0;2020;lipiec; 6;poniedziałek;0;1,0000;0,0000;115;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-07;29;0;0;0;29;0; 0; 0;2020;lipiec; 7;wtorek;0;1,0000;0,0000;116;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-08;29;0;0;0;29;0; 0; 0;2020;lipiec; 8;środa;0;1,0000;0,0000;117;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-09;29;0;0;0;29;0; 0; 0;2020;lipiec; 9;czwartek;0;1,0000;0,0000;118;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-10;29;0;0;0;29;0; 0; 0;2020;lipiec;10;piątek;0;1,0000;0,0000;119;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-11;29;0;0;0;29;0; 0; 0;2020;lipiec;11;sobota;0;1,0000;0,0000;120;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-12;35;6;0;0;29;0; 6; 6;2020;lipiec;12;niedziela;0;0,8286;0,1714;121;0;  3,0;133;153;  3,0
-Saint Vincent and the Grenadines;2020-07-13;35;0;0;0;29;0; 6; 0;2020;lipiec;13;poniedziałek;0;0,8286;0,1714;122;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-14;35;0;0;0;29;0; 6; 0;2020;lipiec;14;wtorek;0;0,8286;0,1714;123;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-15;35;0;0;0;29;0; 6; 0;2020;lipiec;15;środa;0;0,8286;0,1714;124;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-16;35;0;0;0;29;0; 6; 0;2020;lipiec;16;czwartek;0;0,8286;0,1714;125;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-17;35;0;0;0;29;0; 6; 0;2020;lipiec;17;piątek;0;0,8286;0,1714;126;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-18;38;3;0;0;29;0; 9; 3;2020;lipiec;18;sobota;0;0,7632;0,2368;127;0;  9,0;133;153;  9,0
-Saint Vincent and the Grenadines;2020-07-19;44;6;0;0;29;0;15; 6;2020;lipiec;19;niedziela;0;0,6591;0,3409;128;0;  3,0;133;153;  3,0
-Saint Vincent and the Grenadines;2020-07-20;50;6;0;0;29;0;21; 6;2020;lipiec;20;poniedziałek;0;0,5800;0,4200;129;0;  3,0;133;153;  3,0
-Saint Vincent and the Grenadines;2020-07-21;50;0;0;0;29;0;21; 0;2020;lipiec;21;wtorek;0;0,5800;0,4200;130;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-22;52;2;0;0;37;8;15;-6;2020;lipiec;22;środa;0;0,7115;0,2885;131;0; 13,0;133;  2;264,0
-Saint Vincent and the Grenadines;2020-07-23;52;0;0;0;37;0;15; 0;2020;lipiec;23;czwartek;0;0,7115;0,2885;132;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-24;52;0;0;0;39;2;13;-2;2020;lipiec;24;piątek;0;0,7500;0,2500;133;0;154,5;133; 14;256,0
-Saint Vincent and the Grenadines;2020-07-25;52;0;0;0;39;0;13; 0;2020;lipiec;25;sobota;0;0,7500;0,2500;134;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-26;52;0;0;0;39;0;13; 0;2020;lipiec;26;niedziela;0;0,7500;0,2500;135;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-27;52;0;0;0;39;0;13; 0;2020;lipiec;27;poniedziałek;0;0,7500;0,2500;136;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-28;52;0;0;0;39;0;13; 0;2020;lipiec;28;wtorek;0;0,7500;0,2500;137;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-29;52;0;0;0;39;0;13; 0;2020;lipiec;29;środa;0;0,7500;0,2500;138;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-30;52;0;0;0;39;0;13; 0;2020;lipiec;30;czwartek;0;0,7500;0,2500;139;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-07-31;54;2;0;0;44;5;10;-3;2020;lipiec;31;piątek;0;0,8148;0,1852;140;0; 13,0;133;  3;261,5
-Saint Vincent and the Grenadines;2020-08-01;54;0;0;0;44;0;10; 0;2020;sierpień; 1;sobota;0;0,8148;0,1852;141;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-02;55;1;0;0;45;1;10; 0;2020;sierpień; 2;niedziela;0;0,8182;0,1818;142;0; 30,0;133; 29;130,0
-Saint Vincent and the Grenadines;2020-08-03;55;0;0;0;45;0;10; 0;2020;sierpień; 3;poniedziałek;0;0,8182;0,1818;143;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-04;55;0;0;0;45;0;10; 0;2020;sierpień; 4;wtorek;0;0,8182;0,1818;144;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-05;56;1;0;0;46;1;10; 0;2020;sierpień; 5;środa;0;0,8214;0,1786;145;0; 30,0;133; 29;130,0
-Saint Vincent and the Grenadines;2020-08-06;56;0;0;0;46;0;10; 0;2020;sierpień; 6;czwartek;0;0,8214;0,1786;146;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-07;56;0;0;0;49;3; 7;-3;2020;sierpień; 7;piątek;0;0,8750;0,1250;147;0;154,5;133;  7;261,5
-Saint Vincent and the Grenadines;2020-08-08;56;0;0;0;49;0; 7; 0;2020;sierpień; 8;sobota;0;0,8750;0,1250;148;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-09;57;1;0;0;52;3; 5;-2;2020;sierpień; 9;niedziela;0;0,9123;0,0877;149;0; 30,0;133;  7;256,0
-Saint Vincent and the Grenadines;2020-08-10;57;0;0;0;52;0; 5; 0;2020;sierpień;10;poniedziałek;0;0,9123;0,0877;150;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-11;57;0;0;0;52;0; 5; 0;2020;sierpień;11;wtorek;0;0,9123;0,0877;151;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-12;57;0;0;0;52;0; 5; 0;2020;sierpień;12;środa;0;0,9123;0,0877;152;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-13;57;0;0;0;55;3; 2;-3;2020;sierpień;13;czwartek;0;0,9649;0,0351;153;0;154,5;133;  7;261,5
-Saint Vincent and the Grenadines;2020-08-14;57;0;0;0;55;0; 2; 0;2020;sierpień;14;piątek;0;0,9649;0,0351;154;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-15;57;0;0;0;55;0; 2; 0;2020;sierpień;15;sobota;0;0,9649;0,0351;155;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-16;57;0;0;0;55;0; 2; 0;2020;sierpień;16;niedziela;0;0,9649;0,0351;156;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-17;58;1;0;0;55;0; 3; 1;2020;sierpień;17;poniedziałek;0;0,9483;0,0517;157;0; 30,0;133;153; 21,0
-Saint Vincent and the Grenadines;2020-08-18;58;0;0;0;55;0; 3; 0;2020;sierpień;18;wtorek;0;0,9483;0,0517;158;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-19;58;0;0;0;56;1; 2;-1;2020;sierpień;19;środa;0;0,9655;0,0345;159;0;154,5;133; 29;242,0
-Saint Vincent and the Grenadines;2020-08-20;58;0;0;0;56;0; 2; 0;2020;sierpień;20;czwartek;0;0,9655;0,0345;160;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-21;58;0;0;0;56;0; 2; 0;2020;sierpień;21;piątek;0;0,9655;0,0345;161;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-22;58;0;0;0;56;0; 2; 0;2020;sierpień;22;sobota;0;0,9655;0,0345;162;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-23;58;0;0;0;56;0; 2; 0;2020;sierpień;23;niedziela;0;0,9655;0,0345;163;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-24;58;0;0;0;56;0; 2; 0;2020;sierpień;24;poniedziałek;0;0,9655;0,0345;164;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-25;58;0;0;0;57;1; 1;-1;2020;sierpień;25;wtorek;0;0,9828;0,0172;165;0;154,5;133; 29;242,0
-Saint Vincent and the Grenadines;2020-08-26;58;0;0;0;57;0; 1; 0;2020;sierpień;26;środa;0;0,9828;0,0172;166;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-27;60;2;0;0;57;0; 3; 2;2020;sierpień;27;czwartek;0;0,9500;0,0500;167;0; 13,0;133;153; 11,5
-Saint Vincent and the Grenadines;2020-08-28;60;0;0;0;57;0; 3; 0;2020;sierpień;28;piątek;0;0,9500;0,0500;168;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-29;60;0;0;0;57;0; 3; 0;2020;sierpień;29;sobota;0;0,9500;0,0500;169;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-30;60;0;0;0;57;0; 3; 0;2020;sierpień;30;niedziela;0;0,9500;0,0500;170;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-08-31;60;0;0;0;57;0; 3; 0;2020;sierpień;31;poniedziałek;0;0,9500;0,0500;171;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-01;61;1;0;0;57;0; 4; 1;2020;wrzesień; 1;wtorek;0;0,9344;0,0656;172;0; 30,0;133;153; 21,0
-Saint Vincent and the Grenadines;2020-09-02;61;0;0;0;57;0; 4; 0;2020;wrzesień; 2;środa;0;0,9344;0,0656;173;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-03;61;0;0;0;57;0; 4; 0;2020;wrzesień; 3;czwartek;0;0,9344;0,0656;174;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-04;61;0;0;0;57;0; 4; 0;2020;wrzesień; 4;piątek;0;0,9344;0,0656;175;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-05;61;0;0;0;58;1; 3;-1;2020;wrzesień; 5;sobota;0;0,9508;0,0492;176;0;154,5;133; 29;242,0
-Saint Vincent and the Grenadines;2020-09-06;61;0;0;0;58;0; 3; 0;2020;wrzesień; 6;niedziela;0;0,9508;0,0492;177;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-07;62;1;0;0;58;0; 4; 1;2020;wrzesień; 7;poniedziałek;0;0,9355;0,0645;178;0; 30,0;133;153; 21,0
-Saint Vincent and the Grenadines;2020-09-08;62;0;0;0;58;0; 4; 0;2020;wrzesień; 8;wtorek;0;0,9355;0,0645;179;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-09;62;0;0;0;58;0; 4; 0;2020;wrzesień; 9;środa;0;0,9355;0,0645;180;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-10;62;0;0;0;58;0; 4; 0;2020;wrzesień;10;czwartek;0;0,9355;0,0645;181;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-11;64;2;0;0;61;3; 3;-1;2020;wrzesień;11;piątek;0;0,9531;0,0469;182;0; 13,0;133;  7;242,0
-Saint Vincent and the Grenadines;2020-09-12;64;0;0;0;61;0; 3; 0;2020;wrzesień;12;sobota;0;0,9531;0,0469;183;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-13;64;0;0;0;61;0; 3; 0;2020;wrzesień;13;niedziela;0;0,9531;0,0469;184;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-14;64;0;0;0;61;0; 3; 0;2020;wrzesień;14;poniedziałek;0;0,9531;0,0469;185;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-15;64;0;0;0;62;1; 2;-1;2020;wrzesień;15;wtorek;0;0,9688;0,0312;186;0;154,5;133; 29;242,0
-Saint Vincent and the Grenadines;2020-09-16;64;0;0;0;62;0; 2; 0;2020;wrzesień;16;środa;0;0,9688;0,0312;187;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-17;64;0;0;0;64;2; 0;-2;2020;wrzesień;17;czwartek;0;1,0000;0,0000;188;0;154,5;133; 14;256,0
-Saint Vincent and the Grenadines;2020-09-18;64;0;0;0;64;0; 0; 0;2020;wrzesień;18;piątek;0;1,0000;0,0000;189;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-19;64;0;0;0;64;0; 0; 0;2020;wrzesień;19;sobota;0;1,0000;0,0000;190;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-20;64;0;0;0;64;0; 0; 0;2020;wrzesień;20;niedziela;0;1,0000;0,0000;191;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-21;64;0;0;0;64;0; 0; 0;2020;wrzesień;21;poniedziałek;0;1,0000;0,0000;192;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-22;64;0;0;0;64;0; 0; 0;2020;wrzesień;22;wtorek;0;1,0000;0,0000;193;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-23;64;0;0;0;64;0; 0; 0;2020;wrzesień;23;środa;0;1,0000;0,0000;194;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-24;64;0;0;0;64;0; 0; 0;2020;wrzesień;24;czwartek;0;1,0000;0,0000;195;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-25;64;0;0;0;64;0; 0; 0;2020;wrzesień;25;piątek;0;1,0000;0,0000;196;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-26;64;0;0;0;64;0; 0; 0;2020;wrzesień;26;sobota;0;1,0000;0,0000;197;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-27;64;0;0;0;64;0; 0; 0;2020;wrzesień;27;niedziela;0;1,0000;0,0000;198;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-28;64;0;0;0;64;0; 0; 0;2020;wrzesień;28;poniedziałek;0;1,0000;0,0000;199;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-29;64;0;0;0;64;0; 0; 0;2020;wrzesień;29;wtorek;0;1,0000;0,0000;200;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-09-30;64;0;0;0;64;0; 0; 0;2020;wrzesień;30;środa;0;1,0000;0,0000;201;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-01;64;0;0;0;64;0; 0; 0;2020;październik; 1;czwartek;0;1,0000;0,0000;202;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-02;64;0;0;0;64;0; 0; 0;2020;październik; 2;piątek;0;1,0000;0,0000;203;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-03;64;0;0;0;64;0; 0; 0;2020;październik; 3;sobota;0;1,0000;0,0000;204;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-04;64;0;0;0;64;0; 0; 0;2020;październik; 4;niedziela;0;1,0000;0,0000;205;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-05;64;0;0;0;64;0; 0; 0;2020;październik; 5;poniedziałek;0;1,0000;0,0000;206;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-06;64;0;0;0;64;0; 0; 0;2020;październik; 6;wtorek;0;1,0000;0,0000;207;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-07;64;0;0;0;64;0; 0; 0;2020;październik; 7;środa;0;1,0000;0,0000;208;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-08;64;0;0;0;64;0; 0; 0;2020;październik; 8;czwartek;0;1,0000;0,0000;209;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-09;64;0;0;0;64;0; 0; 0;2020;październik; 9;piątek;0;1,0000;0,0000;210;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-10;64;0;0;0;64;0; 0; 0;2020;październik;10;sobota;0;1,0000;0,0000;211;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-11;64;0;0;0;64;0; 0; 0;2020;październik;11;niedziela;0;1,0000;0,0000;212;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-12;64;0;0;0;64;0; 0; 0;2020;październik;12;poniedziałek;0;1,0000;0,0000;213;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-13;64;0;0;0;64;0; 0; 0;2020;październik;13;wtorek;0;1,0000;0,0000;214;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-14;64;0;0;0;64;0; 0; 0;2020;październik;14;środa;0;1,0000;0,0000;215;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-15;64;0;0;0;64;0; 0; 0;2020;październik;15;czwartek;0;1,0000;0,0000;216;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-16;65;1;0;0;64;0; 1; 1;2020;październik;16;piątek;0;0,9846;0,0154;217;0; 30,0;133;153; 21,0
-Saint Vincent and the Grenadines;2020-10-17;67;2;0;0;64;0; 3; 2;2020;październik;17;sobota;0;0,9552;0,0448;218;0; 13,0;133;153; 11,5
-Saint Vincent and the Grenadines;2020-10-18;67;0;0;0;64;0; 3; 0;2020;październik;18;niedziela;0;0,9552;0,0448;219;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-19;67;0;0;0;64;0; 3; 0;2020;październik;19;poniedziałek;0;0,9552;0,0448;220;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-20;68;1;0;0;64;0; 4; 1;2020;październik;20;wtorek;0;0,9412;0,0588;221;0; 30,0;133;153; 21,0
-Saint Vincent and the Grenadines;2020-10-21;68;0;0;0;64;0; 4; 0;2020;październik;21;środa;0;0,9412;0,0588;222;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-22;68;0;0;0;64;0; 4; 0;2020;październik;22;czwartek;0;0,9412;0,0588;223;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-23;73;5;0;0;64;0; 9; 5;2020;październik;23;piątek;0;0,8767;0,1233;224;0;  5,5;133;153;  5,5
-Saint Vincent and the Grenadines;2020-10-24;73;0;0;0;65;1; 8;-1;2020;październik;24;sobota;0;0,8904;0,1096;225;0;154,5;133; 29;242,0
-Saint Vincent and the Grenadines;2020-10-25;73;0;0;0;66;1; 7;-1;2020;październik;25;niedziela;0;0,9041;0,0959;226;0;154,5;133; 29;242,0
-Saint Vincent and the Grenadines;2020-10-26;73;0;0;0;66;0; 7; 0;2020;październik;26;poniedziałek;0;0,9041;0,0959;227;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-27;74;1;0;0;69;3; 5;-2;2020;październik;27;wtorek;0;0,9324;0,0676;228;0; 30,0;133;  7;256,0
-Saint Vincent and the Grenadines;2020-10-28;74;0;0;0;69;0; 5; 0;2020;październik;28;środa;0;0,9324;0,0676;229;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-29;74;0;0;0;70;1; 4;-1;2020;październik;29;czwartek;0;0,9459;0,0541;230;0;154,5;133; 29;242,0
-Saint Vincent and the Grenadines;2020-10-30;74;0;0;0;70;0; 4; 0;2020;październik;30;piątek;0;0,9459;0,0541;231;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-10-31;74;0;0;0;70;0; 4; 0;2020;październik;31;sobota;0;0,9459;0,0541;232;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-01;75;1;0;0;70;0; 5; 1;2020;listopad; 1;niedziela;0;0,9333;0,0667;233;0; 30,0;133;153; 21,0
-Saint Vincent and the Grenadines;2020-11-02;75;0;0;0;71;1; 4;-1;2020;listopad; 2;poniedziałek;0;0,9467;0,0533;234;0;154,5;133; 29;242,0
-Saint Vincent and the Grenadines;2020-11-03;75;0;0;0;71;0; 4; 0;2020;listopad; 3;wtorek;0;0,9467;0,0533;235;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-04;75;0;0;0;71;0; 4; 0;2020;listopad; 4;środa;0;0,9467;0,0533;236;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-05;76;1;0;0;71;0; 5; 1;2020;listopad; 5;czwartek;0;0,9342;0,0658;237;0; 30,0;133;153; 21,0
-Saint Vincent and the Grenadines;2020-11-06;76;0;0;0;71;0; 5; 0;2020;listopad; 6;piątek;0;0,9342;0,0658;238;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-07;76;0;0;0;72;1; 4;-1;2020;listopad; 7;sobota;0;0,9474;0,0526;239;0;154,5;133; 29;242,0
-Saint Vincent and the Grenadines;2020-11-08;76;0;0;0;72;0; 4; 0;2020;listopad; 8;niedziela;0;0,9474;0,0526;240;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-09;76;0;0;0;72;0; 4; 0;2020;listopad; 9;poniedziałek;0;0,9474;0,0526;241;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-10;76;0;0;0;72;0; 4; 0;2020;listopad;10;wtorek;0;0,9474;0,0526;242;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-11;77;1;0;0;74;2; 3;-1;2020;listopad;11;środa;0;0,9610;0,0390;243;0; 30,0;133; 14;242,0
-Saint Vincent and the Grenadines;2020-11-12;77;0;0;0;74;0; 3; 0;2020;listopad;12;czwartek;0;0,9610;0,0390;244;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-13;78;1;0;0;76;2; 2;-1;2020;listopad;13;piątek;0;0,9744;0,0256;245;0; 30,0;133; 14;242,0
-Saint Vincent and the Grenadines;2020-11-14;78;0;0;0;77;1; 1;-1;2020;listopad;14;sobota;0;0,9872;0,0128;246;0;154,5;133; 29;242,0
-Saint Vincent and the Grenadines;2020-11-15;78;0;0;0;77;0; 1; 0;2020;listopad;15;niedziela;0;0,9872;0,0128;247;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-16;78;0;0;0;77;0; 1; 0;2020;listopad;16;poniedziałek;0;0,9872;0,0128;248;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-17;83;5;0;0;77;0; 6; 5;2020;listopad;17;wtorek;0;0,9277;0,0723;249;0;  5,5;133;153;  5,5
-Saint Vincent and the Grenadines;2020-11-18;83;0;0;0;78;1; 5;-1;2020;listopad;18;środa;0;0,9398;0,0602;250;0;154,5;133; 29;242,0
-Saint Vincent and the Grenadines;2020-11-19;84;1;0;0;78;0; 6; 1;2020;listopad;19;czwartek;0;0,9286;0,0714;251;0; 30,0;133;153; 21,0
-Saint Vincent and the Grenadines;2020-11-20;84;0;0;0;78;0; 6; 0;2020;listopad;20;piątek;0;0,9286;0,0714;252;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-21;84;0;0;0;78;0; 6; 0;2020;listopad;21;sobota;0;0,9286;0,0714;253;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-22;84;0;0;0;78;0; 6; 0;2020;listopad;22;niedziela;0;0,9286;0,0714;254;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-23;84;0;0;0;78;0; 6; 0;2020;listopad;23;poniedziałek;0;0,9286;0,0714;255;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-24;84;0;0;0;78;0; 6; 0;2020;listopad;24;wtorek;0;0,9286;0,0714;256;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-25;84;0;0;0;78;0; 6; 0;2020;listopad;25;środa;0;0,9286;0,0714;257;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-26;84;0;0;0;78;0; 6; 0;2020;listopad;26;czwartek;0;0,9286;0,0714;258;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-27;85;1;0;0;79;1; 6; 0;2020;listopad;27;piątek;0;0,9294;0,0706;259;0; 30,0;133; 29;130,0
-Saint Vincent and the Grenadines;2020-11-28;85;0;0;0;79;0; 6; 0;2020;listopad;28;sobota;0;0,9294;0,0706;260;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-29;85;0;0;0;79;0; 6; 0;2020;listopad;29;niedziela;0;0,9294;0,0706;261;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-11-30;85;0;0;0;79;0; 6; 0;2020;listopad;30;poniedziałek;0;0,9294;0,0706;262;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-12-01;85;0;0;0;80;1; 5;-1;2020;grudzień; 1;wtorek;0;0,9412;0,0588;263;0;154,5;133; 29;242,0
-Saint Vincent and the Grenadines;2020-12-02;85;0;0;0;80;0; 5; 0;2020;grudzień; 2;środa;0;0,9412;0,0588;264;0;154,5;133;153;130,0
-Saint Vincent and the Grenadines;2020-12-03;87;2;0;0;80;0; 7; 2;2020;grudzień; 3;czwartek;0;0,9195;0,0805;265;0; 13,0;133;153; 11,5
+Saint Vincent and the Grenadines;2020-03-14;   1;  1; 0;0;   0;  0;  1;   1;2020;marzec;14;sobota;0,0000;0,0000;1,0000;  1;  0;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2020-03-15;   1;  0; 0;0;   0;  0;  1;   0;2020;marzec;15;niedziela;0,0000;0,0000;1,0000;  2;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-03-16;   1;  0; 0;0;   0;  0;  1;   0;2020;marzec;16;poniedziałek;0,0000;0,0000;1,0000;  3;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-03-17;   1;  0; 0;0;   0;  0;  1;   0;2020;marzec;17;wtorek;0,0000;0,0000;1,0000;  4;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-03-18;   1;  0; 0;0;   0;  0;  1;   0;2020;marzec;18;środa;0,0000;0,0000;1,0000;  5;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-03-19;   1;  0; 0;0;   0;  0;  1;   0;2020;marzec;19;czwartek;0,0000;0,0000;1,0000;  6;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-03-20;   1;  0; 0;0;   0;  0;  1;   0;2020;marzec;20;piątek;0,0000;0,0000;1,0000;  7;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-03-21;   1;  0; 0;0;   0;  0;  1;   0;2020;marzec;21;sobota;0,0000;0,0000;1,0000;  8;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-03-22;   1;  0; 0;0;   0;  0;  1;   0;2020;marzec;22;niedziela;0,0000;0,0000;1,0000;  9;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-03-23;   1;  0; 0;0;   0;  0;  1;   0;2020;marzec;23;poniedziałek;0,0000;0,0000;1,0000; 10;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-03-24;   1;  0; 0;0;   0;  0;  1;   0;2020;marzec;24;wtorek;0,0000;0,0000;1,0000; 11;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-03-25;   1;  0; 0;0;   0;  0;  1;   0;2020;marzec;25;środa;0,0000;0,0000;1,0000; 12;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-03-26;   1;  0; 0;0;   0;  0;  1;   0;2020;marzec;26;czwartek;0,0000;0,0000;1,0000; 13;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-03-27;   1;  0; 0;0;   0;  0;  1;   0;2020;marzec;27;piątek;0,0000;0,0000;1,0000; 14;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-03-28;   1;  0; 0;0;   1;  1;  0;  -1;2020;marzec;28;sobota;0,0000;1,0000;0,0000; 15;  0;317,5;239,0;120,5;399,5
+Saint Vincent and the Grenadines;2020-03-29;   1;  0; 0;0;   1;  0;  0;   0;2020;marzec;29;niedziela;0,0000;1,0000;0,0000; 16;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-03-30;   1;  0; 0;0;   1;  0;  0;   0;2020;marzec;30;poniedziałek;0,0000;1,0000;0,0000; 17;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-03-31;   1;  0; 0;0;   1;  0;  0;   0;2020;marzec;31;wtorek;0,0000;1,0000;0,0000; 18;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-01;   1;  0; 0;0;   1;  0;  0;   0;2020;kwiecień; 1;środa;0,0000;1,0000;0,0000; 19;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-02;   2;  1; 0;0;   1;  0;  1;   1;2020;kwiecień; 2;czwartek;0,0000;0,5000;0,5000; 20;  0;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2020-04-03;   3;  1; 0;0;   1;  0;  2;   1;2020;kwiecień; 3;piątek;0,0000;0,3333;0,6667; 21;  0;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2020-04-04;   7;  4; 0;0;   1;  0;  6;   4;2020;kwiecień; 4;sobota;0,0000;0,1429;0,8571; 22;  0; 97,5;239,0;302,0; 62,5
+Saint Vincent and the Grenadines;2020-04-05;   7;  0; 0;0;   1;  0;  6;   0;2020;kwiecień; 5;niedziela;0,0000;0,1429;0,8571; 23;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-06;   7;  0; 0;0;   1;  0;  6;   0;2020;kwiecień; 6;poniedziałek;0,0000;0,1429;0,8571; 24;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-07;   8;  1; 0;0;   1;  0;  7;   1;2020;kwiecień; 7;wtorek;0,0000;0,1250;0,8750; 25;  0;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2020-04-08;   8;  0; 0;0;   1;  0;  7;   0;2020;kwiecień; 8;środa;0,0000;0,1250;0,8750; 26;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-09;  12;  4; 0;0;   1;  0; 11;   4;2020;kwiecień; 9;czwartek;0,0000;0,0833;0,9167; 27;  0; 97,5;239,0;302,0; 62,5
+Saint Vincent and the Grenadines;2020-04-10;  12;  0; 0;0;   1;  0; 11;   0;2020;kwiecień;10;piątek;0,0000;0,0833;0,9167; 28;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-11;  12;  0; 0;0;   1;  0; 11;   0;2020;kwiecień;11;sobota;0,0000;0,0833;0,9167; 29;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-12;  12;  0; 0;0;   1;  0; 11;   0;2020;kwiecień;12;niedziela;0,0000;0,0833;0,9167; 30;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-13;  12;  0; 0;0;   1;  0; 11;   0;2020;kwiecień;13;poniedziałek;0,0000;0,0833;0,9167; 31;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-14;  12;  0; 0;0;   1;  0; 11;   0;2020;kwiecień;14;wtorek;0,0000;0,0833;0,9167; 32;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-15;  12;  0; 0;0;   1;  0; 11;   0;2020;kwiecień;15;środa;0,0000;0,0833;0,9167; 33;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-16;  12;  0; 0;0;   1;  0; 11;   0;2020;kwiecień;16;czwartek;0,0000;0,0833;0,9167; 34;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-17;  12;  0; 0;0;   1;  0; 11;   0;2020;kwiecień;17;piątek;0,0000;0,0833;0,9167; 35;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-18;  12;  0; 0;0;   1;  0; 11;   0;2020;kwiecień;18;sobota;0,0000;0,0833;0,9167; 36;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-19;  12;  0; 0;0;   1;  0; 11;   0;2020;kwiecień;19;niedziela;0,0000;0,0833;0,9167; 37;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-20;  12;  0; 0;0;   1;  0; 11;   0;2020;kwiecień;20;poniedziałek;0,0000;0,0833;0,9167; 38;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-21;  12;  0; 0;0;   2;  1; 10;  -1;2020;kwiecień;21;wtorek;0,0000;0,1667;0,8333; 39;  0;317,5;239,0;120,5;399,5
+Saint Vincent and the Grenadines;2020-04-22;  13;  1; 0;0;   3;  1; 10;   0;2020;kwiecień;22;środa;0,0000;0,2308;0,7692; 40;  0;148,0;239,0;120,5;248,5
+Saint Vincent and the Grenadines;2020-04-23;  13;  0; 0;0;   3;  0; 10;   0;2020;kwiecień;23;czwartek;0,0000;0,2308;0,7692; 41;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-24;  14;  1; 0;0;   5;  2;  9;  -1;2020;kwiecień;24;piątek;0,0000;0,3571;0,6429; 42;  0;148,0;239,0; 95,5;399,5
+Saint Vincent and the Grenadines;2020-04-25;  14;  0; 0;0;   5;  0;  9;   0;2020;kwiecień;25;sobota;0,0000;0,3571;0,6429; 43;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-26;  14;  0; 0;0;   5;  0;  9;   0;2020;kwiecień;26;niedziela;0,0000;0,3571;0,6429; 44;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-27;  15;  1; 0;0;   8;  3;  7;  -2;2020;kwiecień;27;poniedziałek;0,0000;0,5333;0,4667; 45;  0;148,0;239,0; 81,0;417,0
+Saint Vincent and the Grenadines;2020-04-28;  15;  0; 0;0;   8;  0;  7;   0;2020;kwiecień;28;wtorek;0,0000;0,5333;0,4667; 46;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-04-29;  16;  1; 0;0;   8;  0;  8;   1;2020;kwiecień;29;środa;0,0000;0,5000;0,5000; 47;  0;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2020-04-30;  16;  0; 0;0;   8;  0;  8;   0;2020;kwiecień;30;czwartek;0,0000;0,5000;0,5000; 48;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-01;  16;  0; 0;0;   8;  0;  8;   0;2020;maj; 1;piątek;0,0000;0,5000;0,5000; 49;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-02;  16;  0; 0;0;   8;  0;  8;   0;2020;maj; 2;sobota;0,0000;0,5000;0,5000; 50;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-03;  16;  0; 0;0;   8;  0;  8;   0;2020;maj; 3;niedziela;0,0000;0,5000;0,5000; 51;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-04;  17;  1; 0;0;   9;  1;  8;   0;2020;maj; 4;poniedziałek;0,0000;0,5294;0,4706; 52;  0;148,0;239,0;120,5;248,5
+Saint Vincent and the Grenadines;2020-05-05;  17;  0; 0;0;   9;  0;  8;   0;2020;maj; 5;wtorek;0,0000;0,5294;0,4706; 53;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-06;  17;  0; 0;0;   9;  0;  8;   0;2020;maj; 6;środa;0,0000;0,5294;0,4706; 54;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-07;  17;  0; 0;0;   9;  0;  8;   0;2020;maj; 7;czwartek;0,0000;0,5294;0,4706; 55;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-08;  17;  0; 0;0;   9;  0;  8;   0;2020;maj; 8;piątek;0,0000;0,5294;0,4706; 56;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-09;  17;  0; 0;0;   9;  0;  8;   0;2020;maj; 9;sobota;0,0000;0,5294;0,4706; 57;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-10;  17;  0; 0;0;   9;  0;  8;   0;2020;maj;10;niedziela;0,0000;0,5294;0,4706; 58;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-11;  17;  0; 0;0;   9;  0;  8;   0;2020;maj;11;poniedziałek;0,0000;0,5294;0,4706; 59;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-12;  17;  0; 0;0;  12;  3;  5;  -3;2020;maj;12;wtorek;0,0000;0,7059;0,2941; 60;  0;317,5;239,0; 81,0;425,5
+Saint Vincent and the Grenadines;2020-05-13;  17;  0; 0;0;  12;  0;  5;   0;2020;maj;13;środa;0,0000;0,7059;0,2941; 61;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-14;  17;  0; 0;0;  12;  0;  5;   0;2020;maj;14;czwartek;0,0000;0,7059;0,2941; 62;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-15;  17;  0; 0;0;  14;  2;  3;  -2;2020;maj;15;piątek;0,0000;0,8235;0,1765; 63;  0;317,5;239,0; 95,5;417,0
+Saint Vincent and the Grenadines;2020-05-16;  17;  0; 0;0;  14;  0;  3;   0;2020;maj;16;sobota;0,0000;0,8235;0,1765; 64;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-17;  17;  0; 0;0;  14;  0;  3;   0;2020;maj;17;niedziela;0,0000;0,8235;0,1765; 65;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-18;  17;  0; 0;0;  14;  0;  3;   0;2020;maj;18;poniedziałek;0,0000;0,8235;0,1765; 66;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-19;  17;  0; 0;0;  14;  0;  3;   0;2020;maj;19;wtorek;0,0000;0,8235;0,1765; 67;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-20;  18;  1; 0;0;  14;  0;  4;   1;2020;maj;20;środa;0,0000;0,7778;0,2222; 68;  0;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2020-05-21;  18;  0; 0;0;  14;  0;  4;   0;2020;maj;21;czwartek;0,0000;0,7778;0,2222; 69;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-22;  18;  0; 0;0;  14;  0;  4;   0;2020;maj;22;piątek;0,0000;0,7778;0,2222; 70;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-23;  18;  0; 0;0;  14;  0;  4;   0;2020;maj;23;sobota;0,0000;0,7778;0,2222; 71;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-24;  18;  0; 0;0;  14;  0;  4;   0;2020;maj;24;niedziela;0,0000;0,7778;0,2222; 72;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-25;  18;  0; 0;0;  14;  0;  4;   0;2020;maj;25;poniedziałek;0,0000;0,7778;0,2222; 73;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-26;  18;  0; 0;0;  14;  0;  4;   0;2020;maj;26;wtorek;0,0000;0,7778;0,2222; 74;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-27;  18;  0; 0;0;  14;  0;  4;   0;2020;maj;27;środa;0,0000;0,7778;0,2222; 75;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-05-28;  25;  7; 0;0;  14;  0; 11;   7;2020;maj;28;czwartek;0,0000;0,5600;0,4400; 76;  0; 66,5;239,0;302,0; 43,5
+Saint Vincent and the Grenadines;2020-05-29;  26;  1; 0;0;  14;  0; 12;   1;2020;maj;29;piątek;0,0000;0,5385;0,4615; 77;  0;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2020-05-30;  26;  0; 0;0;  15;  1; 11;  -1;2020;maj;30;sobota;0,0000;0,5769;0,4231; 78;  0;317,5;239,0;120,5;399,5
+Saint Vincent and the Grenadines;2020-05-31;  26;  0; 0;0;  15;  0; 11;   0;2020;maj;31;niedziela;0,0000;0,5769;0,4231; 79;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-01;  26;  0; 0;0;  15;  0; 11;   0;2020;czerwiec; 1;poniedziałek;0,0000;0,5769;0,4231; 80;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-02;  26;  0; 0;0;  15;  0; 11;   0;2020;czerwiec; 2;wtorek;0,0000;0,5769;0,4231; 81;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-03;  26;  0; 0;0;  15;  0; 11;   0;2020;czerwiec; 3;środa;0,0000;0,5769;0,4231; 82;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-04;  26;  0; 0;0;  15;  0; 11;   0;2020;czerwiec; 4;czwartek;0,0000;0,5769;0,4231; 83;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-05;  26;  0; 0;0;  15;  0; 11;   0;2020;czerwiec; 5;piątek;0,0000;0,5769;0,4231; 84;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-06;  26;  0; 0;0;  15;  0; 11;   0;2020;czerwiec; 6;sobota;0,0000;0,5769;0,4231; 85;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-07;  27;  1; 0;0;  16;  1; 11;   0;2020;czerwiec; 7;niedziela;0,0000;0,5926;0,4074; 86;  0;148,0;239,0;120,5;248,5
+Saint Vincent and the Grenadines;2020-06-08;  27;  0; 0;0;  16;  0; 11;   0;2020;czerwiec; 8;poniedziałek;0,0000;0,5926;0,4074; 87;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-09;  27;  0; 0;0;  25;  9;  2;  -9;2020;czerwiec; 9;wtorek;0,0000;0,9259;0,0741; 88;  0;317,5;239,0; 40,0;447,5
+Saint Vincent and the Grenadines;2020-06-10;  27;  0; 0;0;  25;  0;  2;   0;2020;czerwiec;10;środa;0,0000;0,9259;0,0741; 89;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-11;  27;  0; 0;0;  25;  0;  2;   0;2020;czerwiec;11;czwartek;0,0000;0,9259;0,0741; 90;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-12;  27;  0; 0;0;  25;  0;  2;   0;2020;czerwiec;12;piątek;0,0000;0,9259;0,0741; 91;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-13;  27;  0; 0;0;  25;  0;  2;   0;2020;czerwiec;13;sobota;0,0000;0,9259;0,0741; 92;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-14;  27;  0; 0;0;  25;  0;  2;   0;2020;czerwiec;14;niedziela;0,0000;0,9259;0,0741; 93;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-15;  27;  0; 0;0;  25;  0;  2;   0;2020;czerwiec;15;poniedziałek;0,0000;0,9259;0,0741; 94;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-16;  29;  2; 0;0;  25;  0;  4;   2;2020;czerwiec;16;wtorek;0,0000;0,8621;0,1379; 95;  0;121,0;239,0;302,0; 77,0
+Saint Vincent and the Grenadines;2020-06-17;  29;  0; 0;0;  25;  0;  4;   0;2020;czerwiec;17;środa;0,0000;0,8621;0,1379; 96;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-18;  29;  0; 0;0;  26;  1;  3;  -1;2020;czerwiec;18;czwartek;0,0000;0,8966;0,1034; 97;  0;317,5;239,0;120,5;399,5
+Saint Vincent and the Grenadines;2020-06-19;  29;  0; 0;0;  26;  0;  3;   0;2020;czerwiec;19;piątek;0,0000;0,8966;0,1034; 98;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-20;  29;  0; 0;0;  26;  0;  3;   0;2020;czerwiec;20;sobota;0,0000;0,8966;0,1034; 99;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-21;  29;  0; 0;0;  26;  0;  3;   0;2020;czerwiec;21;niedziela;0,0000;0,8966;0,1034;100;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-22;  29;  0; 0;0;  26;  0;  3;   0;2020;czerwiec;22;poniedziałek;0,0000;0,8966;0,1034;101;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-23;  29;  0; 0;0;  27;  1;  2;  -1;2020;czerwiec;23;wtorek;0,0000;0,9310;0,0690;102;  0;317,5;239,0;120,5;399,5
+Saint Vincent and the Grenadines;2020-06-24;  29;  0; 0;0;  27;  0;  2;   0;2020;czerwiec;24;środa;0,0000;0,9310;0,0690;103;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-25;  29;  0; 0;0;  29;  2;  0;  -2;2020;czerwiec;25;czwartek;0,0000;1,0000;0,0000;104;  0;317,5;239,0; 95,5;417,0
+Saint Vincent and the Grenadines;2020-06-26;  29;  0; 0;0;  29;  0;  0;   0;2020;czerwiec;26;piątek;0,0000;1,0000;0,0000;105;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-27;  29;  0; 0;0;  29;  0;  0;   0;2020;czerwiec;27;sobota;0,0000;1,0000;0,0000;106;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-28;  29;  0; 0;0;  29;  0;  0;   0;2020;czerwiec;28;niedziela;0,0000;1,0000;0,0000;107;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-29;  29;  0; 0;0;  29;  0;  0;   0;2020;czerwiec;29;poniedziałek;0,0000;1,0000;0,0000;108;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-06-30;  29;  0; 0;0;  29;  0;  0;   0;2020;czerwiec;30;wtorek;0,0000;1,0000;0,0000;109;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-01;  29;  0; 0;0;  29;  0;  0;   0;2020;lipiec; 1;środa;0,0000;1,0000;0,0000;110;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-02;  29;  0; 0;0;  29;  0;  0;   0;2020;lipiec; 2;czwartek;0,0000;1,0000;0,0000;111;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-03;  29;  0; 0;0;  29;  0;  0;   0;2020;lipiec; 3;piątek;0,0000;1,0000;0,0000;112;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-04;  29;  0; 0;0;  29;  0;  0;   0;2020;lipiec; 4;sobota;0,0000;1,0000;0,0000;113;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-05;  29;  0; 0;0;  29;  0;  0;   0;2020;lipiec; 5;niedziela;0,0000;1,0000;0,0000;114;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-06;  29;  0; 0;0;  29;  0;  0;   0;2020;lipiec; 6;poniedziałek;0,0000;1,0000;0,0000;115;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-07;  29;  0; 0;0;  29;  0;  0;   0;2020;lipiec; 7;wtorek;0,0000;1,0000;0,0000;116;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-08;  29;  0; 0;0;  29;  0;  0;   0;2020;lipiec; 8;środa;0,0000;1,0000;0,0000;117;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-09;  29;  0; 0;0;  29;  0;  0;   0;2020;lipiec; 9;czwartek;0,0000;1,0000;0,0000;118;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-10;  29;  0; 0;0;  29;  0;  0;   0;2020;lipiec;10;piątek;0,0000;1,0000;0,0000;119;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-11;  29;  0; 0;0;  29;  0;  0;   0;2020;lipiec;11;sobota;0,0000;1,0000;0,0000;120;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-12;  35;  6; 0;0;  29;  0;  6;   6;2020;lipiec;12;niedziela;0,0000;0,8286;0,1714;121;  0; 74,5;239,0;302,0; 50,0
+Saint Vincent and the Grenadines;2020-07-13;  35;  0; 0;0;  29;  0;  6;   0;2020;lipiec;13;poniedziałek;0,0000;0,8286;0,1714;122;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-14;  35;  0; 0;0;  29;  0;  6;   0;2020;lipiec;14;wtorek;0,0000;0,8286;0,1714;123;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-15;  35;  0; 0;0;  29;  0;  6;   0;2020;lipiec;15;środa;0,0000;0,8286;0,1714;124;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-16;  35;  0; 0;0;  29;  0;  6;   0;2020;lipiec;16;czwartek;0,0000;0,8286;0,1714;125;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-17;  35;  0; 0;0;  29;  0;  6;   0;2020;lipiec;17;piątek;0,0000;0,8286;0,1714;126;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-18;  38;  3; 0;0;  29;  0;  9;   3;2020;lipiec;18;sobota;0,0000;0,7632;0,2368;127;  0;108,5;239,0;302,0; 68,5
+Saint Vincent and the Grenadines;2020-07-19;  44;  6; 0;0;  29;  0; 15;   6;2020;lipiec;19;niedziela;0,0000;0,6591;0,3409;128;  0; 74,5;239,0;302,0; 50,0
+Saint Vincent and the Grenadines;2020-07-20;  50;  6; 0;0;  29;  0; 21;   6;2020;lipiec;20;poniedziałek;0,0000;0,5800;0,4200;129;  0; 74,5;239,0;302,0; 50,0
+Saint Vincent and the Grenadines;2020-07-21;  50;  0; 0;0;  29;  0; 21;   0;2020;lipiec;21;wtorek;0,0000;0,5800;0,4200;130;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-22;  52;  2; 0;0;  37;  8; 15;  -6;2020;lipiec;22;środa;0,0000;0,7115;0,2885;131;  0;121,0;239,0; 46,5;440,5
+Saint Vincent and the Grenadines;2020-07-23;  52;  0; 0;0;  37;  0; 15;   0;2020;lipiec;23;czwartek;0,0000;0,7115;0,2885;132;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-24;  52;  0; 0;0;  39;  2; 13;  -2;2020;lipiec;24;piątek;0,0000;0,7500;0,2500;133;  0;317,5;239,0; 95,5;417,0
+Saint Vincent and the Grenadines;2020-07-25;  52;  0; 0;0;  39;  0; 13;   0;2020;lipiec;25;sobota;0,0000;0,7500;0,2500;134;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-26;  52;  0; 0;0;  39;  0; 13;   0;2020;lipiec;26;niedziela;0,0000;0,7500;0,2500;135;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-27;  52;  0; 0;0;  39;  0; 13;   0;2020;lipiec;27;poniedziałek;0,0000;0,7500;0,2500;136;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-28;  52;  0; 0;0;  39;  0; 13;   0;2020;lipiec;28;wtorek;0,0000;0,7500;0,2500;137;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-29;  52;  0; 0;0;  39;  0; 13;   0;2020;lipiec;29;środa;0,0000;0,7500;0,2500;138;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-30;  52;  0; 0;0;  39;  0; 13;   0;2020;lipiec;30;czwartek;0,0000;0,7500;0,2500;139;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-07-31;  54;  2; 0;0;  44;  5; 10;  -3;2020;lipiec;31;piątek;0,0000;0,8148;0,1852;140;  0;121,0;239,0; 68,5;425,5
+Saint Vincent and the Grenadines;2020-08-01;  54;  0; 0;0;  44;  0; 10;   0;2020;sierpień; 1;sobota;0,0000;0,8148;0,1852;141;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-02;  55;  1; 0;0;  45;  1; 10;   0;2020;sierpień; 2;niedziela;0,0000;0,8182;0,1818;142;  0;148,0;239,0;120,5;248,5
+Saint Vincent and the Grenadines;2020-08-03;  55;  0; 0;0;  45;  0; 10;   0;2020;sierpień; 3;poniedziałek;0,0000;0,8182;0,1818;143;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-04;  55;  0; 0;0;  45;  0; 10;   0;2020;sierpień; 4;wtorek;0,0000;0,8182;0,1818;144;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-05;  56;  1; 0;0;  46;  1; 10;   0;2020;sierpień; 5;środa;0,0000;0,8214;0,1786;145;  0;148,0;239,0;120,5;248,5
+Saint Vincent and the Grenadines;2020-08-06;  56;  0; 0;0;  46;  0; 10;   0;2020;sierpień; 6;czwartek;0,0000;0,8214;0,1786;146;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-07;  56;  0; 0;0;  49;  3;  7;  -3;2020;sierpień; 7;piątek;0,0000;0,8750;0,1250;147;  0;317,5;239,0; 81,0;425,5
+Saint Vincent and the Grenadines;2020-08-08;  56;  0; 0;0;  49;  0;  7;   0;2020;sierpień; 8;sobota;0,0000;0,8750;0,1250;148;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-09;  57;  1; 0;0;  52;  3;  5;  -2;2020;sierpień; 9;niedziela;0,0000;0,9123;0,0877;149;  0;148,0;239,0; 81,0;417,0
+Saint Vincent and the Grenadines;2020-08-10;  57;  0; 0;0;  52;  0;  5;   0;2020;sierpień;10;poniedziałek;0,0000;0,9123;0,0877;150;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-11;  57;  0; 0;0;  52;  0;  5;   0;2020;sierpień;11;wtorek;0,0000;0,9123;0,0877;151;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-12;  57;  0; 0;0;  52;  0;  5;   0;2020;sierpień;12;środa;0,0000;0,9123;0,0877;152;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-13;  57;  0; 0;0;  55;  3;  2;  -3;2020;sierpień;13;czwartek;0,0000;0,9649;0,0351;153;  0;317,5;239,0; 81,0;425,5
+Saint Vincent and the Grenadines;2020-08-14;  57;  0; 0;0;  55;  0;  2;   0;2020;sierpień;14;piątek;0,0000;0,9649;0,0351;154;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-15;  57;  0; 0;0;  55;  0;  2;   0;2020;sierpień;15;sobota;0,0000;0,9649;0,0351;155;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-16;  57;  0; 0;0;  55;  0;  2;   0;2020;sierpień;16;niedziela;0,0000;0,9649;0,0351;156;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-17;  58;  1; 0;0;  55;  0;  3;   1;2020;sierpień;17;poniedziałek;0,0000;0,9483;0,0517;157;  0;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2020-08-18;  58;  0; 0;0;  55;  0;  3;   0;2020;sierpień;18;wtorek;0,0000;0,9483;0,0517;158;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-19;  58;  0; 0;0;  56;  1;  2;  -1;2020;sierpień;19;środa;0,0000;0,9655;0,0345;159;  0;317,5;239,0;120,5;399,5
+Saint Vincent and the Grenadines;2020-08-20;  58;  0; 0;0;  56;  0;  2;   0;2020;sierpień;20;czwartek;0,0000;0,9655;0,0345;160;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-21;  58;  0; 0;0;  56;  0;  2;   0;2020;sierpień;21;piątek;0,0000;0,9655;0,0345;161;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-22;  58;  0; 0;0;  56;  0;  2;   0;2020;sierpień;22;sobota;0,0000;0,9655;0,0345;162;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-23;  58;  0; 0;0;  56;  0;  2;   0;2020;sierpień;23;niedziela;0,0000;0,9655;0,0345;163;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-24;  58;  0; 0;0;  56;  0;  2;   0;2020;sierpień;24;poniedziałek;0,0000;0,9655;0,0345;164;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-25;  58;  0; 0;0;  57;  1;  1;  -1;2020;sierpień;25;wtorek;0,0000;0,9828;0,0172;165;  0;317,5;239,0;120,5;399,5
+Saint Vincent and the Grenadines;2020-08-26;  58;  0; 0;0;  57;  0;  1;   0;2020;sierpień;26;środa;0,0000;0,9828;0,0172;166;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-27;  60;  2; 0;0;  57;  0;  3;   2;2020;sierpień;27;czwartek;0,0000;0,9500;0,0500;167;  0;121,0;239,0;302,0; 77,0
+Saint Vincent and the Grenadines;2020-08-28;  60;  0; 0;0;  57;  0;  3;   0;2020;sierpień;28;piątek;0,0000;0,9500;0,0500;168;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-29;  60;  0; 0;0;  57;  0;  3;   0;2020;sierpień;29;sobota;0,0000;0,9500;0,0500;169;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-30;  60;  0; 0;0;  57;  0;  3;   0;2020;sierpień;30;niedziela;0,0000;0,9500;0,0500;170;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-08-31;  60;  0; 0;0;  57;  0;  3;   0;2020;sierpień;31;poniedziałek;0,0000;0,9500;0,0500;171;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-01;  61;  1; 0;0;  57;  0;  4;   1;2020;wrzesień; 1;wtorek;0,0000;0,9344;0,0656;172;  0;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2020-09-02;  61;  0; 0;0;  57;  0;  4;   0;2020;wrzesień; 2;środa;0,0000;0,9344;0,0656;173;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-03;  61;  0; 0;0;  57;  0;  4;   0;2020;wrzesień; 3;czwartek;0,0000;0,9344;0,0656;174;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-04;  61;  0; 0;0;  57;  0;  4;   0;2020;wrzesień; 4;piątek;0,0000;0,9344;0,0656;175;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-05;  61;  0; 0;0;  58;  1;  3;  -1;2020;wrzesień; 5;sobota;0,0000;0,9508;0,0492;176;  0;317,5;239,0;120,5;399,5
+Saint Vincent and the Grenadines;2020-09-06;  61;  0; 0;0;  58;  0;  3;   0;2020;wrzesień; 6;niedziela;0,0000;0,9508;0,0492;177;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-07;  62;  1; 0;0;  58;  0;  4;   1;2020;wrzesień; 7;poniedziałek;0,0000;0,9355;0,0645;178;  0;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2020-09-08;  62;  0; 0;0;  58;  0;  4;   0;2020;wrzesień; 8;wtorek;0,0000;0,9355;0,0645;179;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-09;  62;  0; 0;0;  58;  0;  4;   0;2020;wrzesień; 9;środa;0,0000;0,9355;0,0645;180;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-10;  62;  0; 0;0;  58;  0;  4;   0;2020;wrzesień;10;czwartek;0,0000;0,9355;0,0645;181;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-11;  64;  2; 0;0;  61;  3;  3;  -1;2020;wrzesień;11;piątek;0,0000;0,9531;0,0469;182;  0;121,0;239,0; 81,0;399,5
+Saint Vincent and the Grenadines;2020-09-12;  64;  0; 0;0;  61;  0;  3;   0;2020;wrzesień;12;sobota;0,0000;0,9531;0,0469;183;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-13;  64;  0; 0;0;  61;  0;  3;   0;2020;wrzesień;13;niedziela;0,0000;0,9531;0,0469;184;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-14;  64;  0; 0;0;  61;  0;  3;   0;2020;wrzesień;14;poniedziałek;0,0000;0,9531;0,0469;185;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-15;  64;  0; 0;0;  62;  1;  2;  -1;2020;wrzesień;15;wtorek;0,0000;0,9688;0,0312;186;  0;317,5;239,0;120,5;399,5
+Saint Vincent and the Grenadines;2020-09-16;  64;  0; 0;0;  62;  0;  2;   0;2020;wrzesień;16;środa;0,0000;0,9688;0,0312;187;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-17;  64;  0; 0;0;  64;  2;  0;  -2;2020;wrzesień;17;czwartek;0,0000;1,0000;0,0000;188;  0;317,5;239,0; 95,5;417,0
+Saint Vincent and the Grenadines;2020-09-18;  64;  0; 0;0;  64;  0;  0;   0;2020;wrzesień;18;piątek;0,0000;1,0000;0,0000;189;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-19;  64;  0; 0;0;  64;  0;  0;   0;2020;wrzesień;19;sobota;0,0000;1,0000;0,0000;190;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-20;  64;  0; 0;0;  64;  0;  0;   0;2020;wrzesień;20;niedziela;0,0000;1,0000;0,0000;191;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-21;  64;  0; 0;0;  64;  0;  0;   0;2020;wrzesień;21;poniedziałek;0,0000;1,0000;0,0000;192;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-22;  64;  0; 0;0;  64;  0;  0;   0;2020;wrzesień;22;wtorek;0,0000;1,0000;0,0000;193;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-23;  64;  0; 0;0;  64;  0;  0;   0;2020;wrzesień;23;środa;0,0000;1,0000;0,0000;194;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-24;  64;  0; 0;0;  64;  0;  0;   0;2020;wrzesień;24;czwartek;0,0000;1,0000;0,0000;195;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-25;  64;  0; 0;0;  64;  0;  0;   0;2020;wrzesień;25;piątek;0,0000;1,0000;0,0000;196;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-26;  64;  0; 0;0;  64;  0;  0;   0;2020;wrzesień;26;sobota;0,0000;1,0000;0,0000;197;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-27;  64;  0; 0;0;  64;  0;  0;   0;2020;wrzesień;27;niedziela;0,0000;1,0000;0,0000;198;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-28;  64;  0; 0;0;  64;  0;  0;   0;2020;wrzesień;28;poniedziałek;0,0000;1,0000;0,0000;199;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-29;  64;  0; 0;0;  64;  0;  0;   0;2020;wrzesień;29;wtorek;0,0000;1,0000;0,0000;200;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-09-30;  64;  0; 0;0;  64;  0;  0;   0;2020;wrzesień;30;środa;0,0000;1,0000;0,0000;201;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-01;  64;  0; 0;0;  64;  0;  0;   0;2020;październik; 1;czwartek;0,0000;1,0000;0,0000;202;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-02;  64;  0; 0;0;  64;  0;  0;   0;2020;październik; 2;piątek;0,0000;1,0000;0,0000;203;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-03;  64;  0; 0;0;  64;  0;  0;   0;2020;październik; 3;sobota;0,0000;1,0000;0,0000;204;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-04;  64;  0; 0;0;  64;  0;  0;   0;2020;październik; 4;niedziela;0,0000;1,0000;0,0000;205;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-05;  64;  0; 0;0;  64;  0;  0;   0;2020;październik; 5;poniedziałek;0,0000;1,0000;0,0000;206;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-06;  64;  0; 0;0;  64;  0;  0;   0;2020;październik; 6;wtorek;0,0000;1,0000;0,0000;207;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-07;  64;  0; 0;0;  64;  0;  0;   0;2020;październik; 7;środa;0,0000;1,0000;0,0000;208;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-08;  64;  0; 0;0;  64;  0;  0;   0;2020;październik; 8;czwartek;0,0000;1,0000;0,0000;209;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-09;  64;  0; 0;0;  64;  0;  0;   0;2020;październik; 9;piątek;0,0000;1,0000;0,0000;210;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-10;  64;  0; 0;0;  64;  0;  0;   0;2020;październik;10;sobota;0,0000;1,0000;0,0000;211;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-11;  64;  0; 0;0;  64;  0;  0;   0;2020;październik;11;niedziela;0,0000;1,0000;0,0000;212;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-12;  64;  0; 0;0;  64;  0;  0;   0;2020;październik;12;poniedziałek;0,0000;1,0000;0,0000;213;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-13;  64;  0; 0;0;  64;  0;  0;   0;2020;październik;13;wtorek;0,0000;1,0000;0,0000;214;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-14;  64;  0; 0;0;  64;  0;  0;   0;2020;październik;14;środa;0,0000;1,0000;0,0000;215;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-15;  64;  0; 0;0;  64;  0;  0;   0;2020;październik;15;czwartek;0,0000;1,0000;0,0000;216;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-16;  65;  1; 0;0;  64;  0;  1;   1;2020;październik;16;piątek;0,0000;0,9846;0,0154;217;  0;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2020-10-17;  67;  2; 0;0;  64;  0;  3;   2;2020;październik;17;sobota;0,0000;0,9552;0,0448;218;  0;121,0;239,0;302,0; 77,0
+Saint Vincent and the Grenadines;2020-10-18;  67;  0; 0;0;  64;  0;  3;   0;2020;październik;18;niedziela;0,0000;0,9552;0,0448;219;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-19;  67;  0; 0;0;  64;  0;  3;   0;2020;październik;19;poniedziałek;0,0000;0,9552;0,0448;220;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-20;  68;  1; 0;0;  64;  0;  4;   1;2020;październik;20;wtorek;0,0000;0,9412;0,0588;221;  0;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2020-10-21;  68;  0; 0;0;  64;  0;  4;   0;2020;październik;21;środa;0,0000;0,9412;0,0588;222;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-22;  68;  0; 0;0;  64;  0;  4;   0;2020;październik;22;czwartek;0,0000;0,9412;0,0588;223;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-23;  73;  5; 0;0;  64;  0;  9;   5;2020;październik;23;piątek;0,0000;0,8767;0,1233;224;  0; 86,0;239,0;302,0; 57,0
+Saint Vincent and the Grenadines;2020-10-24;  73;  0; 0;0;  65;  1;  8;  -1;2020;październik;24;sobota;0,0000;0,8904;0,1096;225;  0;317,5;239,0;120,5;399,5
+Saint Vincent and the Grenadines;2020-10-25;  73;  0; 0;0;  66;  1;  7;  -1;2020;październik;25;niedziela;0,0000;0,9041;0,0959;226;  0;317,5;239,0;120,5;399,5
+Saint Vincent and the Grenadines;2020-10-26;  73;  0; 0;0;  66;  0;  7;   0;2020;październik;26;poniedziałek;0,0000;0,9041;0,0959;227;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-27;  74;  1; 0;0;  69;  3;  5;  -2;2020;październik;27;wtorek;0,0000;0,9324;0,0676;228;  0;148,0;239,0; 81,0;417,0
+Saint Vincent and the Grenadines;2020-10-28;  74;  0; 0;0;  69;  0;  5;   0;2020;październik;28;środa;0,0000;0,9324;0,0676;229;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-29;  74;  0; 0;0;  70;  1;  4;  -1;2020;październik;29;czwartek;0,0000;0,9459;0,0541;230;  0;317,5;239,0;120,5;399,5
+Saint Vincent and the Grenadines;2020-10-30;  74;  0; 0;0;  70;  0;  4;   0;2020;październik;30;piątek;0,0000;0,9459;0,0541;231;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-10-31;  74;  0; 0;0;  70;  0;  4;   0;2020;październik;31;sobota;0,0000;0,9459;0,0541;232;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-01;  75;  1; 0;0;  70;  0;  5;   1;2020;listopad; 1;niedziela;0,0000;0,9333;0,0667;233;  0;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2020-11-02;  75;  0; 0;0;  71;  1;  4;  -1;2020;listopad; 2;poniedziałek;0,0000;0,9467;0,0533;234;  0;317,5;239,0;120,5;399,5
+Saint Vincent and the Grenadines;2020-11-03;  75;  0; 0;0;  71;  0;  4;   0;2020;listopad; 3;wtorek;0,0000;0,9467;0,0533;235;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-04;  75;  0; 0;0;  71;  0;  4;   0;2020;listopad; 4;środa;0,0000;0,9467;0,0533;236;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-05;  76;  1; 0;0;  71;  0;  5;   1;2020;listopad; 5;czwartek;0,0000;0,9342;0,0658;237;  0;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2020-11-06;  76;  0; 0;0;  71;  0;  5;   0;2020;listopad; 6;piątek;0,0000;0,9342;0,0658;238;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-07;  76;  0; 0;0;  72;  1;  4;  -1;2020;listopad; 7;sobota;0,0000;0,9474;0,0526;239;  0;317,5;239,0;120,5;399,5
+Saint Vincent and the Grenadines;2020-11-08;  76;  0; 0;0;  72;  0;  4;   0;2020;listopad; 8;niedziela;0,0000;0,9474;0,0526;240;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-09;  76;  0; 0;0;  72;  0;  4;   0;2020;listopad; 9;poniedziałek;0,0000;0,9474;0,0526;241;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-10;  76;  0; 0;0;  72;  0;  4;   0;2020;listopad;10;wtorek;0,0000;0,9474;0,0526;242;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-11;  77;  1; 0;0;  74;  2;  3;  -1;2020;listopad;11;środa;0,0000;0,9610;0,0390;243;  0;148,0;239,0; 95,5;399,5
+Saint Vincent and the Grenadines;2020-11-12;  77;  0; 0;0;  74;  0;  3;   0;2020;listopad;12;czwartek;0,0000;0,9610;0,0390;244;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-13;  78;  1; 0;0;  76;  2;  2;  -1;2020;listopad;13;piątek;0,0000;0,9744;0,0256;245;  0;148,0;239,0; 95,5;399,5
+Saint Vincent and the Grenadines;2020-11-14;  78;  0; 0;0;  77;  1;  1;  -1;2020;listopad;14;sobota;0,0000;0,9872;0,0128;246;  0;317,5;239,0;120,5;399,5
+Saint Vincent and the Grenadines;2020-11-15;  78;  0; 0;0;  77;  0;  1;   0;2020;listopad;15;niedziela;0,0000;0,9872;0,0128;247;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-16;  78;  0; 0;0;  77;  0;  1;   0;2020;listopad;16;poniedziałek;0,0000;0,9872;0,0128;248;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-17;  83;  5; 0;0;  77;  0;  6;   5;2020;listopad;17;wtorek;0,0000;0,9277;0,0723;249;  0; 86,0;239,0;302,0; 57,0
+Saint Vincent and the Grenadines;2020-11-18;  83;  0; 0;0;  78;  1;  5;  -1;2020;listopad;18;środa;0,0000;0,9398;0,0602;250;  0;317,5;239,0;120,5;399,5
+Saint Vincent and the Grenadines;2020-11-19;  84;  1; 0;0;  78;  0;  6;   1;2020;listopad;19;czwartek;0,0000;0,9286;0,0714;251;  0;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2020-11-20;  84;  0; 0;0;  78;  0;  6;   0;2020;listopad;20;piątek;0,0000;0,9286;0,0714;252;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-21;  84;  0; 0;0;  78;  0;  6;   0;2020;listopad;21;sobota;0,0000;0,9286;0,0714;253;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-22;  84;  0; 0;0;  78;  0;  6;   0;2020;listopad;22;niedziela;0,0000;0,9286;0,0714;254;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-23;  84;  0; 0;0;  78;  0;  6;   0;2020;listopad;23;poniedziałek;0,0000;0,9286;0,0714;255;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-24;  84;  0; 0;0;  78;  0;  6;   0;2020;listopad;24;wtorek;0,0000;0,9286;0,0714;256;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-25;  84;  0; 0;0;  78;  0;  6;   0;2020;listopad;25;środa;0,0000;0,9286;0,0714;257;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-26;  84;  0; 0;0;  78;  0;  6;   0;2020;listopad;26;czwartek;0,0000;0,9286;0,0714;258;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-27;  85;  1; 0;0;  79;  1;  6;   0;2020;listopad;27;piątek;0,0000;0,9294;0,0706;259;  0;148,0;239,0;120,5;248,5
+Saint Vincent and the Grenadines;2020-11-28;  85;  0; 0;0;  79;  0;  6;   0;2020;listopad;28;sobota;0,0000;0,9294;0,0706;260;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-29;  85;  0; 0;0;  79;  0;  6;   0;2020;listopad;29;niedziela;0,0000;0,9294;0,0706;261;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-11-30;  85;  0; 0;0;  79;  0;  6;   0;2020;listopad;30;poniedziałek;0,0000;0,9294;0,0706;262;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-01;  85;  0; 0;0;  80;  1;  5;  -1;2020;grudzień; 1;wtorek;0,0000;0,9412;0,0588;263;  0;317,5;239,0;120,5;399,5
+Saint Vincent and the Grenadines;2020-12-02;  85;  0; 0;0;  80;  0;  5;   0;2020;grudzień; 2;środa;0,0000;0,9412;0,0588;264;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-03;  87;  2; 0;0;  80;  0;  7;   2;2020;grudzień; 3;czwartek;0,0000;0,9195;0,0805;265;  0;121,0;239,0;302,0; 77,0
+Saint Vincent and the Grenadines;2020-12-04;  87;  0; 0;0;  80;  0;  7;   0;2020;grudzień; 4;piątek;0,0000;0,9195;0,0805;266;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-05;  87;  0; 0;0;  80;  0;  7;   0;2020;grudzień; 5;sobota;0,0000;0,9195;0,0805;267;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-06;  87;  0; 0;0;  80;  0;  7;   0;2020;grudzień; 6;niedziela;0,0000;0,9195;0,0805;268;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-07;  87;  0; 0;0;  80;  0;  7;   0;2020;grudzień; 7;poniedziałek;0,0000;0,9195;0,0805;269;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-08;  87;  0; 0;0;  80;  0;  7;   0;2020;grudzień; 8;wtorek;0,0000;0,9195;0,0805;270;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-09;  90;  3; 0;0;  80;  0; 10;   3;2020;grudzień; 9;środa;0,0000;0,8889;0,1111;271;  0;108,5;239,0;302,0; 68,5
+Saint Vincent and the Grenadines;2020-12-10;  91;  1; 0;0;  80;  0; 11;   1;2020;grudzień;10;czwartek;0,0000;0,8791;0,1209;272;  0;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2020-12-11;  94;  3; 0;0;  81;  1; 13;   2;2020;grudzień;11;piątek;0,0000;0,8617;0,1383;273;  0;108,5;239,0;120,5; 77,0
+Saint Vincent and the Grenadines;2020-12-12;  94;  0; 0;0;  81;  0; 13;   0;2020;grudzień;12;sobota;0,0000;0,8617;0,1383;274;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-13;  98;  4; 0;0;  81;  0; 17;   4;2020;grudzień;13;niedziela;0,0000;0,8265;0,1735;275;  0; 97,5;239,0;302,0; 62,5
+Saint Vincent and the Grenadines;2020-12-14;  98;  0; 0;0;  81;  0; 17;   0;2020;grudzień;14;poniedziałek;0,0000;0,8265;0,1735;276;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-15;  98;  0; 0;0;  81;  0; 17;   0;2020;grudzień;15;wtorek;0,0000;0,8265;0,1735;277;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-16; 100;  2; 0;0;  82;  1; 18;   1;2020;grudzień;16;środa;0,0000;0,8200;0,1800;278;  0;121,0;239,0;120,5; 96,5
+Saint Vincent and the Grenadines;2020-12-17; 100;  0; 0;0;  82;  0; 18;   0;2020;grudzień;17;czwartek;0,0000;0,8200;0,1800;279;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-18; 100;  0; 0;0;  82;  0; 18;   0;2020;grudzień;18;piątek;0,0000;0,8200;0,1800;280;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-19; 100;  0; 0;0;  82;  0; 18;   0;2020;grudzień;19;sobota;0,0000;0,8200;0,1800;281;  0;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-20; 104;  4; 0;0;  85;  3; 19;   1;2020;grudzień;20;niedziela;0,0000;0,8173;0,1827;282;  1; 97,5;239,0; 81,0; 96,5
+Saint Vincent and the Grenadines;2020-12-21; 104;  0; 0;0;  85;  0; 19;   0;2020;grudzień;21;poniedziałek;0,0000;0,8173;0,1827;283;  2;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-22; 107;  3; 0;0;  85;  0; 22;   3;2020;grudzień;22;wtorek;0,0000;0,7944;0,2056;284;  3;108,5;239,0;302,0; 68,5
+Saint Vincent and the Grenadines;2020-12-23; 108;  1; 0;0;  85;  0; 23;   1;2020;grudzień;23;środa;0,0000;0,7870;0,2130;285;  4;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2020-12-24; 108;  0; 0;0;  85;  0; 23;   0;2020;grudzień;24;czwartek;0,0000;0,7870;0,2130;286;  5;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-25; 108;  0; 0;0;  85;  0; 23;   0;2020;grudzień;25;piątek;0,0000;0,7870;0,2130;287;  6;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-26; 109;  1; 0;0;  87;  2; 22;  -1;2020;grudzień;26;sobota;0,0000;0,7982;0,2018;288;  7;148,0;239,0; 95,5;399,5
+Saint Vincent and the Grenadines;2020-12-27; 109;  0; 0;0;  87;  0; 22;   0;2020;grudzień;27;niedziela;0,0000;0,7982;0,2018;289;  8;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-28; 109;  0; 0;0;  87;  0; 22;   0;2020;grudzień;28;poniedziałek;0,0000;0,7982;0,2018;290;  9;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2020-12-29; 113;  4; 0;0;  89;  2; 24;   2;2020;grudzień;29;wtorek;0,0000;0,7876;0,2124;291; 10; 97,5;239,0; 95,5; 77,0
+Saint Vincent and the Grenadines;2020-12-30; 115;  2; 0;0;  89;  0; 26;   2;2020;grudzień;30;środa;0,0000;0,7739;0,2261;292; 11;121,0;239,0;302,0; 77,0
+Saint Vincent and the Grenadines;2020-12-31; 121;  6; 0;0;  98;  9; 23;  -3;2020;grudzień;31;czwartek;0,0000;0,8099;0,1901;293; 12; 74,5;239,0; 40,0;425,5
+Saint Vincent and the Grenadines;2021-01-01; 121;  0; 0;0;  98;  0; 23;   0;2021;styczeń; 1;piątek;0,0000;0,8099;0,1901;294; 13;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-01-02; 122;  1; 0;0;  98;  0; 24;   1;2021;styczeń; 2;sobota;0,0000;0,8033;0,1967;295; 14;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2021-01-03; 124;  2; 0;0; 100;  2; 24;   0;2021;styczeń; 3;niedziela;0,0000;0,8065;0,1935;296; 15;121,0;239,0; 95,5;248,5
+Saint Vincent and the Grenadines;2021-01-04; 124;  0; 0;0; 100;  0; 24;   0;2021;styczeń; 4;poniedziałek;0,0000;0,8065;0,1935;297; 16;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-01-05; 133;  9; 0;0; 100;  0; 33;   9;2021;styczeń; 5;wtorek;0,0000;0,7519;0,2481;298; 17; 49,5;239,0;302,0; 29,5
+Saint Vincent and the Grenadines;2021-01-06; 149; 16; 0;0; 100;  0; 49;  16;2021;styczeń; 6;środa;0,0000;0,6711;0,3289;299; 18; 32,0;239,0;302,0; 18,5
+Saint Vincent and the Grenadines;2021-01-07; 149;  0; 0;0; 100;  0; 49;   0;2021;styczeń; 7;czwartek;0,0000;0,6711;0,3289;300; 19;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-01-08; 149;  0; 0;0; 100;  0; 49;   0;2021;styczeń; 8;piątek;0,0000;0,6711;0,3289;301; 20;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-01-09; 225; 76; 0;0; 100;  0;125;  76;2021;styczeń; 9;sobota;0,0000;0,4444;0,5556;302; 21;  7,0;239,0;302,0;  5,0
+Saint Vincent and the Grenadines;2021-01-10; 249; 24; 0;0; 100;  0;149;  24;2021;styczeń;10;niedziela;0,0000;0,4016;0,5984;303; 22; 23,0;239,0;302,0; 13,0
+Saint Vincent and the Grenadines;2021-01-11; 249;  0; 0;0; 106;  6;143;  -6;2021;styczeń;11;poniedziałek;0,0000;0,4257;0,5743;304; 23;317,5;239,0; 62,0;440,5
+Saint Vincent and the Grenadines;2021-01-12; 284; 35; 0;0; 106;  0;178;  35;2021;styczeń;12;wtorek;0,0000;0,3732;0,6268;305; 24; 16,5;239,0;302,0; 11,0
+Saint Vincent and the Grenadines;2021-01-13; 284;  0; 0;0; 106;  0;178;   0;2021;styczeń;13;środa;0,0000;0,3732;0,6268;306; 25;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-01-14; 340; 56; 0;0; 106;  0;234;  56;2021;styczeń;14;czwartek;0,0000;0,3118;0,6882;307; 26; 12,0;239,0;302,0;  9,0
+Saint Vincent and the Grenadines;2021-01-15; 450;110; 1;1; 110;  4;339; 105;2021;styczeń;15;piątek;0,0022;0,2444;0,7533;308; 27;  2,0;  6,5; 73,0;  3,0
+Saint Vincent and the Grenadines;2021-01-16; 450;  0; 1;0; 110;  0;339;   0;2021;styczeń;16;sobota;0,0022;0,2444;0,7533;309; 28;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-01-17; 478; 28; 1;0; 111;  1;366;  27;2021;styczeń;17;niedziela;0,0021;0,2322;0,7657;310; 29; 22,0;239,0;120,5; 12,0
+Saint Vincent and the Grenadines;2021-01-18; 494; 16; 1;0; 118;  7;375;   9;2021;styczeń;18;poniedziałek;0,0020;0,2389;0,7591;311; 30; 32,0;239,0; 54,0; 29,5
+Saint Vincent and the Grenadines;2021-01-19; 602;108; 2;1; 119;  1;481; 106;2021;styczeń;19;wtorek;0,0033;0,1977;0,7990;312; 31;  3,0;  6,5;120,5;  2,0
+Saint Vincent and the Grenadines;2021-01-20; 602;  0; 2;0; 119;  0;481;   0;2021;styczeń;20;środa;0,0033;0,1977;0,7990;313; 32;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-01-21; 690; 88; 2;0; 126;  7;562;  81;2021;styczeń;21;czwartek;0,0029;0,1826;0,8145;314; 33;  5,0;239,0; 54,0;  4,0
+Saint Vincent and the Grenadines;2021-01-22; 690;  0; 2;0; 126;  0;562;   0;2021;styczeń;22;piątek;0,0029;0,1826;0,8145;315; 34;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-01-23; 720; 30; 2;0; 134;  8;584;  22;2021;styczeń;23;sobota;0,0028;0,1861;0,8111;316; 35; 20,5;239,0; 46,5; 14,0
+Saint Vincent and the Grenadines;2021-01-24; 738; 18; 2;0; 134;  0;602;  18;2021;styczeń;24;niedziela;0,0027;0,1816;0,8157;317; 36; 26,0;239,0;302,0; 15,0
+Saint Vincent and the Grenadines;2021-01-25; 746;  8; 2;0; 147; 13;597;  -5;2021;styczeń;25;poniedziałek;0,0027;0,1971;0,8003;318; 37; 59,0;239,0; 30,5;435,5
+Saint Vincent and the Grenadines;2021-01-26; 746;  0; 2;0; 147;  0;597;   0;2021;styczeń;26;wtorek;0,0027;0,1971;0,8003;319; 38;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-01-27; 827; 81; 2;0; 174; 27;651;  54;2021;styczeń;27;środa;0,0024;0,2104;0,7872;320; 39;  6,0;239,0; 16,5; 10,0
+Saint Vincent and the Grenadines;2021-01-28; 827;  0; 2;0; 174;  0;651;   0;2021;styczeń;28;czwartek;0,0024;0,2104;0,7872;321; 40;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-01-29; 896; 69; 2;0; 232; 58;662;  11;2021;styczeń;29;piątek;0,0022;0,2589;0,7388;322; 41;  9,0;239,0;  8,0; 24,5
+Saint Vincent and the Grenadines;2021-01-30; 896;  0; 2;0; 232;  0;662;   0;2021;styczeń;30;sobota;0,0022;0,2589;0,7388;323; 42;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-01-31; 901;  5; 2;0; 251; 19;648; -14;2021;styczeń;31;niedziela;0,0022;0,2786;0,7192;324; 43; 86,0;239,0; 23,0;452,5
+Saint Vincent and the Grenadines;2021-02-01; 901;  0; 2;0; 251;  0;648;   0;2021;luty; 1;poniedziałek;0,0022;0,2786;0,7192;325; 44;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-02-02;1059;158; 2;0; 275; 24;782; 134;2021;luty; 2;wtorek;0,0019;0,2597;0,7384;326; 45;  1,0;239,0; 18,5;  1,0
+Saint Vincent and the Grenadines;2021-02-03;1059;  0; 2;0; 275;  0;782;   0;2021;luty; 3;środa;0,0019;0,2597;0,7384;327; 46;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-02-04;1067;  8; 3;1; 338; 63;726; -56;2021;luty; 4;czwartek;0,0028;0,3168;0,6804;328; 47; 59,0;  6,5;  7,0;463,5
+Saint Vincent and the Grenadines;2021-02-05;1170;103; 3;0; 377; 39;790;  64;2021;luty; 5;piątek;0,0026;0,3222;0,6752;329; 48;  4,0;239,0; 12,5;  7,0
+Saint Vincent and the Grenadines;2021-02-06;1202; 32; 3;0; 401; 24;798;   8;2021;luty; 6;sobota;0,0025;0,3336;0,6639;330; 49; 18,5;239,0; 18,5; 37,0
+Saint Vincent and the Grenadines;2021-02-07;1269; 67; 4;1; 409;  8;856;  58;2021;luty; 7;niedziela;0,0032;0,3223;0,6745;331; 50; 10,0;  6,5; 46,5;  8,0
+Saint Vincent and the Grenadines;2021-02-08;1283; 14; 4;0; 415;  6;864;   8;2021;luty; 8;poniedziałek;0,0031;0,3235;0,6734;332; 51; 38,0;239,0; 62,0; 37,0
+Saint Vincent and the Grenadines;2021-02-09;1283;  0; 4;0; 415;  0;864;   0;2021;luty; 9;wtorek;0,0031;0,3235;0,6734;333; 52;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-02-10;1340; 57; 6;2; 454; 39;880;  16;2021;luty;10;środa;0,0045;0,3388;0,6567;334; 53; 11,0;  1,5; 12,5; 18,5
+Saint Vincent and the Grenadines;2021-02-11;1370; 30; 6;0; 467; 13;897;  17;2021;luty;11;czwartek;0,0044;0,3409;0,6547;335; 54; 20,5;239,0; 30,5; 16,5
+Saint Vincent and the Grenadines;2021-02-12;1370;  0; 6;0; 467;  0;897;   0;2021;luty;12;piątek;0,0044;0,3409;0,6547;336; 55;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-02-13;1418; 48; 6;0; 554; 87;858; -39;2021;luty;13;sobota;0,0042;0,3907;0,6051;337; 56; 13,0;239,0;  3,0;461,0
+Saint Vincent and the Grenadines;2021-02-14;1418;  0; 6;0; 554;  0;858;   0;2021;luty;14;niedziela;0,0042;0,3907;0,6051;338; 57;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-02-15;1453; 35; 6;0; 599; 45;848; -10;2021;luty;15;poniedziałek;0,0041;0,4123;0,5836;339; 58; 16,5;239,0;  9,0;450,0
+Saint Vincent and the Grenadines;2021-02-16;1457;  4; 6;0; 612; 13;839;  -9;2021;luty;16;wtorek;0,0041;0,4200;0,5758;340; 59; 97,5;239,0; 30,5;447,5
+Saint Vincent and the Grenadines;2021-02-17;1462;  5; 6;0; 632; 20;824; -15;2021;luty;17;środa;0,0041;0,4323;0,5636;341; 60; 86,0;239,0; 21,5;455,0
+Saint Vincent and the Grenadines;2021-02-18;1462;  0; 6;0; 632;  0;824;   0;2021;luty;18;czwartek;0,0041;0,4323;0,5636;342; 61;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-02-19;1494; 32; 6;0; 758;126;730; -94;2021;luty;19;piątek;0,0040;0,5074;0,4886;343; 62; 18,5;239,0;  2,0;466,0
+Saint Vincent and the Grenadines;2021-02-20;1498;  4; 6;0; 768; 10;724;  -6;2021;luty;20;sobota;0,0040;0,5127;0,4833;344; 63; 97,5;239,0; 37,0;440,5
+Saint Vincent and the Grenadines;2021-02-21;1503;  5; 6;0; 803; 35;694; -30;2021;luty;21;niedziela;0,0040;0,5343;0,4617;345; 64; 86,0;239,0; 14,0;458,0
+Saint Vincent and the Grenadines;2021-02-22;1503;  0; 6;0; 803;  0;694;   0;2021;luty;22;poniedziałek;0,0040;0,5343;0,4617;346; 65;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-02-23;1511;  8; 6;0; 845; 42;660; -34;2021;luty;23;wtorek;0,0040;0,5592;0,4368;347; 66; 59,0;239,0; 10,5;459,0
+Saint Vincent and the Grenadines;2021-02-24;1519;  8; 6;0; 848;  3;665;   5;2021;luty;24;środa;0,0039;0,5583;0,4378;348; 67; 59,0;239,0; 81,0; 57,0
+Saint Vincent and the Grenadines;2021-02-25;1519;  0; 6;0; 848;  0;665;   0;2021;luty;25;czwartek;0,0039;0,5583;0,4378;349; 68;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-02-26;1519;  0; 6;0; 848;  0;665;   0;2021;luty;26;piątek;0,0039;0,5583;0,4378;350; 69;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-02-27;1556; 37; 8;2; 932; 84;616; -49;2021;luty;27;sobota;0,0051;0,5990;0,3959;351; 70; 15,0;  1,5;  4,0;462,0
+Saint Vincent and the Grenadines;2021-02-28;1556;  0; 8;0; 932;  0;616;   0;2021;luty;28;niedziela;0,0051;0,5990;0,3959;352; 71;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-03-01;1628; 72; 8;0; 938;  6;682;  66;2021;marzec; 1;poniedziałek;0,0049;0,5762;0,4189;353; 72;  8,0;239,0; 62,0;  6,0
+Saint Vincent and the Grenadines;2021-03-02;1628;  0; 8;0; 945;  7;675;  -7;2021;marzec; 2;wtorek;0,0049;0,5805;0,4146;354; 73;317,5;239,0; 54,0;444,5
+Saint Vincent and the Grenadines;2021-03-03;1645; 17; 8;0; 949;  4;688;  13;2021;marzec; 3;środa;0,0049;0,5769;0,4182;355; 74; 29,0;239,0; 73,0; 22,5
+Saint Vincent and the Grenadines;2021-03-04;1645;  0; 8;0; 949;  0;688;   0;2021;marzec; 4;czwartek;0,0049;0,5769;0,4182;356; 75;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-03-05;1645;  0; 8;0; 949;  0;688;   0;2021;marzec; 5;piątek;0,0049;0,5769;0,4182;357; 76;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-03-06;1645;  0; 8;0; 949;  0;688;   0;2021;marzec; 6;sobota;0,0049;0,5769;0,4182;358; 77;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-03-07;1663; 18; 8;0;1023; 74;632; -56;2021;marzec; 7;niedziela;0,0048;0,6152;0,3800;359; 78; 26,0;239,0;  5,0;463,5
+Saint Vincent and the Grenadines;2021-03-08;1663;  0; 8;0;1027;  4;628;  -4;2021;marzec; 8;poniedziałek;0,0048;0,6176;0,3776;360; 79;317,5;239,0; 73,0;431,5
+Saint Vincent and the Grenadines;2021-03-09;1663;  0; 8;0;1100; 73;555; -73;2021;marzec; 9;wtorek;0,0048;0,6615;0,3337;361; 80;317,5;239,0;  6,0;465,0
+Saint Vincent and the Grenadines;2021-03-10;1670;  7; 8;0;1107;  7;555;   0;2021;marzec;10;środa;0,0048;0,6629;0,3323;362; 81; 66,5;239,0; 54,0;248,5
+Saint Vincent and the Grenadines;2021-03-11;1674;  4; 8;0;1114;  7;552;  -3;2021;marzec;11;czwartek;0,0048;0,6655;0,3297;363; 82; 97,5;239,0; 54,0;425,5
+Saint Vincent and the Grenadines;2021-03-12;1674;  0; 8;0;1120;  6;546;  -6;2021;marzec;12;piątek;0,0048;0,6691;0,3262;364; 83;317,5;239,0; 62,0;440,5
+Saint Vincent and the Grenadines;2021-03-13;1680;  6; 8;0;1127;  7;545;  -1;2021;marzec;13;sobota;0,0048;0,6708;0,3244;365; 84; 74,5;239,0; 54,0;399,5
+Saint Vincent and the Grenadines;2021-03-14;1680;  0; 9;1;1129;  2;542;  -3;2021;marzec;14;niedziela;0,0054;0,6720;0,3226;366; 85;317,5;  6,5; 95,5;425,5
+Saint Vincent and the Grenadines;2021-03-15;1680;  0; 9;0;1129;  0;542;   0;2021;marzec;15;poniedziałek;0,0054;0,6720;0,3226;367; 86;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-03-16;1681;  1; 9;0;1129;  0;543;   1;2021;marzec;16;wtorek;0,0054;0,6716;0,3230;368; 87;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2021-03-17;1681;  0; 9;0;1504;375;168;-375;2021;marzec;17;środa;0,0054;0,8947;0,0999;369; 88;317,5;239,0;  1,0;467,0
+Saint Vincent and the Grenadines;2021-03-18;1684;  3; 9;0;1506;  2;169;   1;2021;marzec;18;czwartek;0,0053;0,8943;0,1004;370; 89;108,5;239,0; 95,5; 96,5
+Saint Vincent and the Grenadines;2021-03-19;1692;  8; 9;0;1512;  6;171;   2;2021;marzec;19;piątek;0,0053;0,8936;0,1011;371; 90; 59,0;239,0; 62,0; 77,0
+Saint Vincent and the Grenadines;2021-03-20;1696;  4; 9;0;1521;  9;166;  -5;2021;marzec;20;sobota;0,0053;0,8968;0,0979;372; 91; 97,5;239,0; 40,0;435,5
+Saint Vincent and the Grenadines;2021-03-21;1696;  0; 9;0;1521;  0;166;   0;2021;marzec;21;niedziela;0,0053;0,8968;0,0979;373; 92;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-03-22;1696;  0; 9;0;1521;  0;166;   0;2021;marzec;22;poniedziałek;0,0053;0,8968;0,0979;374; 93;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-03-23;1696;  0; 9;0;1521;  0;166;   0;2021;marzec;23;wtorek;0,0053;0,8968;0,0979;375; 94;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-03-24;1703;  7;10;1;1529;  8;164;  -2;2021;marzec;24;środa;0,0059;0,8978;0,0963;376; 95; 66,5;  6,5; 46,5;417,0
+Saint Vincent and the Grenadines;2021-03-25;1715; 12;10;0;1535;  6;170;   6;2021;marzec;25;czwartek;0,0058;0,8950;0,0991;377; 96; 41,0;239,0; 62,0; 50,0
+Saint Vincent and the Grenadines;2021-03-26;1721;  6;10;0;1577; 42;134; -36;2021;marzec;26;piątek;0,0058;0,9163;0,0779;378; 97; 74,5;239,0; 10,5;460,0
+Saint Vincent and the Grenadines;2021-03-27;1723;  2;10;0;1583;  6;130;  -4;2021;marzec;27;sobota;0,0058;0,9187;0,0754;379; 98;121,0;239,0; 62,0;431,5
+Saint Vincent and the Grenadines;2021-03-28;1738; 15;10;0;1587;  4;141;  11;2021;marzec;28;niedziela;0,0058;0,9131;0,0811;380; 99; 35,0;239,0; 73,0; 24,5
+Saint Vincent and the Grenadines;2021-03-29;1739;  1;10;0;1587;  0;142;   1;2021;marzec;29;poniedziałek;0,0058;0,9126;0,0817;381;100;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2021-03-30;1739;  0;10;0;1587;  0;142;   0;2021;marzec;30;wtorek;0,0058;0,9126;0,0817;382;101;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-03-31;1748;  9;10;0;1587;  0;151;   9;2021;marzec;31;środa;0,0057;0,9079;0,0864;383;102; 49,5;239,0;302,0; 29,5
+Saint Vincent and the Grenadines;2021-04-01;1750;  2;10;0;1587;  0;153;   2;2021;kwiecień; 1;czwartek;0,0057;0,9069;0,0874;384;103;121,0;239,0;302,0; 77,0
+Saint Vincent and the Grenadines;2021-04-02;1754;  4;10;0;1614; 27;130; -23;2021;kwiecień; 2;piątek;0,0057;0,9202;0,0741;385;104; 97,5;239,0; 16,5;457,0
+Saint Vincent and the Grenadines;2021-04-03;1755;  1;10;0;1614;  0;131;   1;2021;kwiecień; 3;sobota;0,0057;0,9197;0,0746;386;105;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2021-04-04;1758;  3;10;0;1614;  0;134;   3;2021;kwiecień; 4;niedziela;0,0057;0,9181;0,0762;387;106;108,5;239,0;302,0; 68,5
+Saint Vincent and the Grenadines;2021-04-05;1764;  6;10;0;1625; 11;129;  -5;2021;kwiecień; 5;poniedziałek;0,0057;0,9212;0,0731;388;107; 74,5;239,0; 35,5;435,5
+Saint Vincent and the Grenadines;2021-04-06;1765;  1;10;0;1627;  2;128;  -1;2021;kwiecień; 6;wtorek;0,0057;0,9218;0,0725;389;108;148,0;239,0; 95,5;399,5
+Saint Vincent and the Grenadines;2021-04-07;1766;  1;10;0;1627;  0;129;   1;2021;kwiecień; 7;środa;0,0057;0,9213;0,0730;390;109;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2021-04-08;1774;  8;10;0;1627;  0;137;   8;2021;kwiecień; 8;czwartek;0,0056;0,9171;0,0772;391;110; 59,0;239,0;302,0; 37,0
+Saint Vincent and the Grenadines;2021-04-09;1789; 15;10;0;1635;  8;144;   7;2021;kwiecień; 9;piątek;0,0056;0,9139;0,0805;392;111; 35,0;239,0; 46,5; 43,5
+Saint Vincent and the Grenadines;2021-04-10;1790;  1;10;0;1651; 16;129; -15;2021;kwiecień;10;sobota;0,0056;0,9223;0,0721;393;112;148,0;239,0; 26,5;455,0
+Saint Vincent and the Grenadines;2021-04-11;1792;  2;10;0;1665; 14;117; -12;2021;kwiecień;11;niedziela;0,0056;0,9291;0,0653;394;113;121,0;239,0; 28,0;451,0
+Saint Vincent and the Grenadines;2021-04-12;1806; 14;10;0;1665;  0;131;  14;2021;kwiecień;12;poniedziałek;0,0055;0,9219;0,0725;395;114; 38,0;239,0;302,0; 21,0
+Saint Vincent and the Grenadines;2021-04-13;1806;  0;10;0;1665;  0;131;   0;2021;kwiecień;13;wtorek;0,0055;0,9219;0,0725;396;115;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-04-14;1812;  6;10;0;1677; 12;125;  -6;2021;kwiecień;14;środa;0,0055;0,9255;0,0690;397;116; 74,5;239,0; 33,5;440,5
+Saint Vincent and the Grenadines;2021-04-15;1818;  6;10;0;1677;  0;131;   6;2021;kwiecień;15;czwartek;0,0055;0,9224;0,0721;398;117; 74,5;239,0;302,0; 50,0
+Saint Vincent and the Grenadines;2021-04-16;1819;  1;10;0;1677;  0;132;   1;2021;kwiecień;16;piątek;0,0055;0,9219;0,0726;399;118;148,0;239,0;302,0; 96,5
+Saint Vincent and the Grenadines;2021-04-17;1819;  0;10;0;1677;  0;132;   0;2021;kwiecień;17;sobota;0,0055;0,9219;0,0726;400;119;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-04-18;1819;  0;10;0;1677;  0;132;   0;2021;kwiecień;18;niedziela;0,0055;0,9219;0,0726;401;120;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-04-19;1819;  0;10;0;1677;  0;132;   0;2021;kwiecień;19;poniedziałek;0,0055;0,9219;0,0726;402;121;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-04-20;1819;  0;10;0;1686;  9;123;  -9;2021;kwiecień;20;wtorek;0,0055;0,9269;0,0676;403;122;317,5;239,0; 40,0;447,5
+Saint Vincent and the Grenadines;2021-04-21;1827;  8;10;0;1703; 17;114;  -9;2021;kwiecień;21;środa;0,0055;0,9321;0,0624;404;123; 59,0;239,0; 25,0;447,5
+Saint Vincent and the Grenadines;2021-04-22;1827;  0;10;0;1703;  0;114;   0;2021;kwiecień;22;czwartek;0,0055;0,9321;0,0624;405;124;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-04-23;1827;  0;10;0;1703;  0;114;   0;2021;kwiecień;23;piątek;0,0055;0,9321;0,0624;406;125;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-04-24;1830;  3;10;0;1711;  8;109;  -5;2021;kwiecień;24;sobota;0,0055;0,9350;0,0596;407;126;108,5;239,0; 46,5;435,5
+Saint Vincent and the Grenadines;2021-04-25;1830;  0;10;0;1711;  0;109;   0;2021;kwiecień;25;niedziela;0,0055;0,9350;0,0596;408;127;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-04-26;1839;  9;10;0;1711;  0;118;   9;2021;kwiecień;26;poniedziałek;0,0054;0,9304;0,0642;409;128; 49,5;239,0;302,0; 29,5
+Saint Vincent and the Grenadines;2021-04-27;1844;  5;11;1;1711;  0;122;   4;2021;kwiecień;27;wtorek;0,0060;0,9279;0,0662;410;129; 86,0;  6,5;302,0; 62,5
+Saint Vincent and the Grenadines;2021-04-28;1850;  6;11;0;1711;  0;128;   6;2021;kwiecień;28;środa;0,0059;0,9249;0,0692;411;130; 74,5;239,0;302,0; 50,0
+Saint Vincent and the Grenadines;2021-04-29;1855;  5;11;0;1712;  1;132;   4;2021;kwiecień;29;czwartek;0,0059;0,9229;0,0712;412;131; 86,0;239,0;120,5; 62,5
+Saint Vincent and the Grenadines;2021-04-30;1864;  9;11;0;1715;  3;138;   6;2021;kwiecień;30;piątek;0,0059;0,9201;0,0740;413;132; 49,5;239,0; 81,0; 50,0
+Saint Vincent and the Grenadines;2021-05-01;1864;  0;11;0;1719;  4;134;  -4;2021;maj; 1;sobota;0,0059;0,9222;0,0719;414;133;317,5;239,0; 73,0;431,5
+Saint Vincent and the Grenadines;2021-05-02;1882; 18;11;0;1731; 12;140;   6;2021;maj; 2;niedziela;0,0058;0,9198;0,0744;415;134; 26,0;239,0; 33,5; 50,0
+Saint Vincent and the Grenadines;2021-05-03;1882;  0;11;0;1731;  0;140;   0;2021;maj; 3;poniedziałek;0,0058;0,9198;0,0744;416;135;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-05-04;1882;  0;11;0;1731;  0;140;   0;2021;maj; 4;wtorek;0,0058;0,9198;0,0744;417;136;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-05-05;1882;  0;11;0;1731;  0;140;   0;2021;maj; 5;środa;0,0058;0,9198;0,0744;418;137;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-05-06;1889;  7;12;1;1733;  2;144;   4;2021;maj; 6;czwartek;0,0064;0,9174;0,0762;419;138; 66,5;  6,5; 95,5; 62,5
+Saint Vincent and the Grenadines;2021-05-07;1895;  6;12;0;1741;  8;142;  -2;2021;maj; 7;piątek;0,0063;0,9187;0,0749;420;139; 74,5;239,0; 46,5;417,0
+Saint Vincent and the Grenadines;2021-05-08;1912; 17;12;0;1741;  0;159;  17;2021;maj; 8;sobota;0,0063;0,9106;0,0832;421;140; 29,0;239,0;302,0; 16,5
+Saint Vincent and the Grenadines;2021-05-09;1912;  0;12;0;1741;  0;159;   0;2021;maj; 9;niedziela;0,0063;0,9106;0,0832;422;141;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-05-10;1922; 10;12;0;1741;  0;169;  10;2021;maj;10;poniedziałek;0,0062;0,9058;0,0879;423;142; 45,0;239,0;302,0; 26,0
+Saint Vincent and the Grenadines;2021-05-11;1922;  0;12;0;1741;  0;169;   0;2021;maj;11;wtorek;0,0062;0,9058;0,0879;424;143;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-05-12;1926;  4;12;0;1748;  7;166;  -3;2021;maj;12;środa;0,0062;0,9076;0,0862;425;144; 97,5;239,0; 54,0;425,5
+Saint Vincent and the Grenadines;2021-05-13;1928;  2;12;0;1764; 16;152; -14;2021;maj;13;czwartek;0,0062;0,9149;0,0788;426;145;121,0;239,0; 26,5;452,5
+Saint Vincent and the Grenadines;2021-05-14;1932;  4;12;0;1769;  5;151;  -1;2021;maj;14;piątek;0,0062;0,9156;0,0782;427;146; 97,5;239,0; 68,5;399,5
+Saint Vincent and the Grenadines;2021-05-15;1932;  0;12;0;1769;  0;151;   0;2021;maj;15;sobota;0,0062;0,9156;0,0782;428;147;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-05-16;1937;  5;12;0;1772;  3;153;   2;2021;maj;16;niedziela;0,0062;0,9148;0,0790;429;148; 86,0;239,0; 81,0; 77,0
+Saint Vincent and the Grenadines;2021-05-17;1937;  0;12;0;1772;  0;153;   0;2021;maj;17;poniedziałek;0,0062;0,9148;0,0790;430;149;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-05-18;1940;  3;12;0;1774;  2;154;   1;2021;maj;18;wtorek;0,0062;0,9144;0,0794;431;150;108,5;239,0; 95,5; 96,5
+Saint Vincent and the Grenadines;2021-05-19;1949;  9;12;0;1780;  6;157;   3;2021;maj;19;środa;0,0062;0,9133;0,0806;432;151; 49,5;239,0; 62,0; 68,5
+Saint Vincent and the Grenadines;2021-05-20;1954;  5;12;0;1786;  6;156;  -1;2021;maj;20;czwartek;0,0061;0,9140;0,0798;433;152; 86,0;239,0; 62,0;399,5
+Saint Vincent and the Grenadines;2021-05-21;1962;  8;12;0;1809; 23;141; -15;2021;maj;21;piątek;0,0061;0,9220;0,0719;434;153; 59,0;239,0; 20,0;455,0
+Saint Vincent and the Grenadines;2021-05-22;1973; 11;12;0;1827; 18;134;  -7;2021;maj;22;sobota;0,0061;0,9260;0,0679;435;154; 43,0;239,0; 24,0;444,5
+Saint Vincent and the Grenadines;2021-05-23;1973;  0;12;0;1827;  0;134;   0;2021;maj;23;niedziela;0,0061;0,9260;0,0679;436;155;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-05-24;1978;  5;12;0;1827;  0;139;   5;2021;maj;24;poniedziałek;0,0061;0,9237;0,0703;437;156; 86,0;239,0;302,0; 57,0
+Saint Vincent and the Grenadines;2021-05-25;1989; 11;12;0;1829;  2;148;   9;2021;maj;25;wtorek;0,0060;0,9196;0,0744;438;157; 43,0;239,0; 95,5; 29,5
+Saint Vincent and the Grenadines;2021-05-26;2006; 17;12;0;1831;  2;163;  15;2021;maj;26;środa;0,0060;0,9128;0,0813;439;158; 29,0;239,0; 95,5; 20,0
+Saint Vincent and the Grenadines;2021-05-27;2006;  0;12;0;1831;  0;163;   0;2021;maj;27;czwartek;0,0060;0,9128;0,0813;440;159;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-05-28;2014;  8;12;0;1831;  0;171;   8;2021;maj;28;piątek;0,0060;0,9091;0,0849;441;160; 59,0;239,0;302,0; 37,0
+Saint Vincent and the Grenadines;2021-05-29;2027; 13;12;0;1831;  0;184;  13;2021;maj;29;sobota;0,0059;0,9033;0,0908;442;161; 40,0;239,0;302,0; 22,5
+Saint Vincent and the Grenadines;2021-05-30;2027;  0;12;0;1831;  0;184;   0;2021;maj;30;niedziela;0,0059;0,9033;0,0908;443;162;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-05-31;2035;  8;12;0;1831;  0;192;   8;2021;maj;31;poniedziałek;0,0059;0,8998;0,0943;444;163; 59,0;239,0;302,0; 37,0
+Saint Vincent and the Grenadines;2021-06-01;2044;  9;12;0;1832;  1;200;   8;2021;czerwiec; 1;wtorek;0,0059;0,8963;0,0978;445;164; 49,5;239,0;120,5; 37,0
+Saint Vincent and the Grenadines;2021-06-02;2044;  0;12;0;1832;  0;200;   0;2021;czerwiec; 2;środa;0,0059;0,8963;0,0978;446;165;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-06-03;2044;  0;12;0;1832;  0;200;   0;2021;czerwiec; 3;czwartek;0,0059;0,8963;0,0978;447;166;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-06-04;2065; 21;12;0;1845; 13;208;   8;2021;czerwiec; 4;piątek;0,0058;0,8935;0,1007;448;167; 24,0;239,0; 30,5; 37,0
+Saint Vincent and the Grenadines;2021-06-05;2068;  3;12;0;1845;  0;211;   3;2021;czerwiec; 5;sobota;0,0058;0,8922;0,1020;449;168;108,5;239,0;302,0; 68,5
+Saint Vincent and the Grenadines;2021-06-06;2076;  8;12;0;1845;  0;219;   8;2021;czerwiec; 6;niedziela;0,0058;0,8887;0,1055;450;169; 59,0;239,0;302,0; 37,0
+Saint Vincent and the Grenadines;2021-06-07;2076;  0;12;0;1845;  0;219;   0;2021;czerwiec; 7;poniedziałek;0,0058;0,8887;0,1055;451;170;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-06-08;2092; 16;12;0;1856; 11;224;   5;2021;czerwiec; 8;wtorek;0,0057;0,8872;0,1071;452;171; 32,0;239,0; 35,5; 57,0
+Saint Vincent and the Grenadines;2021-06-09;2092;  0;12;0;1856;  0;224;   0;2021;czerwiec; 9;środa;0,0057;0,8872;0,1071;453;172;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-06-10;2132; 40;12;0;1889; 33;231;   7;2021;czerwiec;10;czwartek;0,0056;0,8860;0,1083;454;173; 14,0;239,0; 15,0; 43,5
+Saint Vincent and the Grenadines;2021-06-11;2132;  0;12;0;1889;  0;231;   0;2021;czerwiec;11;piątek;0,0056;0,8860;0,1083;455;174;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-06-12;2147; 15;12;0;1897;  8;238;   7;2021;czerwiec;12;sobota;0,0056;0,8836;0,1109;456;175; 35,0;239,0; 46,5; 43,5
+Saint Vincent and the Grenadines;2021-06-13;2156;  9;12;0;1898;  1;246;   8;2021;czerwiec;13;niedziela;0,0056;0,8803;0,1141;457;176; 49,5;239,0;120,5; 37,0
+Saint Vincent and the Grenadines;2021-06-14;2156;  0;12;0;1898;  0;246;   0;2021;czerwiec;14;poniedziałek;0,0056;0,8803;0,1141;458;177;317,5;239,0;302,0;248,5
+Saint Vincent and the Grenadines;2021-06-15;2158;  2;12;0;1900;  2;246;   0;2021;czerwiec;15;wtorek;0,0056;0,8804;0,1140;459;178;121,0;239,0; 95,5;248,5
+Saint Vincent and the Grenadines;2021-06-16;2172; 14;12;0;1920; 20;240;  -6;2021;czerwiec;16;środa;0,0055;0,8840;0,1105;460;179; 38,0;239,0; 21,5;440,5
+Saint Vincent and the Grenadines;2021-06-17;2178;  6;12;0;1925;  5;241;   1;2021;czerwiec;17;czwartek;0,0055;0,8838;0,1107;461;180; 74,5;239,0; 68,5; 96,5
+Saint Vincent and the Grenadines;2021-06-18;2183;  5;12;0;1934;  9;237;  -4;2021;czerwiec;18;piątek;0,0055;0,8859;0,1086;462;181; 86,0;239,0; 40,0;431,5
+Saint Vincent and the Grenadines;2021-06-19;2192;  9;12;0;1934;  0;246;   9;2021;czerwiec;19;sobota;0,0055;0,8823;0,1122;463;182; 49,5;239,0;302,0; 29,5
+Saint Vincent and the Grenadines;2021-06-20;2195;  3;12;0;1935;  1;248;   2;2021;czerwiec;20;niedziela;0,0055;0,8815;0,1130;464;183;108,5;239,0;120,5; 77,0
+Saint Vincent and the Grenadines;2021-06-21;2196;  1;12;0;1936;  1;248;   0;2021;czerwiec;21;poniedziałek;0,0055;0,8816;0,1129;465;184;148,0;239,0;120,5;248,5
+Saint Vincent and the Grenadines;2021-06-22;2207; 11;12;0;1941;  5;254;   6;2021;czerwiec;22;wtorek;0,0054;0,8795;0,1151;466;185; 43,0;239,0; 68,5; 50,0
+Saint Vincent and the Grenadines;2021-06-23;2207;  0;12;0;1941;  0;254;   0;2021;czerwiec;23;środa;0,0054;0,8795;0,1151;467;186;317,5;239,0;302,0;248,5
